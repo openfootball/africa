@@ -1,0 +1,4 @@
+
+
+africa.cup,            Africa Cup of Nations / Coupe d'Afrique des Nations
+
