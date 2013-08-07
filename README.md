@@ -12,6 +12,14 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 Free open public domain football data (football.db) for Africa / National Teams (Cup of Nations 2013, Cup of Nations 2015)
 
 
+
+## Build Your Own `football.db` Copy
+
+Use the `sportdb` command line tool to build your own `football.db` copy
+from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+
+
+
 ## Links
 
 ### Africa Cup of Nations
@@ -24,7 +32,7 @@ Free open public domain football data (football.db) for Africa / National Teams 
 Africa Cup of Nations 2013 South Africa
 
 - 19 January - 10 February 2013
-- [Official](http://afcon2013online.com)
+- [Official Site](http://afcon2013online.com)
 
 #### Wikipedia
 
