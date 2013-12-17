@@ -21,3 +21,6 @@ eth, Ethiopia,       ETH, et
 tog, Togo,           TOG, tg
 rsa, South Africa,   RSA, za
 
+
+sen, Senegal,        SEN, sn
+
