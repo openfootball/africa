@@ -3,5 +3,5 @@
 
 
 # -- 2013
-africa-cup!/2013/cup
+africa-cup!/2013--south-africa/cup
 
