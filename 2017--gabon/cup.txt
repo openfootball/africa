@@ -1,0 +1,117 @@
+############################################
+# Africa Cup of Nations 2017 Gabon
+
+
+###########
+# Groups
+
+Group A  |  Burkina Faso	Cameroon	Gabon			Guinea-Bissau
+Group B  |  Senegal			Tunisia		Algeria			Zimbabwe
+Group C  |  Congo DR		Morocco		Côte d'Ivoire	Togo
+Group D  |  Egypt			Ghana		Mali			Uganda
+
+
+
+###############
+# Group A
+
+Matchday 1 / Group A
+
+2017-01-14 17:00   	Gabon		1-1  	Guinea-Bissau
+2017-01-14 20:00   	Burkina Faso	1-1		Cameroon
+
+Matchday 2 / Group A
+
+2017-01-18 17:00   	Gabon		1-1  Burkina Faso
+2017-01-18 20:00   	Cameroon		2-1  Guinea-Bissau
+
+Matchday 3 / Group A
+
+2017-01-22 20:00   	Cameroon			0-0  Gabon
+2017-01-22 20:00   	Guinea-Bissau	0-2  Burkina Faso
+
+
+##################
+# Group B
+
+Matchday 1 / Group B
+
+2017-01-15 17:00   	Algeria	2-2  Zimbabwe
+2017-01-15 20:00   	Tunisia	0-2  Senegal
+
+Matchday 2 / Group B
+
+2017-01-19 17:00   	Algeria	1-2  Tunisia
+2017-01-19 20:00   	Senegal	2-0  Zimbabwe
+
+Matchday 3 / Group B
+
+2017-01-23 20:00   	Senegal	2-2  Algeria
+2017-01-23 20:00   	Zimbabwe	2d-4  Tunisia
+
+
+##################
+# Group C
+
+Matchday 1 / Group C
+
+2017-01-16 17:00   	Côte d'Ivoire	0-0  Togo
+2017-01-16 20:00   	Congo DR		1-0  Morocco
+
+Matchday 2 / Group C
+
+2017-01-20 17:00   	Côte d'Ivoire	2-2  Congo DR
+2017-01-20 20:00   	Morocco  		3-1  Togo
+
+Matchday 3 / Group C
+
+2017-01-24 19:00   	Morocco		1-0  Côte d'Ivoire
+2017-01-24 19:00   	Togo		1-3  Congo DR
+
+
+###################
+# Group D
+
+Matchday 1 / Group D
+
+2017-01-20 17:00   	Ghana	1-0  Uganda
+2017-01-20 20:00   	Mali	0-0  Egypt
+
+Matchday 2 / Group D
+
+2017-01-24 17:00   	Ghana	1-0  Mali
+2017-01-24 20:00   	Egypt	1-0  Uganda
+
+Matchday 3 / Group D
+
+2017-01-28 20:00   	Egypt	1-0  Ghana
+2017-01-28 20:00   	Uganda	1-1  Mali
+
+
+
+#################
+# Knockout phase
+
+Quarter-finals
+
+2017-01-28 17:00   	Burkina Faso		2-0 		Tunisia
+2017-01-28 20:00   	Senegal			0-0 0-0nV 4-5iE 	Cameroon
+2017-01-29 17:00   	Congo DR			1-2   	  	Ghana
+2017-01-29 20:00   	Egypt  			1-0       	Morocco
+
+
+Semi-finals
+
+2017-02-01 20:00   	Burkina Faso	1-1	1-1nV 3-4iE	Egypt
+2017-02-02 20:00   	Cameroon		2-0		Ghana
+
+
+Third place
+
+2017-02-04 20:00   	Burkina Faso	1-0	Ghana
+
+
+Final
+
+2017-02-05 20:00 	Egypt	1-2		Cameroon
+
