@@ -37,7 +37,7 @@ Matchday 3 / Group A
 Matchday 1 / Group B
 
 2015-01-18 17:00   Zambia     	1-1  Congo DR
-2015-01-20 20:00   Tunisia     1-1  Cape Verde
+2015-01-18 20:00   Tunisia     1-1  Cape Verde
 
 Matchday 2 / Group B
 
@@ -60,8 +60,8 @@ Matchday 1 / Group C
 
 Matchday 2 / Group C
 
-(13) 2015-01-23 17:00   Ghana       	2-1  Algeria
-(14) 2015-01-23 20:00   South Africa  	1-1  Senegal
+2015-01-23 17:00   Ghana       	2-1  Algeria
+2015-01-23 20:00   South Africa  	1-1  Senegal
 
 Matchday 3 / Group C
 
@@ -113,5 +113,5 @@ Third place
 
 Final
 
-2015-02-8 20:00   	Côte d'Ivoire  	0-0 0-0nV 9-8iE Ghana
+2015-02-08 20:00   	Côte d'Ivoire  	0-0 0-0nV 9-8iE Ghana
 
