@@ -32,7 +32,7 @@ Matchday 1 / Group A
 ## Build Your Own `africacup.db` Copy
 
 Use the `sportdb` command line tool to build your own `africacup.db` copy
-from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+from the plain text fixtures. [More »](https://github.com/openfootball/datafile)
 
 
 ## Questions? Comments?
