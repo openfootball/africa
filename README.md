@@ -1,42 +1,48 @@
-# Africa (Cup of Nations)
+# Africa (Egypt, Morocco, Algeria, ...)
+
 
 ## What's `football.db`?
 
 A free open public domain football (soccer) database & schema
 for use in any (programming) language
-(e.g. uses plain text fixtures/data sets).
+(e.g. uses plain text datasets for match schedules, results and more).
 More [`football.db` Project Site »](http://openfootball.github.io)
+
 
 ## Intro
 
-Free open public domain football data (football.db) for Africa / Cup of Nations 2013, Cup of Nations 2015, etc.
-Example:
+Free open public domain football datasets include:
 
-~~~
-############################################
-# Africa Cup of Nations 2013 South Africa
-
-Group A  |  South Africa           Cape Verde      Morocco      Angola
-Group B  |  Ghana                  Mali            Congo DR     Niger
-Group C  |  Burkina Faso           Nigeria         Zambia       Ethiopia
-Group D  |  Côte d'Ivoire          Togo            Tunisia      Algeria
-
-Matchday 1 / Group A
-
-(1)  2013-01-19 18:00   South Africa  0-0  Cape Verde
-(2)  2013-01-19 21:00   Angola        0-0  Morocco
-...
-~~~
+- [**Egypt**](egypt) - Premiership
+- [**Morocco**](morocco) - Botola Pro 1
+- and others
 
 
-## Build Your Own `africacup.db` Copy
 
-Use the `sportdb` command line tool to build your own `africacup.db` copy
-from the plain text fixtures. [More »](https://github.com/openfootball/datafile)
+## Build Your Own `football.db` Copy
+
+Try in your working folder (that is, `/africa`):
+
+```
+$ sportdb build
+$ sportdb --verbose build     # or for more (verbose) details incl. debug info
+```
+
+This will
+
+- setup a new single-file SQLite database e.g. `./sport.db`
+- read in all datasets in plain text (`.txt`)
+
+That's it.
+
+
+
+## License
+
+The football.db schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
 
 
 ## Questions? Comments?
 
-Send them along to the
-[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
