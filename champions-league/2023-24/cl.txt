@@ -1,0 +1,328 @@
+= CAF Champions League 2023/24
+
+# Date       Fri Aug/18 2023 - Sat May/25 2024 (281d)
+# Teams      54
+# Matches    138
+
+
+
+Qual. 1. Runde
+[Fri Aug/18]
+  22.00  CS Constantine           0-2 (0-0)  Étoile du Sahel
+  16.00  KMKM                     1-2 (0-1)  St. George SC
+[Sat Aug/19]
+  16.00  APR FC                   1-1 (0-1)  Gaadiidka FC
+         African Stars            2-1 (1-1)  Power Dynamos
+  17.30  CS Bendjé                1-1 (1-1)  Bumamuru FC
+  19.00  Bo Rangers               1-1 (1-1)  LISCR FC
+         AS Real Bamako           0-0  Coton Sport Garoua
+  15.30  Djabal Club              0-1 (0-0)  Orlando Pirates
+[Sun Aug/20]
+  16.00  UD Songo                 1-0 (1-0)  Green Mamba FC
+         Jwaneng Galaxy           2-0 (1-0)  Vipers SC
+  17.00  CD 1º de Agosto          1-0 (0-0)  AS Vita Club
+         AS Ali Sabieh            0-2 (0-1)  Young Africans
+  17.30  AS Otôho                 1-1 (1-1)  Al Merrikh SC
+  18.00  Medeama SC               1-0 (1-0)  Remo Stars
+         Dragons Bata             0-2 (0-2)  Big Bullets FC
+         ASKO Kara                0-1 (0-1)  FAR de Rabat
+  19.00  Hafia FC                 0-0  AS Génération Foot
+         Coton FC                 0-0  ASEC Mimosas
+         FC Nouadhibou            2-0 (0-0)  Al Ahly Tripolis
+  20.00  Al Ahly Benghazi         4-3 (2-1)  Enyimba Aba
+  21.00  Wau Salaam FC            0-3  Al Hilal Omdurman        [awarded]
+[Thu Aug/24]
+  16.00  Gaadiidka FC             0-2 (0-0)  APR FC
+[Fri Aug/25]
+  15.00  Bumamuru FC              5-1 (2-1)  CS Bendjé
+  16.00  Al Merrikh SC            0-0  AS Otôho
+  20.30  Orlando Pirates          3-0 (1-0)  Djabal Club
+[Sat Aug/26]
+  22.00  FAR de Rabat             7-0 (4-0)  ASKO Kara
+  16.00  Power Dynamos            1-0 (1-0)  African Stars
+         Green Mamba FC           1-1 (0-0)  UD Songo
+         Al Hilal Omdurman        3-0  Wau Salaam FC            [awarded]
+  17.00  Young Africans           5-1 (2-0)  AS Ali Sabieh
+  18.00  Étoile du Sahel          1-0 (1-0)  CS Constantine
+  20.00  Vipers SC                2-1 (2-0)  Jwaneng Galaxy
+[Sun Aug/27]
+  18.00  Remo Stars               2-3 pen. (1-0, 0-0)  Medeama SC
+  16.00  St. George SC            3-1 (0-1)  KMKM
+         Big Bullets FC           1-0 (0-0)  Dragons Bata
+  17.00  Enyimba Aba              0-0  Al Ahly Benghazi
+         Coton Sport Garoua       0-2 (0-1)  AS Real Bamako
+         AS Vita Club             1-1 (1-0)  CD 1º de Agosto
+  19.00  ASEC Mimosas             2-0 (1-0)  Coton FC
+  18.00  Al Ahly Tripolis         1-0 (0-0)  FC Nouadhibou
+  18.30  LISCR FC                 0-1 (0-1)  Bo Rangers
+  22.00  AS Génération Foot       2-2 (0-1)  Hafia FC
+[Tue Aug/29]
+  19.00  AS Douanes               3-0  AS GNN Niamey            [awarded]
+[Fri Sep/1]
+  16.00  AS GNN Niamey            0-3  AS Douanes               [awarded]
+
+
+Qual. 2. Runde
+[Fri Sep/15]
+  16.00  Bumamuru FC              0-4 (0-3)  Mamelodi Sundowns
+[Sat Sep/16]
+  16.00  Power Dynamos            2-2 (1-0)  Simba SC
+         Al Merrikh SC            0-2 (0-0)  Young Africans
+  18.00  Étoile du Sahel          1-0 (0-0)  FAR de Rabat
+  19.00  AS Real Bamako           0-3 (0-1)  FC Nouadhibou
+[Sun Sep/17]
+  16.00  APR FC                   0-0  Pyramids FC
+         UD Songo                 1-2 (0-0)  Petro Atlético
+         Big Bullets FC           0-1 (0-1)  TP Mazembe
+         Jwaneng Galaxy           1-0 (1-0)  Orlando Pirates
+  18.00  Medeama SC               3-1 (0-0)  Horoya AC
+         CD 1º de Agosto          0-0  Al Hilal Omdurman
+  19.00  Hafia FC                 1-1 (1-1)  Wydad AC
+         AS Douanes               0-1 (0-1)  Espérance de Tunis
+         Bo Rangers               1-3 (1-1)  CR Bélouizdad
+[Mon Sep/18]
+  17.30  Al Ahly Benghazi         0-0  ASEC Mimosas
+[Sun Sep/24]
+  20.00  St. George SC            0-3 (0-1)  Al Ahly SC
+[Fri Sep/29]
+  19.00  Al Ahly SC               4-0 (3-0)  St. George SC
+  20.30  Orlando Pirates          4-5 pen. (1-0, 0-0)  Jwaneng Galaxy
+  18.00  Pyramids FC              6-1 (2-0)  APR FC
+[Sat Sep/30]
+  16.00  TP Mazembe               4-0 (4-0)  Big Bullets FC
+  17.00  Petro Atlético           3-1 (1-0)  UD Songo
+  19.00  Espérance de Tunis       0-0  AS Douanes
+         Horoya AC                2-1 (1-1)  Medeama SC
+         Mamelodi Sundowns        2-0 (1-0)  Bumamuru FC
+         Young Africans           1-0 (0-0)  Al Merrikh SC
+  21.30  FAR de Rabat             1-2 (0-1)  Étoile du Sahel
+  22.00  Wydad AC                 3-0 (2-0)  Hafia FC
+[Sun Oct/1]
+  19.00  ASEC Mimosas             2-1 (2-1)  Al Ahly Benghazi
+  21.00  FC Nouadhibou            1-1 (0-0)  AS Real Bamako
+         Al Hilal Omdurman        2-1 (2-0)  CD 1º de Agosto
+  16.00  Simba SC                 1-1 (0-1)  Power Dynamos
+[Mon Oct/2]
+  20.00  CR Bélouizdad            3-1 (0-1)  Bo Rangers
+
+
+Gruppe A
+[Fri Nov/24]
+  18.00  Pyramids FC              1-0 (0-0)  TP Mazembe
+
+
+Gruppe D
+[Fri Nov/24]
+  21.00  CR Bélouizdad            3-0 (2-0)  Young Africans
+
+
+Gruppe B
+[Sat Nov/25]
+  15.00  Simba SC                 1-1 (1-0)  ASEC Mimosas
+  21.00  Wydad AC                 0-1 (0-1)  Jwaneng Galaxy
+
+
+Gruppe C
+[Sat Nov/25]
+  18.00  Espérance de Tunis       2-0 (0-0)  Étoile du Sahel
+
+
+Gruppe D
+[Sat Nov/25]
+  21.00  Al Ahly SC               3-0 (0-0)  Medeama SC
+
+
+Gruppe C
+[Sat Nov/25]
+  18.00  Petro Atlético           1-0 (1-0)  Al Hilal Omdurman
+
+
+Gruppe A
+[Sun Nov/26]
+  15.00  Mamelodi Sundowns        3-0 (2-0)  FC Nouadhibou
+
+
+Gruppe C
+[Fri Dec/1]
+  18.00  Al Hilal Omdurman        3-1 (2-0)  Espérance de Tunis
+
+
+Gruppe D
+[Fri Dec/1]
+  18.00  Medeama SC               2-1 (1-1)  CR Bélouizdad
+
+
+Gruppe B
+[Sat Dec/2]
+  21.00  ASEC Mimosas             1-0 (0-0)  Wydad AC
+
+
+Gruppe C
+[Sat Dec/2]
+  21.00  Étoile du Sahel          0-2 (0-1)  Petro Atlético
+
+
+Gruppe A
+[Sat Dec/2]
+  18.00  FC Nouadhibou            2-0 (1-0)  Pyramids FC
+  15.00  TP Mazembe               1-0 (0-0)  Mamelodi Sundowns
+
+
+Gruppe B
+[Sat Dec/2]
+  15.00  Jwaneng Galaxy           0-0  Simba SC
+
+
+Gruppe D
+[Sat Dec/2]
+  18.00  Young Africans           1-1 (0-0)  Al Ahly SC
+[Fri Dec/8]
+  18.00  Al Ahly SC               0-0  CR Bélouizdad
+         Medeama SC               1-1 (1-1)  Young Africans
+
+
+Gruppe C
+[Fri Dec/8]
+  21.00  Étoile du Sahel          1-0 (0-0)  Al Hilal Omdurman
+
+
+Gruppe A
+[Sat Dec/9]
+  18.00  FC Nouadhibou            0-0  TP Mazembe
+
+
+Gruppe B
+[Sat Dec/9]
+  15.00  Jwaneng Galaxy           0-2 (0-0)  ASEC Mimosas
+  21.00  Wydad AC                 1-0 (0-0)  Simba SC
+
+
+Gruppe C
+[Sat Dec/9]
+  21.00  Espérance de Tunis       0-0  Petro Atlético
+
+
+Gruppe A
+[Sun Dec/10]
+  15.00  Mamelodi Sundowns        0-0  Pyramids FC
+[Tue Dec/19]
+  15.00  TP Mazembe               2-0 (0-0)  FC Nouadhibou
+
+
+Gruppe B
+[Tue Dec/19]
+  18.00  ASEC Mimosas             3-0 (1-0)  Jwaneng Galaxy
+
+
+Gruppe C
+[Tue Dec/19]
+  21.00  Al Hilal Omdurman        1-1 (1-0)  Étoile du Sahel
+  18.00  Petro Atlético           0-0  Espérance de Tunis
+
+
+Gruppe B
+[Tue Dec/19]
+  15.00  Simba SC                 2-0 (2-0)  Wydad AC
+
+
+Gruppe A
+[Tue Dec/19]
+  18.00  Pyramids FC              0-1 (0-1)  Mamelodi Sundowns
+
+
+Gruppe D
+[Wed Dec/20]
+  15.00  Young Africans           3-0 (1-0)  Medeama SC
+[Fri Feb/16]
+  21.00  CR Bélouizdad            0-0  Al Ahly SC
+
+
+Gruppe C
+[Fri Feb/23]
+  18.00  Al Hilal Omdurman        0-0  Petro Atlético
+
+
+Gruppe D
+[Fri Feb/23]
+  18.00  Medeama SC               0-1 (0-0)  Al Ahly SC
+
+
+Gruppe B
+[Fri Feb/23]
+  21.00  ASEC Mimosas             0-0  Simba SC
+
+
+Gruppe A
+[Sat Feb/24]
+  18.00  FC Nouadhibou            0-2 (0-1)  Mamelodi Sundowns
+  15.00  TP Mazembe               3-0 (2-0)  Pyramids FC
+
+
+Gruppe D
+[Sat Feb/24]
+  18.00  Young Africans           4-0 (1-0)  CR Bélouizdad
+
+
+Gruppe C
+[Sat Feb/24]
+  21.00  Étoile du Sahel          0-2 (0-2)  Espérance de Tunis
+
+
+Gruppe B
+[Sat Feb/24]
+  15.00  Jwaneng Galaxy           0-1 (0-1)  Wydad AC
+
+
+Gruppe D
+[Fri Mar/1]
+  18.00  Al Ahly SC               1-0 (0-0)  Young Africans
+         CR Bélouizdad            3-0 (2-0)  Medeama SC
+
+
+Gruppe C
+[Sat Mar/2]
+  21.00  Petro Atlético           2-0 (1-0)  Étoile du Sahel
+         Espérance de Tunis       1-0 (1-0)  Al Hilal Omdurman
+
+
+Gruppe A
+[Sat Mar/2]
+  15.00  Mamelodi Sundowns        1-0 (1-0)  TP Mazembe
+         Pyramids FC              2-2 (0-0)  FC Nouadhibou
+
+
+Gruppe B
+[Sat Mar/2]
+  18.00  Wydad AC                 1-0 (1-0)  ASEC Mimosas
+         Simba SC                 6-0 (3-0)  Jwaneng Galaxy
+
+
+Quarterfinals
+[Fri Mar/29]
+  20.00  Simba SC                 0-1 (0-1)  Al Ahly SC
+[Sat Mar/30]
+  20.00  Young Africans           0-0  Mamelodi Sundowns
+  23.00  Espérance de Tunis       0-0  ASEC Mimosas
+  15.00  TP Mazembe               0-0  Petro Atlético
+[Fri Apr/5]
+  22.00  Al Ahly SC               2-0 (0-0)  Simba SC
+  20.00  Mamelodi Sundowns        3-2 pen. (0-0)  Young Africans
+[Sat Apr/6]
+  18.00  Petro Atlético           1-2 (1-0)  TP Mazembe
+  22.00  ASEC Mimosas             1-4 pen. (0-0)  Espérance de Tunis
+
+
+Semifinals
+[Sat Apr/20]
+  21.00  Espérance de Tunis       1-0 (1-0)  Mamelodi Sundowns
+  15.00  TP Mazembe               0-0  Al Ahly SC
+[Fri Apr/26]
+  22.00  Al Ahly SC               3-0 (0-0)  TP Mazembe
+  21.00  Mamelodi Sundowns        0-1 (0-0)  Espérance de Tunis
+
+
+Final
+[Sat May/18]
+  22.00  Espérance de Tunis       0-0  Al Ahly SC
+[Sat May/25]
+  20.00  Al Ahly SC               1-0 (1-0)  Espérance de Tunis
