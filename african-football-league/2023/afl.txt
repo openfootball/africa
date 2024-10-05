@@ -8,31 +8,31 @@
 
 Quarterfinals
 [Fri Oct/20]
-  18.00  Simba SC                 2-2  Al Ahly SC
+  18.00  Simba SC (TAN)           2-2  Al Ahly SC (EGY)
 [Sat Oct/21]
-  18.30  Petro Atlético           0-2  Mamelodi Sundowns
+  18.30  Petro Atlético (ANG)     0-2  Mamelodi Sundowns (RSA)
 [Sun Oct/22]
-  21.00  Enyimba Aba              0-1  Wydad AC
-  18.00  TP Mazembe               1-0  Espérance de Tunis
+  21.00  Enyimba Aba (NGA)        0-1  Wydad AC (MAR)
+  18.00  TP Mazembe (COD)         1-0  Espérance de Tunis (TUN)
 [Tue Oct/24]
-  20.00  Mamelodi Sundowns        0-0  Petro Atlético
-  17.00  Al Ahly SC               1-1  Simba SC
+  20.00  Mamelodi Sundowns (RSA)  0-0  Petro Atlético (ANG)
+  17.00  Al Ahly SC (EGY)         1-1  Simba SC (TAN)
 [Thu Oct/26]
-  18.00  Espérance de Tunis       3-0  TP Mazembe
-  21.00  Wydad AC                 3-0  Enyimba Aba
+  18.00  Espérance de Tunis (TUN)  3-0  TP Mazembe (COD)
+  21.00  Wydad AC (MAR)           3-0  Enyimba Aba (NGA)
 
 
 Semifinals
 [Sun Oct/29]
-  20.00  Wydad AC                 1-0  Espérance de Tunis
-  15.00  Mamelodi Sundowns        1-0  Al Ahly SC
+  20.00  Wydad AC (MAR)           1-0  Espérance de Tunis (TUN)
+  15.00  Mamelodi Sundowns (RSA)  1-0  Al Ahly SC (EGY)
 [Wed Nov/1]
-  20.00  Al Ahly SC               0-0  Mamelodi Sundowns
-  17.00  Espérance de Tunis       -  Wydad AC
+  20.00  Al Ahly SC (EGY)         0-0  Mamelodi Sundowns (RSA)
+  17.00  Espérance de Tunis (TUN)  -  Wydad AC (MAR)
 
 
 Final
 [Sun Nov/5]
-  20.00  Wydad AC                 2-1  Mamelodi Sundowns
+  20.00  Wydad AC (MAR)           2-1  Mamelodi Sundowns (RSA)
 [Sun Nov/12]
-  15.00  Mamelodi Sundowns        2-0  Wydad AC
+  15.00  Mamelodi Sundowns (RSA)  2-0  Wydad AC (MAR)
