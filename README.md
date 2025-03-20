@@ -4,7 +4,7 @@ Match fixtures & results for all world cups (1930 to 2022)
 incl. goal scorers, lineups, penalty shootouts, sent offs, and more
 using the Football.TXT format.
 
-Example - [2022_worldcup.txt](worldcup/2022_worldcup.txt):
+Example - [worldcup/2022_worldcup.txt](worldcup/2022_worldcup.txt):
 
 
 ```
