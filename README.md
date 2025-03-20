@@ -61,3 +61,9 @@ see [openfootball/worldcup](https://github.com/openfootball/worldcup).
 
 
 
+
+## Questions? Comments?
+
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
+
