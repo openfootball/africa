@@ -1,0 +1,232 @@
+= World Cup 1934
+
+  # Matches  17
+  # Teams    16
+
+
+
+» Round of 16
+Sun May/27 1934 @ Stadio Benito Mussolini › Turin, Italy
+  Austria v France  3-2 [aet]
+    Matthias Sindelar 44' Anton Schall 93' Josef Bican 109';
+    Jean Nicolas 18' Georges Verriest 116'(p)
+
+Austria: Peter Platzer, Karl Sesta, Franz Cisar, Josef Smistik, 
+   Johann Urbanek, Franz Wagner, Josef Bican, Anton Schall, 
+   Matthias Sindelar, Rudolf Viertl, Karl Zischek
+France: Alex Thépot, Jacques Mairesse, Étienne Mattler, Noël Liétaer, 
+   Roger Rio, Georges Verriest, Edmond Delfour, Joseph Alcazar, 
+   Alfred Aston, Fritz Keller, Jean Nicolas
+
+
+Sun May/27 @ Stadio Littorio › Trieste, Italy
+  Czechoslovakia v Romania  2-1
+    Antonín Puč 50' Oldřich Nejedlý 67';
+    Ștefan Dobay 11'
+
+Czechoslovakia: František Plánička, Josef Čtyřoký, Ladislav Ženíšek, Štefan Čambal, 
+   Josef Košťálek, Rudolf Krčil, Oldřich Nejedlý, Antonín Puč, 
+   František Junek, Josef Silný, Jiří Sobotka
+Romania: Vilmos Zombori, Emerich Vogl, Gheorghe Albu, Rudolf Kotormány, 
+   Vasile Deheleanu, József Moravetz, Grațian Sepi, Silviu Bindea, 
+   Iuliu Bodola, Ștefan Dobay, Nicolae Kovács
+
+
+Sun May/27 @ Stadio Giovanni Berta › Florence, Italy
+  Germany v Belgium  5-2
+    Stanislaus Kobierski 25' Otto Siffling 49' Edmund Conen 66' Edmund Conen 70' Edmund Conen 87';
+    Bernard Voorhoof 29' Bernard Voorhoof 43'
+
+Germany: Willibald Kreß, Sigmund Haringer, Paul Janes, Hans Schwartz, 
+   Paul Zielinski, Karl Hohmann, Fritz Szepan, Edmund Conen, 
+   Stanislaus Kobierski, Ernst Lehner, Otto Siffling
+Belgium: André Vandewyer, Constant Joacim, Philibert Smellinckx, 
+   Félix Welkenhuysen, Jean Claessens, Frans Peeraer, Jean Capelle, 
+   François Devries, Laurent Grimmonprez, Bernard Voorhoof, 
+   Albert Heremans
+
+
+Sun May/27 @ Stadio Giorgio Ascarelli › Naples, Italy
+  Hungary v Egypt  4-2
+    Pál Teleki 11' Géza Toldi 31' Jenő Vincze 53' Géza Toldi 61';
+    Abdulrahman Fawzi 35' Abdulrahman Fawzi 39'
+
+Hungary: Antal Szabó, László Sternberg, Gyula Futó, Gyula Lázár, 
+   István Palotás, György Szűcs, Imre Markos, Gábor Szabó, 
+   Pál Teleki, Géza Toldi, Jenő Vincze
+Egypt: Ali El-Kaf, Hamidu, Ismail Rafaat, Hassan El-Far, Hassan Raghab, 
+   Mahmoud Mokhtar, Kamel Mosaoud, Mohammed Hassan, Mohamed Latif, 
+   Mostafa Taha, Abdulrahman Fawzi
+
+Sent off: Imre Markos 60'
+
+
+Sun May/27 @ Stadio Nazionale PNF › Rome, Italy
+  Italy v United States  7-1
+    Angelo Schiavio 18' Raimundo Orsi 20' Angelo Schiavio 29' Giovanni Ferrari 63' Angelo Schiavio 64' Raimundo Orsi 69' Giuseppe Meazza 90';
+    Aldo Donelli 57'
+
+Italy: Gianpiero Combi, Virginio Rosetta, Luigi Allemandi, Luigi Bertolini, 
+   Giuseppe Meazza, Luis Monti, Mario Pizziolo, Giovanni Ferrari, 
+   Raimundo Orsi, Angelo Schiavio, Anfilogino Guarisi
+United States: Julius Hjulian, George Moorhouse, Ed Czerkiewicz, Peter Pietras, 
+   Walter Dick, Aldo Donelli, Tom Florie, Billy Gonsalves, 
+   Willie McLean, Werner Nilsen, Francis Ryan
+
+
+Sun May/27 @ Stadio Luigi Ferraris › Genoa, Italy
+  Spain v Brazil  3-1
+    José Iraragorri 18'(p) José Iraragorri 25' Isidro Lángara 29';
+    Leônidas 55'
+
+Spain: Ricardo Zamora, Jacinto Quincoces, Ciriaco, Martín Marculeta, 
+   Leonardo Cilaurren, Simón Lecue, José Muguerza, José Iraragorri, 
+   Guillermo Gorostiza, Lafuente, Isidro Lángara
+Brazil: Pedrosa, Luiz Luz, Sylvio Hoffmann, Martim, Canalli, Tinoco, 
+   Waldemar de Brito, Patesko, Armandinho, Leônidas, Luisinho
+
+
+Sun May/27 @ Stadio Renato Dall'Ara › Bologna, Italy
+  Sweden v Argentina  3-2
+    Sven Jonasson 9' Sven Jonasson 67' Knut Kroon 79';
+    Ernesto Belis 4' Alberto Galateo 48'
+
+Sweden: Anders Rydberg, Nils Axelsson, Sven Andersson, Nils Rosén, 
+   Ernst Andersson, Rune Carlsson, Gösta Dunker, Ragnar Gustavsson, 
+   Sven Jonasson, Tore Keller, Knut Kroon
+Argentina: Héctor Freschi, Ernesto Belis, Juan Pedevilla, Arcadio López, 
+   José Nehin, Constantino Urbieta Sosa, Alfredo Devincenzi, 
+   Alberto Galateo, Roberto Irañeta, Francisco Rúa, Federico Wilde
+
+
+Sun May/27 @ San Siro › Milan, Italy
+  Switzerland v Netherlands  3-2
+    Leopold Kielholz 7' Leopold Kielholz 43' André Abegglen 66';
+    Kick Smit 29' Leen Vente 69'
+
+Switzerland: Frank Séchehaye, Severino Minelli, Walter Weiler, Albert Guinchard, 
+   Ernst Hufschmid, Fernand Jaccard, André Abegglen, Joseph Bossi, 
+   Leopold Kielholz, Raymond Passello, Willy von Känel
+Netherlands: Gejus van der Meulen, Sjef van Run, Mauk Weber, Puck van Heel, 
+   Wim Anderiesen, Henk Pellikaan, Beb Bakhuys, Kick Smit, 
+   Joop van Nellen, Leen Vente, Frank Wels
+
+
+» Quarter-finals
+Thu May/31 @ Stadio Renato Dall'Ara › Bologna, Italy
+  Austria v Hungary  2-1
+    Johann Horvath 8' Karl Zischek 51';
+    György Sárosi 60'(p)
+
+Austria: Peter Platzer, Karl Sesta, Franz Cisar, Josef Smistik, Franz Wagner, 
+   Johann Urbanek, Johann Horvath, Josef Bican, Matthias Sindelar, 
+   Rudolf Viertl, Karl Zischek
+Hungary: Antal Szabó, László Sternberg, József Vágó, István Palotás, 
+   György Szűcs, Antal Szalay, Géza Toldi, György Sárosi, 
+   István Avar, Tibor Kemény, Imre Markos
+
+
+Thu May/31 @ Stadio Benito Mussolini › Turin, Italy
+  Czechoslovakia v Switzerland  3-2
+    František Svoboda 24' Jiří Sobotka 49' Oldřich Nejedlý 82';
+    Leopold Kielholz 18' Willy Jäggi 78'
+
+Czechoslovakia: František Plánička, Josef Čtyřoký, Ladislav Ženíšek, Štefan Čambal, 
+   Josef Košťálek, Rudolf Krčil, Oldřich Nejedlý, Antonín Puč, 
+   František Junek, František Svoboda, Jiří Sobotka
+Switzerland: Frank Séchehaye, Severino Minelli, Walter Weiler, Albert Guinchard, 
+   Ernst Hufschmid, Fernand Jaccard, André Abegglen, Willy Jäggi, 
+   Leopold Kielholz, Alfred Jäck, Willy von Känel
+
+
+Thu May/31 @ San Siro › Milan, Italy
+  Germany v Sweden  2-1
+    Karl Hohmann 60' Karl Hohmann 63';
+    Gösta Dunker 82'
+
+Germany: Willibald Kreß, Sigmund Haringer, Willy Busch, Rudolf Gramlich, 
+   Paul Zielinski, Karl Hohmann, Fritz Szepan, Edmund Conen, 
+   Stanislaus Kobierski, Ernst Lehner, Otto Siffling
+Sweden: Anders Rydberg, Nils Axelsson, Sven Andersson, Nils Rosén, 
+   Ernst Andersson, Rune Carlsson, Gösta Dunker, Ragnar Gustavsson, 
+   Sven Jonasson, Tore Keller, Knut Kroon
+
+
+Thu May/31 @ Stadio Giovanni Berta › Florence, Italy
+  Italy v Spain  1-1 [aet]
+    Giovanni Ferrari 44';
+    Luis Regueiro 30'
+
+Italy: Gianpiero Combi, Eraldo Monzeglio, Luigi Allemandi, 
+   Armando Castellazzi, Giuseppe Meazza, Luis Monti, Mario Pizziolo, 
+   Giovanni Ferrari, Raimundo Orsi, Angelo Schiavio, Enrique Guaita
+Spain: Ricardo Zamora, Jacinto Quincoces, Ciriaco, Fede, Leonardo Cilaurren, 
+   José Muguerza, José Iraragorri, Luis Regueiro, 
+   Guillermo Gorostiza, Lafuente, Isidro Lángara
+
+
+» Quarter-finals - Replay
+Fri Jun/1 @ Stadio Giovanni Berta › Florence, Italy
+  Italy v Spain  1-0
+    Giuseppe Meazza 11'
+
+Italy: Gianpiero Combi, Eraldo Monzeglio, Luigi Allemandi, Luigi Bertolini, 
+   Giuseppe Meazza, Luis Monti, Giovanni Ferrari, Felice Borel, 
+   Raimundo Orsi, Attilio Demaría, Enrique Guaita
+Spain: Juan José Nogués, Jacinto Quincoces, Ramón Zabalo, Simón Lecue, 
+   Leonardo Cilaurren, Crisant Bosch, José Muguerza, Martí Ventolrà, 
+   Campanal I, Chacho, Luis Regueiro
+
+
+» Semi-finals
+Sun Jun/3 @ Stadio Nazionale PNF › Rome, Italy
+  Czechoslovakia v Germany  3-1
+    Oldřich Nejedlý 21' Oldřich Nejedlý 69' Oldřich Nejedlý 80';
+    Rudolf Noack 62'
+
+Czechoslovakia: František Plánička, Josef Čtyřoký, Jaroslav Burgr, Štefan Čambal, 
+   Josef Košťálek, Rudolf Krčil, Oldřich Nejedlý, Antonín Puč, 
+   František Junek, František Svoboda, Jiří Sobotka
+Germany: Willibald Kreß, Sigmund Haringer, Willy Busch, Jakob Bender, 
+   Paul Zielinski, Fritz Szepan, Edmund Conen, Rudolf Noack, 
+   Stanislaus Kobierski, Ernst Lehner, Otto Siffling
+
+
+Sun Jun/3 @ San Siro › Milan, Italy
+  Italy v Austria  1-0
+    Enrique Guaita 19'
+
+Italy: Gianpiero Combi, Eraldo Monzeglio, Luigi Allemandi, Luigi Bertolini, 
+   Giuseppe Meazza, Luis Monti, Attilio Ferraris, Giovanni Ferrari, 
+   Raimundo Orsi, Angelo Schiavio, Enrique Guaita
+Austria: Peter Platzer, Karl Sesta, Franz Cisar, Josef Smistik, Franz Wagner, 
+   Johann Urbanek, Anton Schall, Josef Bican, Matthias Sindelar, 
+   Rudolf Viertl, Karl Zischek
+
+
+» Third-place match
+Thu Jun/7 @ Stadio Giorgio Ascarelli › Naples, Italy
+  Germany v Austria  3-2
+    Ernst Lehner 1' Edmund Conen 27' Ernst Lehner 42';
+    Johann Horvath 28' Karl Sesta 54'
+
+Germany: Hans Jakob, Paul Janes, Willy Busch, Reinhold Münzenberg, 
+   Jakob Bender, Paul Zielinski, Fritz Szepan, Edmund Conen, 
+   Matthias Heidemann, Ernst Lehner, Otto Siffling
+Austria: Peter Platzer, Karl Sesta, Franz Cisar, Josef Smistik, Franz Wagner, 
+   Johann Urbanek, Johann Horvath, Josef Bican, Georg Braun, 
+   Rudolf Viertl, Karl Zischek
+
+
+» Final
+Sun Jun/10 @ Stadio Nazionale PNF › Rome, Italy
+  Italy v Czechoslovakia  2-1 [aet]
+    Raimundo Orsi 81' Angelo Schiavio 95';
+    Antonín Puč 71'
+
+Italy: Gianpiero Combi, Eraldo Monzeglio, Luigi Allemandi, Luigi Bertolini, 
+   Giuseppe Meazza, Luis Monti, Attilio Ferraris, Giovanni Ferrari, 
+   Raimundo Orsi, Angelo Schiavio, Enrique Guaita
+Czechoslovakia: František Plánička, Josef Čtyřoký, Ladislav Ženíšek, Štefan Čambal, 
+   Josef Košťálek, Rudolf Krčil, Oldřich Nejedlý, Antonín Puč, 
+   František Junek, František Svoboda, Jiří Sobotka

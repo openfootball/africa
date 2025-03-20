@@ -1,0 +1,349 @@
+= World Cup 1954
+
+  # Matches  26
+  # Teams    16
+
+
+
+» Group stage - Group 1
+Wed Jun/16 1954 @ Charmilles Stadium › Geneva, Switzerland
+  Brazil v Mexico  5-0
+    Baltazar 23' Didi 30' Pinga 34' Pinga 43' Julinho 69'
+
+Brazil: Carlos José Castilho, Djalma Santos, Nílton Santos, Brandãozinho, 
+   Bauer, Pinheiro, Didi, Julinho, Baltazar, Pinga, Rodrigues
+Mexico: Salvador Mota, Narciso López, Juan Gómez, Jorge Romo, Raúl Cárdenas, 
+   Rafael Ávalos, José Naranjo, Alfredo Torres, José Luis Lamadrid, 
+   Tomás Balcázar, Raúl Arellano
+
+
+Wed Jun/16 @ Stade Olympique de la Pontaise › Lausanne, Switzerland
+  Yugoslavia v France  1-0
+    Miloš Milutinović 15'
+
+Yugoslavia: Vladimir Beara, Branko Stanković, Tomislav Crnković, Ivica Horvat, 
+   Zlatko Čajkovski, Vujadin Boškov, Stjepan Bobek, Branko Zebec, 
+   Rajko Mitić, Bernard Vukas, Miloš Milutinović
+France: François Remetter, Lazare Gianessi, Raymond Kaelbel, Robert Jonquet, 
+   Armand Penverne, Jean-Jacques Marcel, René Dereuddre, 
+   Léon Glovacki, Raymond Kopa, André Strappe, Jean Vincent
+
+
+» Group stage - Group 3
+Wed Jun/16 @ Hardturm Stadium › Zürich, Switzerland
+  Austria v Scotland  1-0
+    Erich Probst 33'
+
+Austria: Kurt Schmied, Gerhard Hanappi, Ernst Happel, Leopold Barschandt, 
+   Ernst Ocwirk, Karl Koller, Erich Probst, Walter Schleger, 
+   Alfred Körner, Robert Dienst, Robert Körner
+Scotland: Fred Martin, Willie Cunningham, Jock Aird, Jimmy Davidson, 
+   Tommy Docherty, Doug Cowie, John Mackenzie, Allan Brown, 
+   Neil Mochan, Willie Fernie, Willie Ormond
+
+
+Wed Jun/16 @ Wankdorf Stadium › Bern, Switzerland
+  Uruguay v Czechoslovakia  2-0
+    Oscar Míguez 71' Juan Alberto Schiaffino 84'
+
+Uruguay: Roque Máspoli, José Santamaría, William Martínez, Obdulio Varela, 
+   Víctor Rodríguez Andrade, Luis Cruz, Julio Abbadie, Oscar Míguez, 
+   Juan Alberto Schiaffino, Carlos Borges, Javier Ambrois
+Czechoslovakia: Theodor Reimann, Ladislav Novák, František Šafránek, Jiří Trnka, 
+   Jiří Hledík, Jan Hertl, Ladislav Hlaváček, Otto Hemele, 
+   Emil Pažický, Jiří Pešek, Ladislav Kačáni
+
+
+» Group stage - Group 4
+Thu Jun/17 @ Stade Olympique de la Pontaise › Lausanne, Switzerland
+  Switzerland v Italy  2-1
+    Robert Ballaman 18' Josef Hügi 78';
+    Giampiero Boniperti 44'
+
+Switzerland: Eugene Parlier, Marcel Flückiger, André Neury, Roger Bocquet, 
+   Willy Kernen, Charles Casali, Robert Ballaman, Jacques Fatton, 
+   Josef Hügi, Eugen Meier, Roger Vonlanthen
+Italy: Giorgio Ghezzi, Guido Vincenzi, Giovanni Giacomazzi, Maino Neri, 
+   Omero Tognon, Fulvio Nesti, Giampiero Boniperti, Ermes Muccinelli, 
+   Egisto Pandolfini, Carlo Galli, Benito Lorenzi
+
+
+» Group stage - Group 2
+Thu Jun/17 @ Hardturm Stadium › Zürich, Switzerland
+  Hungary v South Korea  9-0
+    Ferenc Puskás 12' Mihály Lantos 18' Sándor Kocsis 24' Sándor Kocsis 36' Sándor Kocsis 50' Zoltán Czibor 59' Péter Palotás 75' Péter Palotás 83' Ferenc Puskás 89'
+
+Hungary: Gyula Grosics, Jenő Buzánszky, Mihály Lantos, Gyula Lóránt, 
+   József Bozsik, László Budai, Ferenc Puskás, Ferenc Szojka, 
+   Sándor Kocsis, Zoltán Czibor, Péter Palotás
+South Korea: Deok-young Hong, Byung-dae Min, Kyu-chung Park, Jae-seung Park, 
+   Chang-gi Kang, Nam-sik Chung, Yung-kwang Chu, Chung-min Choi, 
+   Sang-kwon Woo, Nak-woon Sung, Il-kap Park
+
+
+Thu Jun/17 @ Wankdorf Stadium › Bern, Switzerland
+  West Germany v Turkey  4-1
+    Hans Schäfer 14' Bernhard Klodt 52' Ottmar Walter 60' Max Morlock 84';
+    Suat Mamat 2'
+
+West Germany: Toni Turek, Fritz Laband, Werner Kohlmeyer, Josef Posipal, Karl Mai, 
+   Horst Eckel, Fritz Walter, Max Morlock, Bernhard Klodt, 
+   Ottmar Walter, Hans Schäfer
+Turkey: Turgay Şeren, Rıdvan Bolatlı, Basri Dirimlili, Mustafa Ertan, 
+   Çetin Zeybek, Rober Eryol, Erol Keskin, Suat Mamat, 
+   Feridun Buğeker, Burhan Sargun, Lefter Küçükandonyadis
+
+
+» Group stage - Group 4
+Thu Jun/17 @ St. Jakob Stadium › Basel, Switzerland
+  England v Belgium  4-4 [aet]
+    Ivor Broadis 26' Nat Lofthouse 36' Ivor Broadis 63' Nat Lofthouse 91';
+    Léopold Anoul 5' Henri Coppens 67' Léopold Anoul 71' Jimmy Dickinson 94'(og)
+
+England: Gil Merrick, Ron Staniforth, Roger Byrne, Billy Wright, Syd Owen, 
+   Jimmy Dickinson, Stanley Matthews, Ivor Broadis, Nat Lofthouse, 
+   Tommy Taylor, Tom Finney
+Belgium: Léopold Gernaey, Marcel Dries, Alfons Van Brandt, Constant Huysmans, 
+   Louis Carré, Victor Mees, Joseph Mermans, Denis Houf, 
+   Henri Coppens, Léopold Anoul, Pieter Van Den Bosch
+
+
+» Group stage - Group 3
+Sat Jun/19 @ St. Jakob Stadium › Basel, Switzerland
+  Uruguay v Scotland  7-0
+    Carlos Borges 17' Oscar Míguez 30' Carlos Borges 47' Julio Abbadie 54' Carlos Borges 57' Oscar Míguez 83' Julio Abbadie 85'
+
+Uruguay: Roque Máspoli, José Santamaría, William Martínez, Obdulio Varela, 
+   Víctor Rodríguez Andrade, Luis Cruz, Julio Abbadie, Oscar Míguez, 
+   Juan Alberto Schiaffino, Carlos Borges, Javier Ambrois
+Scotland: Fred Martin, Willie Cunningham, Jock Aird, Jimmy Davidson, 
+   Tommy Docherty, Doug Cowie, John Mackenzie, Allan Brown, 
+   Neil Mochan, Willie Fernie, Willie Ormond
+
+
+» Group stage - Group 1
+Sat Jun/19 @ Stade Olympique de la Pontaise › Lausanne, Switzerland
+  Brazil v Yugoslavia  1-1 [aet]
+    Didi 69';
+    Branko Zebec 48'
+
+Brazil: Carlos José Castilho, Djalma Santos, Nílton Santos, Brandãozinho, 
+   Bauer, Pinheiro, Didi, Julinho, Baltazar, Pinga, Rodrigues
+Yugoslavia: Vladimir Beara, Branko Stanković, Tomislav Crnković, Ivica Horvat, 
+   Zlatko Čajkovski, Vujadin Boškov, Rajko Mitić, Branko Zebec, 
+   Dionizije Dvornić, Bernard Vukas, Miloš Milutinović
+
+
+» Group stage - Group 3
+Sat Jun/19 @ Hardturm Stadium › Zürich, Switzerland
+  Austria v Czechoslovakia  5-0
+    Ernst Stojaspal 3' Erich Probst 4' Erich Probst 21' Erich Probst 24' Ernst Stojaspal 65'
+
+Austria: Kurt Schmied, Gerhard Hanappi, Ernst Happel, Leopold Barschandt, 
+   Ernst Ocwirk, Karl Koller, Erich Probst, Theodor Wagner, 
+   Alfred Körner, Ernst Stojaspal, Robert Körner
+Czechoslovakia: Imrich Stacho, Ladislav Novák, František Šafránek, Jiří Trnka, 
+   Svatopluk Pluskal, Jan Hertl, Ladislav Hlaváček, Otto Hemele, 
+   Emil Pažický, Tadeáš Kraus, Ladislav Kačáni
+
+
+» Group stage - Group 1
+Sat Jun/19 @ Charmilles Stadium › Geneva, Switzerland
+  France v Mexico  3-2
+    Jean Vincent 19' Raúl Cárdenas 46'(og) Raymond Kopa 88'(p);
+    José Luis Lamadrid 54' Tomás Balcázar 85'
+
+France: François Remetter, Roger Marche, Lazare Gianessi, Raymond Kaelbel, 
+   Jean-Jacques Marcel, Abderrahmane Mahjoub, Abdelaziz Ben Tifour, 
+   René Dereuddre, Raymond Kopa, André Strappe, Jean Vincent
+Mexico: Antonio Carbajal, Narciso López, Saturnino Martínez, Jorge Romo, 
+   Raúl Cárdenas, Rafael Ávalos, José Naranjo, Alfredo Torres, 
+   José Luis Lamadrid, Tomás Balcázar, Raúl Arellano
+
+
+» Group stage - Group 2
+Sun Jun/20 @ St. Jakob Stadium › Basel, Switzerland
+  Hungary v West Germany  8-3
+    Sándor Kocsis 3' Ferenc Puskás 17' Sándor Kocsis 21' Nándor Hidegkuti 52' Nándor Hidegkuti 54' Sándor Kocsis 69' József Tóth 75' Sándor Kocsis 78';
+    Alfred Pfaff 25' Helmut Rahn 77' Richard Herrmann 84'
+
+Hungary: Gyula Grosics, Jenő Buzánszky, Mihály Lantos, Gyula Lóránt, 
+   József Bozsik, József Zakariás, Ferenc Puskás, Sándor Kocsis, 
+   József Tóth, Nándor Hidegkuti, Zoltán Czibor
+West Germany: Heinz Kwiatkowski, Hans Bauer, Werner Kohlmeyer, Josef Posipal, 
+   Werner Liebrich, Horst Eckel, Paul Mebus, Alfred Pfaff, 
+   Fritz Walter, Helmut Rahn, Richard Herrmann
+
+
+Sun Jun/20 @ Charmilles Stadium › Geneva, Switzerland
+  Turkey v South Korea  7-0
+    Suat Mamat 10' Lefter Küçükandonyadis 24' Suat Mamat 30' Burhan Sargun 37' Burhan Sargun 64' Burhan Sargun 70' Erol Keskin 76'
+
+Turkey: Turgay Şeren, Rıdvan Bolatlı, Basri Dirimlili, Mustafa Ertan, 
+   Çetin Zeybek, Rober Eryol, Erol Keskin, Suat Mamat, 
+   Feridun Buğeker, Burhan Sargun, Lefter Küçükandonyadis
+South Korea: Deok-young Hong, Kyu-chung Park, Jong-kap Li, Chang-wha Han, 
+   Chang-gi Kang, Ji-sung Kim, Soo-nam Lee, Ki-joo Li, Sang-kwon Woo, 
+   Kook-chin Chung, Yung-keun Choi
+
+
+» Group stage - Group 4
+Sun Jun/20 @ Cornaredo Stadium › Lugano, Switzerland
+  Italy v Belgium  4-1
+    Egisto Pandolfini 41'(p) Carlo Galli 48' Amleto Frignani 58' Benito Lorenzi 78';
+    Léopold Anoul 81'
+
+Italy: Giorgio Ghezzi, Ardico Magnini, Giovanni Giacomazzi, Maino Neri, 
+   Omero Tognon, Fulvio Nesti, Egisto Pandolfini, Gino Cappello, 
+   Amleto Frignani, Carlo Galli, Benito Lorenzi
+Belgium: Léopold Gernaey, Marcel Dries, Alfons Van Brandt, Constant Huysmans, 
+   Louis Carré, Victor Mees, Joseph Mermans, Hippolyte Van Den Bosch, 
+   Henri Coppens, Léopold Anoul, Pieter Van Den Bosch
+
+
+Sun Jun/20 @ Wankdorf Stadium › Bern, Switzerland
+  England v Switzerland  2-0
+    Jimmy Mullen 43' Dennis Wilshaw 69'
+
+England: Gil Merrick, Ron Staniforth, Roger Byrne, Billy Wright, Bill McGarry, 
+   Jimmy Dickinson, Dennis Wilshaw, Ivor Broadis, Jimmy Mullen, 
+   Tommy Taylor, Tom Finney
+Switzerland: Eugene Parlier, André Neury, Roger Bocquet, Oliver Eggimann, 
+   Willy Kernen, Heinz Bigler, Robert Ballaman, Jacques Fatton, 
+   Charles Antenen, Eugen Meier, Roger Vonlanthen
+
+
+» Group stage - Group 2
+Wed Jun/23 @ Hardturm Stadium › Zürich, Switzerland
+  West Germany v Turkey  7-2
+    Ottmar Walter 7' Hans Schäfer 12' Max Morlock 30' Max Morlock 60' Fritz Walter 62' Max Morlock 77' Hans Schäfer 79';
+    Mustafa Ertan 21' Lefter Küçükandonyadis 82'
+
+West Germany: Toni Turek, Fritz Laband, Werner Kohlmeyer, Josef Posipal, Karl Mai, 
+   Horst Eckel, Fritz Walter, Max Morlock, Bernhard Klodt, 
+   Ottmar Walter, Hans Schäfer
+Turkey: Turgay Şeren, Rıdvan Bolatlı, Basri Dirimlili, Mustafa Ertan, 
+   Çetin Zeybek, Rober Eryol, Erol Keskin, Suat Mamat, 
+   Feridun Buğeker, Burhan Sargun, Lefter Küçükandonyadis
+
+
+» Group stage - Group 4
+Wed Jun/23 @ St. Jakob Stadium › Basel, Switzerland
+  Switzerland v Italy  4-1
+    Josef Hügi 14' Robert Ballaman 48' Josef Hügi 85' Jacques Fatton 90';
+    Fulvio Nesti 67'
+
+Switzerland: Eugene Parlier, Marcel Flückiger, André Neury, Roger Bocquet, 
+   Willy Kernen, Charles Casali, Robert Ballaman, Jacques Fatton, 
+   Josef Hügi, Eugen Meier, Roger Vonlanthen
+Italy: Giorgio Ghezzi, Guido Vincenzi, Giovanni Giacomazzi, Maino Neri, 
+   Omero Tognon, Fulvio Nesti, Giampiero Boniperti, 
+   Egisto Pandolfini, Ermes Muccinelli, Carlo Galli, Benito Lorenzi
+
+
+» Quarter-finals
+Sat Jun/26 @ Stade Olympique de la Pontaise › Lausanne, Switzerland
+  Austria v Switzerland  7-5
+    Theodor Wagner 25' Alfred Körner 26' Theodor Wagner 27' Ernst Ocwirk 32' Alfred Körner 34' Theodor Wagner 53' Erich Probst 76';
+    Robert Ballaman 16' Josef Hügi 17' Josef Hügi 19' Robert Ballaman 39' Josef Hügi 60'
+
+Austria: Kurt Schmied, Gerhard Hanappi, Ernst Happel, Leopold Barschandt, 
+   Ernst Ocwirk, Karl Koller, Erich Probst, Theodor Wagner, 
+   Alfred Körner, Ernst Stojaspal, Robert Körner
+Switzerland: Eugene Parlier, André Neury, Roger Bocquet, Oliver Eggimann, 
+   Willy Kernen, Charles Casali, Robert Ballaman, Jacques Fatton, 
+   Josef Hügi, Charles Antenen, Roger Vonlanthen
+
+
+Sat Jun/26 @ St. Jakob Stadium › Basel, Switzerland
+  Uruguay v England  4-2
+    Carlos Borges 5' Obdulio Varela 39' Juan Alberto Schiaffino 46' Javier Ambrois 78';
+    Nat Lofthouse 16' Tom Finney 67'
+
+Uruguay: Roque Máspoli, José Santamaría, William Martínez, Obdulio Varela, 
+   Víctor Rodríguez Andrade, Luis Cruz, Julio Abbadie, Oscar Míguez, 
+   Juan Alberto Schiaffino, Carlos Borges, Javier Ambrois
+England: Gil Merrick, Ron Staniforth, Roger Byrne, Billy Wright, Bill McGarry, 
+   Jimmy Dickinson, Dennis Wilshaw, Ivor Broadis, Nat Lofthouse, 
+   Stanley Matthews, Tom Finney
+
+
+Sun Jun/27 @ Wankdorf Stadium › Bern, Switzerland
+  Hungary v Brazil  4-2
+    Nándor Hidegkuti 4' Sándor Kocsis 7' Mihály Lantos 60'(p) Sándor Kocsis 88';
+    Djalma Santos 18'(p) Julinho 65'
+
+Hungary: Gyula Grosics, Jenő Buzánszky, Mihály Lantos, Gyula Lóránt, 
+   József Bozsik, József Zakariás, Mihály Tóth, Sándor Kocsis, 
+   József Tóth, Nándor Hidegkuti, Zoltán Czibor
+Brazil: Carlos José Castilho, Djalma Santos, Nílton Santos, Brandãozinho, 
+   Bauer, Pinheiro, Didi, Julinho, Maurinho, Humberto, Índio
+
+Sent off: Índio 60'
+
+
+Sun Jun/27 @ Charmilles Stadium › Geneva, Switzerland
+  West Germany v Yugoslavia  2-0
+    Ivica Horvat 9'(og) Helmut Rahn 85'
+
+West Germany: Toni Turek, Fritz Laband, Werner Kohlmeyer, Werner Liebrich, 
+   Karl Mai, Horst Eckel, Fritz Walter, Max Morlock, Helmut Rahn, 
+   Ottmar Walter, Hans Schäfer
+Yugoslavia: Vladimir Beara, Branko Stanković, Tomislav Crnković, Ivica Horvat, 
+   Zlatko Čajkovski, Vujadin Boškov, Rajko Mitić, Branko Zebec, 
+   Stjepan Bobek, Bernard Vukas, Miloš Milutinović
+
+
+» Semi-finals
+Wed Jun/30 @ Stade Olympique de la Pontaise › Lausanne, Switzerland
+  Hungary v Uruguay  4-2 [aet]
+    Zoltán Czibor 13' Nándor Hidegkuti 46' Sándor Kocsis 111' Sándor Kocsis 116';
+    Juan Hohberg 75' Juan Hohberg 86'
+
+Hungary: Gyula Grosics, Jenő Buzánszky, Mihály Lantos, Gyula Lóránt, 
+   József Bozsik, László Budai, József Zakariás, Sándor Kocsis, 
+   Péter Palotás, Nándor Hidegkuti, Zoltán Czibor
+Uruguay: Roque Máspoli, William Martínez, José Santamaría, Néstor Carballo, 
+   Víctor Rodríguez Andrade, Luis Cruz, Juan Hohberg, Rafael Souto, 
+   Juan Alberto Schiaffino, Carlos Borges, Javier Ambrois
+
+
+Wed Jun/30 @ St. Jakob Stadium › Basel, Switzerland
+  West Germany v Austria  6-1
+    Hans Schäfer 31' Max Morlock 47' Fritz Walter 54'(p) Ottmar Walter 61' Fritz Walter 64'(p) Ottmar Walter 89';
+    Erich Probst 51'
+
+West Germany: Toni Turek, Josef Posipal, Werner Kohlmeyer, Werner Liebrich, 
+   Karl Mai, Horst Eckel, Fritz Walter, Max Morlock, Helmut Rahn, 
+   Ottmar Walter, Hans Schäfer
+Austria: Walter Zeman, Gerhard Hanappi, Ernst Happel, Ernst Ocwirk, 
+   Karl Koller, Erich Probst, Walter Schleger, Theodor Wagner, 
+   Alfred Körner, Ernst Stojaspal, Robert Körner
+
+
+» Third-place match
+Sat Jul/3 @ Hardturm Stadium › Zürich, Switzerland
+  Austria v Uruguay  3-1
+    Ernst Stojaspal 16'(p) Luis Cruz 59'(og) Ernst Ocwirk 89';
+    Juan Hohberg 22'
+
+Austria: Kurt Schmied, Gerhard Hanappi, Leopold Barschandt, Ernst Ocwirk, 
+   Walter Kollmann, Karl Koller, Erich Probst, Theodor Wagner, 
+   Robert Dienst, Ernst Stojaspal, Robert Körner
+Uruguay: Roque Máspoli, William Martínez, José Santamaría, Néstor Carballo, 
+   Víctor Rodríguez Andrade, Luis Cruz, Julio Abbadie, Juan Hohberg, 
+   Juan Alberto Schiaffino, Carlos Borges, Omar Méndez
+
+
+» Final
+Sun Jul/4 @ Wankdorf Stadium › Bern, Switzerland
+  West Germany v Hungary  3-2
+    Max Morlock 10' Helmut Rahn 18' Helmut Rahn 84';
+    Ferenc Puskás 6' Zoltán Czibor 8'
+
+West Germany: Toni Turek, Josef Posipal, Werner Kohlmeyer, Werner Liebrich, 
+   Karl Mai, Horst Eckel, Fritz Walter, Max Morlock, Helmut Rahn, 
+   Ottmar Walter, Hans Schäfer
+Hungary: Gyula Grosics, Jenő Buzánszky, Mihály Lantos, Gyula Lóránt, 
+   József Bozsik, József Zakariás, Ferenc Puskás, Sándor Kocsis, 
+   Mihály Tóth, Nándor Hidegkuti, Zoltán Czibor

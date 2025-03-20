@@ -1,0 +1,293 @@
+= World Cup 1950
+
+  # Matches  22
+  # Teams    13
+
+
+
+» Group stage - Group 1
+Sat Jun/24 1950 @ Estádio do Maracanã › Rio de Janeiro, Brazil
+  Brazil v Mexico  4-0
+    Ademir 30' Jair 65' Baltazar 71' Ademir 79'
+
+Brazil: Barbosa, Augusto, Juvenal, Ely, Danilo, Bigode, Friaça, Jair, Maneca, 
+   Baltazar, Ademir
+Mexico: Antonio Carbajal, Alfonso Montemayor, Rodrigo Ruiz, Felipe Zetter, 
+   Mario Ochoa, Héctor Ortiz, Mario Pérez, José Antonio Roca, 
+   Horacio Casarín, Carlos Septién, José Velázquez
+
+
+Sun Jun/25 @ Estádio Independência › Belo Horizonte, Brazil
+  Yugoslavia v Switzerland  3-0
+    Rajko Mitić 59' Kosta Tomašević 70' Tihomir Ognjanov 84'
+
+Yugoslavia: Srđan Mrkušić, Ivica Horvat, Branko Stanković, Miodrag Jovanović, 
+   Predrag Đajić, Rajko Mitić, Stjepan Bobek, Bernard Vukas, 
+   Željko Čajkovski, Tihomir Ognjanov, Kosta Tomašević
+Switzerland: Georges Stuber, André Neury, Roger Bocquet, Oliver Eggimann, 
+   Roger Quinche, Alfred Bickel, Gerhard Lusenti, Charles Antenen, 
+   René Bader, Jacques Fatton, Jean Tamini
+
+
+» Group stage - Group 2
+Sun Jun/25 @ Estádio do Maracanã › Rio de Janeiro, Brazil
+  England v Chile  2-0
+    Stan Mortensen 39' Wilf Mannion 51'
+
+England: Bert Williams, John Aston, Alf Ramsey, Laurie Hughes, Billy Wright, 
+   Jimmy Dickinson, Stan Mortensen, Roy Bentley, Tom Finney, 
+   Wilf Mannion, Jimmy Mullen
+Chile: Sergio Livingstone, Manuel Álvarez Jiménez, Arturo Farías, 
+   Fernando Roldán, Miguel Busquets, Hernán Carvallo, 
+   Atilio Cremaschi, Guillermo Díaz, Luis Mayanés, Manuel Muñoz, 
+   George Robledo
+
+
+Sun Jun/25 @ Estádio Vila Capanema › Curitiba, Brazil
+  Spain v United States  3-1
+    Silvestre Igoa 81' Estanislau Basora 83' Telmo Zarra 89';
+    Gino Pariani 17'
+
+Spain: Ignacio Eizaguirre, Gabriel Alonso, Josep Gonzalvo, 
+   Francisco Antúnez, Marià Gonzalvo, Antonio Puchades, 
+   Estanislau Basora, Agustín Gaínza, Rosendo Hernández, 
+   Silvestre Igoa, Telmo Zarra
+United States: Frank Borghi, Harry Keough, Joe Maca, Walter Bahr, Charlie Colombo, 
+   Ed McIlvenny, Joe Gaetjens, John Souza, Gino Pariani, 
+   Frank Wallace, Adam Wolanin
+
+
+» Group stage - Group 3
+Sun Jun/25 @ Estádio do Pacaembu › São Paulo, Brazil
+  Sweden v Italy  3-2
+    Hasse Jeppson 25' Sune Andersson 33' Hasse Jeppson 68';
+    Riccardo Carapellese 7' Ermes Muccinelli 75'
+
+Sweden: Kalle Svensson, Erik Nilsson, Lennart Samuelsson, Sune Andersson, 
+   Knut Nordahl, Ingvar Gärd, Lennart Skoglund, Hasse Jeppson, 
+   Stellan Nilsson, Karl-Erik Palmér, Stig Sundqvist
+Italy: Lucidio Sentimenti, Zeffiro Furiassi, Attilio Giovannini, 
+   Carlo Annovazzi, Carlo Parola, Augusto Magli, 
+   Riccardo Carapellese, Aldo Campatelli, Giampiero Boniperti, 
+   Gino Cappello, Ermes Muccinelli
+
+
+» Group stage - Group 1
+Wed Jun/28 @ Estádio do Pacaembu › São Paulo, Brazil
+  Brazil v Switzerland  2-2
+    Alfredo 3' Baltazar 32';
+    Jacques Fatton 17' Jacques Fatton 88'
+
+Brazil: Barbosa, Augusto, Juvenal, Bauer, Rui, Noronha, Friaça, Alfredo, 
+   Maneca, Baltazar, Ademir
+Switzerland: Georges Stuber, André Neury, Roger Bocquet, Oliver Eggimann, 
+   Roger Quinche, Alfred Bickel, Gerhard Lusenti, 
+   Hans-Peter Friedländer, René Bader, Jacques Fatton, Jean Tamini
+
+
+Wed Jun/28 @ Estádio dos Eucaliptos › Porto Alegre, Brazil
+  Yugoslavia v Mexico  4-1
+    Stjepan Bobek 20' Željko Čajkovski 23' Željko Čajkovski 51' Kosta Tomašević 81';
+    Héctor Ortiz 89'(p)
+
+Yugoslavia: Srđan Mrkušić, Ivica Horvat, Branko Stanković, Miodrag Jovanović, 
+   Predrag Đajić, Zlatko Čajkovski, Rajko Mitić, Stjepan Bobek, 
+   Željko Čajkovski, Prvoslav Mihajlović, Kosta Tomašević
+Mexico: Antonio Carbajal, Gregorio Gómez, Manuel Gutiérrez, Héctor Ortiz, 
+   Samuel Cuburu, Mario Pérez, José Antonio Roca, José Naranjo, 
+   Horacio Casarín, Carlos Septién, José Velázquez
+
+
+» Group stage - Group 2
+Thu Jun/29 @ Estádio do Maracanã › Rio de Janeiro, Brazil
+  Spain v Chile  2-0
+    Estanislau Basora 17' Telmo Zarra 30'
+
+Spain: Antoni Ramallets, Gabriel Alonso, Josep Gonzalvo, José Parra, 
+   Marià Gonzalvo, Antonio Puchades, José Luis Panizo, 
+   Agustín Gaínza, Estanislau Basora, Silvestre Igoa, Telmo Zarra
+Chile: Sergio Livingstone, Manuel Álvarez Jiménez, Arturo Farías, 
+   Fernando Roldán, Miguel Busquets, Hernán Carvallo, 
+   Atilio Cremaschi, Guillermo Díaz, Andrés Prieto, Manuel Muñoz, 
+   George Robledo
+
+
+Thu Jun/29 @ Estádio Independência › Belo Horizonte, Brazil
+  United States v England  1-0
+    Joe Gaetjens 38'
+
+United States: Frank Borghi, Harry Keough, Joe Maca, Ed McIlvenny, Walter Bahr, 
+   Charlie Colombo, John Souza, Joe Gaetjens, Gino Pariani, Ed Souza, 
+   Frank Wallace
+England: Bert Williams, John Aston, Alf Ramsey, Laurie Hughes, Billy Wright, 
+   Jimmy Dickinson, Stan Mortensen, Roy Bentley, Tom Finney, 
+   Wilf Mannion, Jimmy Mullen
+
+
+» Group stage - Group 3
+Thu Jun/29 @ Estádio Vila Capanema › Curitiba, Brazil
+  Sweden v Paraguay  2-2
+    Stig Sundqvist 17' Karl-Erik Palmér 26';
+    Atilio López 35' César López Fretes 74'
+
+Sweden: Kalle Svensson, Erik Nilsson, Lennart Samuelsson, Sune Andersson, 
+   Knut Nordahl, Ingvar Gärd, Lennart Skoglund, Hasse Jeppson, 
+   Stellan Nilsson, Karl-Erik Palmér, Stig Sundqvist
+Paraguay: Marcelino Vargas, Casiano Céspedes, Manuel Gavilán, Alberto González, 
+   Castor Cantero, Victoriano Leguizamón, César López Fretes, 
+   Leongino Unzaim, Enrique Avalos, Atilio López, Darío Jara Saguier
+
+
+» Group stage - Group 1
+Sat Jul/1 @ Estádio do Maracanã › Rio de Janeiro, Brazil
+  Brazil v Yugoslavia  2-0
+    Ademir 4' Zizinho 69'
+
+Brazil: Barbosa, Augusto, Juvenal, Bauer, Danilo, Bigode, Zizinho, Jair, 
+   Maneca, Chico, Ademir
+Yugoslavia: Srđan Mrkušić, Ivica Horvat, Branko Stanković, Miodrag Jovanović, 
+   Zlatko Čajkovski, Predrag Đajić, Stjepan Bobek, Bernard Vukas, 
+   Željko Čajkovski, Rajko Mitić, Kosta Tomašević
+
+
+» Group stage - Group 2
+Sun Jul/2 @ Estádio Ilha do Retiro › Recife, Brazil
+  Chile v United States  5-2
+    George Robledo 16' Atilio Cremaschi 32' Andrés Prieto 54' Atilio Cremaschi 60' Fernando Riera 82';
+    Frank Wallace 47' Joe Maca 48'(p)
+
+Chile: Sergio Livingstone, Manuel Álvarez Jiménez, Arturo Farías, 
+   Manuel Machuca, Miguel Busquets, Carlos Rojas, Atilio Cremaschi, 
+   Carlos Ibáñez, Andrés Prieto, Fernando Riera, George Robledo
+United States: Frank Borghi, Harry Keough, Joe Maca, Walter Bahr, Ed McIlvenny, 
+   Charlie Colombo, John Souza, Joe Gaetjens, Gino Pariani, Ed Souza, 
+   Frank Wallace
+
+
+Sun Jul/2 @ Estádio do Maracanã › Rio de Janeiro, Brazil
+  Spain v England  1-0
+    Telmo Zarra 48'
+
+Spain: Antoni Ramallets, Gabriel Alonso, Josep Gonzalvo, José Parra, 
+   Marià Gonzalvo, Antonio Puchades, José Luis Panizo, 
+   Agustín Gaínza, Estanislau Basora, Silvestre Igoa, Telmo Zarra
+England: Bert Williams, Bill Eckersley, Alf Ramsey, Laurie Hughes, 
+   Billy Wright, Jimmy Dickinson, Stan Mortensen, Stanley Matthews, 
+   Tom Finney, Eddie Baily, Jackie Milburn
+
+
+» Group stage - Group 3
+Sun Jul/2 @ Estádio do Pacaembu › São Paulo, Brazil
+  Italy v Paraguay  2-0
+    Riccardo Carapellese 12' Egisto Pandolfini 62'
+
+Italy: Giuseppe Moro, Osvaldo Fattori, Zeffiro Furiassi, Ivano Blason, 
+   Leandro Remondini, Giacomo Mari, Riccardo Carapellese, 
+   Egisto Pandolfini, Amedeo Amadei, Gino Cappello, Ermes Muccinelli
+Paraguay: Marcelino Vargas, Casiano Céspedes, Manuel Gavilán, Alberto González, 
+   Castor Cantero, Victoriano Leguizamón, César López Fretes, 
+   Leongino Unzaim, Enrique Avalos, Atilio López, Darío Jara Saguier
+
+
+» Group stage - Group 4
+Sun Jul/2 @ Estádio Independência › Belo Horizonte, Brazil
+  Uruguay v Bolivia  8-0
+    Oscar Míguez 14' Ernesto Vidal 18' Juan Alberto Schiaffino 23' Oscar Míguez 40' Oscar Míguez 51' Juan Alberto Schiaffino 54' Julio Pérez 83' Alcides Ghiggia 87'
+
+Uruguay: Roque Máspoli, Matías González, Eusebio Tejera, Juan Carlos González, 
+   Obdulio Varela, Víctor Rodríguez Andrade, Alcides Ghiggia, 
+   Juan Alberto Schiaffino, Ernesto Vidal, Oscar Míguez, Julio Pérez
+Bolivia: Eduardo Gutiérrez, José Bustamante, Alberto Achá, Antonio Greco, 
+   Leonardo Ferrel, Antonio Valencia, Víctor Celestino Algarañaz, 
+   Roberto Capparelli, Benigno Gutiérrez, Benjamin Maldonado, 
+   Víctor Agustín Ugarte
+
+
+» Group stage - Group 1
+Sun Jul/2 @ Estádio dos Eucaliptos › Porto Alegre, Brazil
+  Switzerland v Mexico  2-1
+    René Bader 10' Charles Antenen 44';
+    Horacio Casarín 89'
+
+Switzerland: Adolphe Hug, André Neury, Roger Bocquet, Oliver Eggimann, 
+   Roger Quinche, Gerhard Lusenti, Charles Antenen, René Bader, 
+   Jacques Fatton, Hans-Peter Friedländer, Jean Tamini
+Mexico: Antonio Carbajal, Gregorio Gómez, Manuel Gutiérrez, Antonio Flores, 
+   Héctor Ortiz, Mario Ochoa, Horacio Casarín, José Antonio Roca, 
+   José Naranjo, José Luis Borbolla, José Velázquez
+
+
+» Final round
+Sun Jul/9 @ Estádio do Maracanã › Rio de Janeiro, Brazil
+  Brazil v Sweden  7-1
+    Ademir 17' Ademir 36' Chico 39' Ademir 52' Ademir 58' Maneca 85' Chico 88';
+    Sune Andersson 67'(p)
+
+Brazil: Barbosa, Augusto, Juvenal, Bauer, Danilo, Bigode, Zizinho, Jair, 
+   Maneca, Chico, Ademir
+Sweden: Kalle Svensson, Erik Nilsson, Lennart Samuelsson, Sune Andersson, 
+   Knut Nordahl, Ingvar Gärd, Lennart Skoglund, Hasse Jeppson, 
+   Stellan Nilsson, Karl-Erik Palmér, Stig Sundqvist
+
+
+Sun Jul/9 @ Estádio do Pacaembu › São Paulo, Brazil
+  Uruguay v Spain  2-2
+    Alcides Ghiggia 29' Obdulio Varela 73';
+    Estanislau Basora 37' Estanislau Basora 39'
+
+Uruguay: Roque Máspoli, Matías González, Eusebio Tejera, Juan Carlos González, 
+   Obdulio Varela, Víctor Rodríguez Andrade, Alcides Ghiggia, 
+   Juan Alberto Schiaffino, Ernesto Vidal, Oscar Míguez, Julio Pérez
+Spain: Antoni Ramallets, Gabriel Alonso, Josep Gonzalvo, José Parra, 
+   Marià Gonzalvo, Antonio Puchades, Luis Molowny, Agustín Gaínza, 
+   Estanislau Basora, Silvestre Igoa, Telmo Zarra
+
+
+Thu Jul/13 @ Estádio do Maracanã › Rio de Janeiro, Brazil
+  Brazil v Spain  6-1
+    Ademir 15' Jair 21' Chico 31' Chico 55' Ademir 57' Zizinho 67';
+    Silvestre Igoa 71'
+
+Brazil: Barbosa, Augusto, Juvenal, Bauer, Danilo, Bigode, Zizinho, Jair, 
+   Friaça, Chico, Ademir
+Spain: Antoni Ramallets, Gabriel Alonso, Josep Gonzalvo, José Parra, 
+   Marià Gonzalvo, Antonio Puchades, José Luis Panizo, 
+   Agustín Gaínza, Estanislau Basora, Silvestre Igoa, Telmo Zarra
+
+
+Thu Jul/13 @ Estádio do Pacaembu › São Paulo, Brazil
+  Uruguay v Sweden  3-2
+    Alcides Ghiggia 39' Oscar Míguez 77' Oscar Míguez 85';
+    Karl-Erik Palmér 5' Stig Sundqvist 40'
+
+Uruguay: Aníbal Paz, Matías González, Eusebio Tejera, Schubert Gambetta, 
+   Obdulio Varela, Víctor Rodríguez Andrade, Alcides Ghiggia, 
+   Juan Alberto Schiaffino, Ernesto Vidal, Oscar Míguez, Julio Pérez
+Sweden: Kalle Svensson, Erik Nilsson, Lennart Samuelsson, Gunnar Johansson, 
+   Sune Andersson, Ingvar Gärd, Egon Jönsson, Hasse Jeppson, 
+   Bror Mellberg, Karl-Erik Palmér, Stig Sundqvist
+
+
+Sun Jul/16 @ Estádio do Pacaembu › São Paulo, Brazil
+  Sweden v Spain  3-1
+    Stig Sundqvist 15' Bror Mellberg 33' Karl-Erik Palmér 80';
+    Telmo Zarra 82'
+
+Sweden: Kalle Svensson, Erik Nilsson, Lennart Samuelsson, Gunnar Johansson, 
+   Sune Andersson, Ingvar Gärd, Egon Jönsson, Ingvar Rydell, 
+   Bror Mellberg, Karl-Erik Palmér, Stig Sundqvist
+Spain: Ignacio Eizaguirre, Gabriel Alonso, Vicente Asensi, José Parra, 
+   Alfonso Silva, Antonio Puchades, José Luis Panizo, Telmo Zarra, 
+   Estanislau Basora, José Juncosa, Rosendo Hernández
+
+
+Sun Jul/16 @ Estádio do Maracanã › Rio de Janeiro, Brazil
+  Uruguay v Brazil  2-1
+    Juan Alberto Schiaffino 66' Alcides Ghiggia 79';
+    Friaça 47'
+
+Uruguay: Roque Máspoli, Matías González, Eusebio Tejera, Schubert Gambetta, 
+   Obdulio Varela, Víctor Rodríguez Andrade, Alcides Ghiggia, 
+   Juan Alberto Schiaffino, Rubén Morán, Oscar Míguez, Julio Pérez
+Brazil: Barbosa, Augusto, Juvenal, Bauer, Danilo, Bigode, Zizinho, Jair, 
+   Friaça, Chico, Ademir

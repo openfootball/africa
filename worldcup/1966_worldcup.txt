@@ -1,0 +1,438 @@
+= World Cup 1966
+
+  # Matches  32
+  # Teams    16
+
+
+
+» Group stage - Group 1
+Mon Jul/11 1966 @ Wembley Stadium › London, England
+  England v Uruguay  0-0
+
+England: Gordon Banks, Bobby Moore, George Cohen, Ray Wilson, Jack Charlton, 
+   Nobby Stiles, Alan Ball, Jimmy Greaves, Bobby Charlton, 
+   John Connelly, Roger Hunt
+Uruguay: Ladislao Mazurkiewicz, Horacio Troche, Jorge Manicera, Luis Ubiña, 
+   Néstor Gonçalves, Omar Caetano, Julio César Cortés, Pedro Rocha, 
+   Domingo Pérez, Milton Viera, Héctor Silva
+
+
+» Group stage - Group 2
+Tue Jul/12 @ Hillsborough Stadium › Sheffield, England
+  West Germany v Switzerland  5-0
+    Sigfried Held 16' Helmut Haller 21' Franz Beckenbauer 40' Franz Beckenbauer 52' Helmut Haller 77'(p)
+
+West Germany: Hans Tilkowski, Horst-Dieter Höttges, Karl-Heinz Schnellinger, 
+   Willi Schulz, Franz Beckenbauer, Wolfgang Weber, Albert Brülls, 
+   Wolfgang Overath, Uwe Seeler, Helmut Haller, Sigfried Held
+Switzerland: Karl Elsener, Heinz Schneiter, Ely Tacchella, Heinz Bäni, 
+   Hansruedi Führer, André Grobéty, Karl Odermatt, Richard Dürr, 
+   Robert Hosp, Fritz Künzli, Jean-Claude Schindelholz
+
+
+» Group stage - Group 3
+Tue Jul/12 @ Goodison Park › Liverpool, England
+  Brazil v Bulgaria  2-0
+    Pelé 15' Garrincha 63'
+
+Brazil: Gilmar, Hilderaldo Bellini, Djalma Santos, Altair, Paulo Henrique, 
+   Denílson, Lima, Pelé, Garrincha, Jairzinho, Alcindo
+Bulgaria: Georgi Naydenov, Boris Gaganelov, Aleksandar Shalamanov, Ivan Vutsov, 
+   Dimitar Penev, Dobromir Zhechev, Stoyan Kitov, Dinko Dermendzhiev, 
+   Georgi Asparuhov, Ivan Kolev, Dimitar Yakimov
+
+
+» Group stage - Group 4
+Tue Jul/12 @ Ayresome Park › Middlesbrough, England
+  Soviet Union v North Korea  3-0
+    Eduard Malofeyev 31' Anatoliy Banishevskiy 33' Eduard Malofeyev 88'
+
+Soviet Union: Anzor Kavazashvili, Leonid Ostrovskiy, Vladimir Ponomaryov, 
+   Albert Shesternyov, Murtaz Khurtsilava, Yozhef Sabo, 
+   Georgi Sichinava, Igor Chislenko, Galimzyan Khusainov, 
+   Anatoliy Banishevskiy, Eduard Malofeyev
+North Korea: Chang-myung Lee, Li-sup Pak, Yung-kyoo Shin, Zoong-sun Lim, 
+   Bong-chil Kang, Seung-hwi Im, Bong-zin Han, Seung-zin Pak, 
+   Doo-ik Pak, Ryong-woon Kang, Seung-Il Kim
+
+
+» Group stage - Group 1
+Wed Jul/13 @ Wembley Stadium › London, England
+  France v Mexico  1-1
+    Gérard Hausser 62';
+    Enrique Borja 48'
+
+France: Marcel Aubour, Marcel Artelesa, Bernard Bosquier, Robert Budzynski, 
+   Gabriel De Michele, Jean Djorkaeff, Joseph Bonnel, Robert Herbin, 
+   Nestor Combin, Philippe Gondet, Gérard Hausser
+Mexico: Ignacio Calderón, Gustavo Peña, Arturo Chaires, Gabriel Núñez, 
+   Guillermo Hernández, Magdaleno Mercado, Isidoro Díaz, 
+   Aarón Padilla, Javier Fragoso, Salvador Reyes, Enrique Borja
+
+
+» Group stage - Group 2
+Wed Jul/13 @ Villa Park › Birmingham, England
+  Argentina v Spain  2-1
+    Luis Artime 65' Luis Artime 77';
+    Pirri 71'
+
+Argentina: Antonio Roma, Roberto Perfumo, Silvio Marzolini, Roberto Ferreiro, 
+   Antonio Rattín, Rafael Albrecht, Jorge Solari, Alberto González, 
+   Luis Artime, Ermindo Onega, Oscar Más
+Spain: José Ángel Iribar, Manuel Sanchís, Eladio, Gallego, Luis del Sol, 
+   Ignacio Zoco, José Ufarte, Pirri, Joaquín Peiró, Francisco Gento, 
+   Luis Suárez
+
+
+» Group stage - Group 3
+Wed Jul/13 @ Old Trafford › Manchester, England
+  Portugal v Hungary  3-1
+    José Augusto 2' José Augusto 67' José Torres 90';
+    Ferenc Bene 60'
+
+Portugal: Joaquim Carvalho, Vicente, João Morais, Alexandre Baptista, 
+   Mário Coluna, Hilário, António Simões, José Augusto, Jaime Graça, 
+   Eusébio, José Torres
+Hungary: Antal Szentmihályi, Benő Káposzta, Sándor Mátrai, Kálmán Sóvári, 
+   Kálmán Mészöly, Ferenc Sipos, István Nagy, Ferenc Bene, 
+   Flórián Albert, János Farkas, Gyula Rákosi
+
+
+» Group stage - Group 4
+Wed Jul/13 @ Roker Park › Sunderland, England
+  Italy v Chile  2-0
+    Sandro Mazzola 8' Paolo Barison 88'
+
+Italy: Enrico Albertosi, Sandro Salvadore, Tarcisio Burgnich, 
+   Giacinto Facchetti, Roberto Rosato, Giovanni Lodetti, 
+   Paolo Barison, Marino Perani, Giacomo Bulgarelli, Sandro Mazzola, 
+   Gianni Rivera
+Chile: Juan Olivares, Luis Eyzaguirre, Elías Figueroa, Hugo Villanueva, 
+   Humberto Cruz, Rubén Marcos, Ignacio Prieto, Leonel Sánchez, 
+   Alberto Fouilloux, Pedro Araya, Armando Tobar
+
+
+» Group stage - Group 1
+Fri Jul/15 @ White City Stadium › London, England
+  Uruguay v France  2-1
+    Pedro Rocha 26' Julio César Cortés 31';
+    Héctor De Bourgoing 15'(p)
+
+Uruguay: Ladislao Mazurkiewicz, Horacio Troche, Jorge Manicera, Luis Ubiña, 
+   Néstor Gonçalves, Omar Caetano, Julio César Cortés, Pedro Rocha, 
+   Domingo Pérez, Milton Viera, Héctor Silva
+France: Marcel Aubour, Marcel Artelesa, Bernard Bosquier, Robert Budzynski, 
+   Héctor De Bourgoing, Jean Djorkaeff, Joseph Bonnel, Yves Herbet, 
+   Jacques Simon, Philippe Gondet, Gérard Hausser
+
+
+» Group stage - Group 2
+Fri Jul/15 @ Hillsborough Stadium › Sheffield, England
+  Spain v Switzerland  2-1
+    Manuel Sanchís 57' Amancio 75';
+    René-Pierre Quentin 31'
+
+Spain: José Ángel Iribar, Manuel Sanchís, Severino Reija, Gallego, 
+   Luis del Sol, Ignacio Zoco, Pirri, Joaquín Peiró, Francisco Gento, 
+   Amancio, Luis Suárez
+Switzerland: Karl Elsener, René Brodmann, Kurt Armbruster, Werner Leimgruber, 
+   Heinz Bäni, Hansruedi Führer, Vittore Gottardi, Xavier Stierli, 
+   Robert Hosp, Köbi Kuhn, René-Pierre Quentin
+
+
+» Group stage - Group 3
+Fri Jul/15 @ Goodison Park › Liverpool, England
+  Hungary v Brazil  3-1
+    Ferenc Bene 2' János Farkas 64' Kálmán Mészöly 73'(p);
+    Tostão 14'
+
+Hungary: József Gelei, Benő Káposzta, Sándor Mátrai, Kálmán Mészöly, 
+   Gusztáv Szepesi, Ferenc Sipos, Imre Mathesz, Ferenc Bene, 
+   Flórián Albert, János Farkas, Gyula Rákosi
+Brazil: Gilmar, Hilderaldo Bellini, Djalma Santos, Altair, Paulo Henrique, 
+   Gérson, Lima, Garrincha, Jairzinho, Alcindo, Tostão
+
+
+» Group stage - Group 4
+Fri Jul/15 @ Ayresome Park › Middlesbrough, England
+  Chile v North Korea  1-1
+    Rubén Marcos 26'(p);
+    Seung-zin Pak 88'
+
+Chile: Juan Olivares, Alberto Valentini, Elías Figueroa, Hugo Villanueva, 
+   Humberto Cruz, Rubén Marcos, Ignacio Prieto, Leonel Sánchez, 
+   Alberto Fouilloux, Pedro Araya, Honorino Landa
+North Korea: Chang-myung Lee, Li-sup Pak, Yung-kyoo Shin, Zoong-sun Lim, 
+   Yoon-kyung Oh, Seung-hwi Im, Bong-zin Han, Dong-woon Li, 
+   Seung-zin Pak, Doo-ik Pak, Seung-Il Kim
+
+
+» Group stage - Group 2
+Sat Jul/16 @ Villa Park › Birmingham, England
+  Argentina v West Germany  0-0
+
+Argentina: Antonio Roma, Roberto Perfumo, Silvio Marzolini, Roberto Ferreiro, 
+   Antonio Rattín, Rafael Albrecht, Jorge Solari, Alberto González, 
+   Luis Artime, Ermindo Onega, Oscar Más
+West Germany: Hans Tilkowski, Horst-Dieter Höttges, Karl-Heinz Schnellinger, 
+   Willi Schulz, Franz Beckenbauer, Wolfgang Weber, Albert Brülls, 
+   Wolfgang Overath, Uwe Seeler, Helmut Haller, Sigfried Held
+
+
+» Group stage - Group 3
+Sat Jul/16 @ Old Trafford › Manchester, England
+  Portugal v Bulgaria  3-0
+    Ivan Vutsov 7'(og) Eusébio 38' José Torres 81'
+
+Portugal: José Pereira, Vicente, Germano, Alberto Festa, Mário Coluna, Hilário, 
+   António Simões, José Augusto, Jaime Graça, Eusébio, José Torres
+Bulgaria: Georgi Naydenov, Boris Gaganelov, Aleksandar Shalamanov, Ivan Vutsov, 
+   Dimitar Penev, Dobromir Zhechev, Dinko Dermendzhiev, 
+   Georgi Asparuhov, Petar Zhekov, Dimitar Yakimov, Aleksandar Kostov
+
+
+» Group stage - Group 4
+Sat Jul/16 @ Roker Park › Sunderland, England
+  Soviet Union v Italy  1-0
+    Igor Chislenko 57'
+
+Soviet Union: Lev Yashin, Vladimir Ponomaryov, Vasiliy Danilov, Albert Shesternyov, 
+   Murtaz Khurtsilava, Yozhef Sabo, Igor Chislenko, Valery Voronin, 
+   Galimzyan Khusainov, Anatoliy Banishevskiy, Eduard Malofeyev
+Italy: Enrico Albertosi, Sandro Salvadore, Tarcisio Burgnich, 
+   Giacinto Facchetti, Roberto Rosato, Giovanni Lodetti, 
+   Gianfranco Leoncini, Giacomo Bulgarelli, Sandro Mazzola, 
+   Luigi Meroni, Ezio Pascutti
+
+
+» Group stage - Group 1
+Sat Jul/16 @ Wembley Stadium › London, England
+  England v Mexico  2-0
+    Bobby Charlton 37' Roger Hunt 75'
+
+England: Gordon Banks, Bobby Moore, George Cohen, Ray Wilson, Jack Charlton, 
+   Nobby Stiles, Martin Peters, Jimmy Greaves, Bobby Charlton, 
+   Terry Paine, Roger Hunt
+Mexico: Ignacio Calderón, Gustavo Peña, Arturo Chaires, Jesús del Muro, 
+   Ignacio Jáuregui, Gabriel Núñez, Guillermo Hernández, 
+   Isidoro Díaz, Aarón Padilla, Salvador Reyes, Enrique Borja
+
+
+Tue Jul/19 @ Wembley Stadium › London, England
+  Mexico v Uruguay  0-0
+
+Mexico: Antonio Carbajal, Gustavo Peña, Arturo Chaires, Gabriel Núñez, 
+   Guillermo Hernández, Magdaleno Mercado, Isidoro Díaz, 
+   Aarón Padilla, Ernesto Cisneros, Salvador Reyes, Enrique Borja
+Uruguay: Ladislao Mazurkiewicz, Horacio Troche, Jorge Manicera, Luis Ubiña, 
+   Néstor Gonçalves, Omar Caetano, Julio César Cortés, José Sasía, 
+   Pedro Rocha, Domingo Pérez, Milton Viera
+
+
+» Group stage - Group 2
+Tue Jul/19 @ Hillsborough Stadium › Sheffield, England
+  Argentina v Switzerland  2-0
+    Luis Artime 52' Ermindo Onega 79'
+
+Argentina: Antonio Roma, Roberto Perfumo, Silvio Marzolini, Roberto Ferreiro, 
+   Antonio Rattín, Oscar Calics, Jorge Solari, Alberto González, 
+   Luis Artime, Ermindo Onega, Oscar Más
+Switzerland: Léo Eichmann, René Brodmann, Kurt Armbruster, Heinz Bäni, 
+   Hansruedi Führer, Vittore Gottardi, Xavier Stierli, Robert Hosp, 
+   Köbi Kuhn, Fritz Künzli, René-Pierre Quentin
+
+
+» Group stage - Group 3
+Tue Jul/19 @ Goodison Park › Liverpool, England
+  Portugal v Brazil  3-1
+    António Simões 15' Eusébio 27' Eusébio 85';
+    Rildo 73'
+
+Portugal: José Pereira, Vicente, João Morais, Alexandre Baptista, Mário Coluna, 
+   Hilário, António Simões, José Augusto, Jaime Graça, Eusébio, 
+   José Torres
+Brazil: Manga, Orlando, Fidélis, Brito, Rildo, Denílson, Lima, Pelé, 
+   Jairzinho, Silva, Paraná
+
+
+» Group stage - Group 4
+Tue Jul/19 @ Ayresome Park › Middlesbrough, England
+  North Korea v Italy  1-0
+    Doo-ik Pak 42'
+
+North Korea: Chang-myung Lee, Yung-kyoo Shin, Zoong-sun Lim, Yoon-kyung Oh, 
+   Jung-won Ha, Seung-hwi Im, Bong-zin Han, Bong-hwan Kim, 
+   Seung-zin Pak, Doo-ik Pak, Seung-kook Yang
+Italy: Enrico Albertosi, Giacinto Facchetti, Aristide Guarneri, 
+   Francesco Janich, Spartaco Landini, Paolo Barison, Romano Fogli, 
+   Marino Perani, Giacomo Bulgarelli, Sandro Mazzola, Gianni Rivera
+
+
+» Group stage - Group 1
+Wed Jul/20 @ Wembley Stadium › London, England
+  England v France  2-0
+    Roger Hunt 38' Roger Hunt 75'
+
+England: Gordon Banks, Bobby Moore, George Cohen, Ray Wilson, Jack Charlton, 
+   Nobby Stiles, Martin Peters, Ian Callaghan, Jimmy Greaves, 
+   Bobby Charlton, Roger Hunt
+France: Marcel Aubour, Marcel Artelesa, Bernard Bosquier, Robert Budzynski, 
+   Jean Djorkaeff, Joseph Bonnel, Yves Herbet, Robert Herbin, 
+   Jacques Simon, Philippe Gondet, Gérard Hausser
+
+
+» Group stage - Group 2
+Wed Jul/20 @ Villa Park › Birmingham, England
+  West Germany v Spain  2-1
+    Lothar Emmerich 39' Uwe Seeler 84';
+    Josep Maria Fusté 23'
+
+West Germany: Hans Tilkowski, Horst-Dieter Höttges, Karl-Heinz Schnellinger, 
+   Willi Schulz, Franz Beckenbauer, Wolfgang Weber, Wolfgang Overath, 
+   Uwe Seeler, Sigfried Held, Lothar Emmerich, Werner Krämer
+Spain: José Ángel Iribar, Manuel Sanchís, Severino Reija, Gallego, 
+   Ignacio Zoco, Jesús Glaría, Josep Maria Fusté, Adelardo, Amancio, 
+   Marcelino, Carlos Lapetra
+
+
+» Group stage - Group 3
+Wed Jul/20 @ Old Trafford › Manchester, England
+  Hungary v Bulgaria  3-1
+    Ivan Davidov 43'(og) Kálmán Mészöly 45' Ferenc Bene 54';
+    Georgi Asparuhov 15'
+
+Hungary: József Gelei, Benő Káposzta, Sándor Mátrai, Kálmán Mészöly, 
+   Gusztáv Szepesi, Ferenc Sipos, Imre Mathesz, Ferenc Bene, 
+   Flórián Albert, János Farkas, Gyula Rákosi
+Bulgaria: Simeon Simeonov, Boris Gaganelov, Ivan Vutsov, Dimitar Penev, 
+   Dobromir Zhechev, Dimitar Largov, Ivan Davidov, Georgi Asparuhov, 
+   Ivan Kolev, Dimitar Yakimov, Nikola Kotkov
+
+
+» Group stage - Group 4
+Wed Jul/20 @ Roker Park › Sunderland, England
+  Soviet Union v Chile  2-1
+    Valeriy Porkujan 28' Valeriy Porkujan 85';
+    Rubén Marcos 32'
+
+Soviet Union: Anzor Kavazashvili, Leonid Ostrovskiy, Viktor Getmanov, 
+   Alexey Korneyev, Albert Shesternyov, Valentin Afonin, 
+   Valery Voronin, Viktor Serebryanikov, Slava Metreveli, 
+   Valeriy Porkujan, Eduard Markarov
+Chile: Juan Olivares, Alberto Valentini, Elías Figueroa, Hugo Villanueva, 
+   Humberto Cruz, Rubén Marcos, Ignacio Prieto, Leonel Sánchez, 
+   Guillermo Yávar, Pedro Araya, Honorino Landa
+
+
+» Quarter-finals
+Sat Jul/23 @ Wembley Stadium › London, England
+  England v Argentina  1-0
+    Geoff Hurst 78'
+
+England: Gordon Banks, Bobby Moore, George Cohen, Ray Wilson, Jack Charlton, 
+   Nobby Stiles, Alan Ball, Martin Peters, Bobby Charlton, 
+   Geoff Hurst, Roger Hunt
+Argentina: Antonio Roma, Roberto Perfumo, Silvio Marzolini, Roberto Ferreiro, 
+   Antonio Rattín, Rafael Albrecht, Jorge Solari, Alberto González, 
+   Luis Artime, Ermindo Onega, Oscar Más
+
+Sent off: Antonio Rattín 60'
+
+
+Sat Jul/23 @ Goodison Park › Liverpool, England
+  Portugal v North Korea  5-3
+    Eusébio 27' Eusébio 43'(p) Eusébio 56' Eusébio 59'(p) José Augusto 80';
+    Seung-zin Pak 1' Dong-woon Li 22' Seung-kook Yang 25'
+
+Portugal: José Pereira, Vicente, João Morais, Alexandre Baptista, Mário Coluna, 
+   Hilário, António Simões, José Augusto, Jaime Graça, Eusébio, 
+   José Torres
+North Korea: Chang-myung Lee, Yung-kyoo Shin, Zoong-sun Lim, Yoon-kyung Oh, 
+   Jung-won Ha, Seung-hwi Im, Bong-zin Han, Dong-woon Li, 
+   Seung-zin Pak, Doo-ik Pak, Seung-kook Yang
+
+
+Sat Jul/23 @ Roker Park › Sunderland, England
+  Soviet Union v Hungary  2-1
+    Igor Chislenko 5' Valeriy Porkujan 46';
+    Ferenc Bene 57'
+
+Soviet Union: Lev Yashin, Vladimir Ponomaryov, Vasiliy Danilov, Albert Shesternyov, 
+   Yozhef Sabo, Igor Chislenko, Valery Voronin, Galimzyan Khusainov, 
+   Valeriy Porkujan, Anatoliy Banishevskiy, Eduard Malofeyev
+Hungary: József Gelei, Benő Káposzta, Sándor Mátrai, Kálmán Mészöly, 
+   Gusztáv Szepesi, Ferenc Sipos, István Nagy, Ferenc Bene, 
+   Flórián Albert, János Farkas, Gyula Rákosi
+
+
+Sat Jul/23 @ Hillsborough Stadium › Sheffield, England
+  West Germany v Uruguay  4-0
+    Helmut Haller 11' Franz Beckenbauer 70' Uwe Seeler 75' Helmut Haller 83'
+
+West Germany: Hans Tilkowski, Horst-Dieter Höttges, Karl-Heinz Schnellinger, 
+   Willi Schulz, Franz Beckenbauer, Wolfgang Weber, Wolfgang Overath, 
+   Uwe Seeler, Helmut Haller, Sigfried Held, Lothar Emmerich
+Uruguay: Ladislao Mazurkiewicz, Horacio Troche, Jorge Manicera, Luis Ubiña, 
+   Néstor Gonçalves, Omar Caetano, Julio César Cortés, Héctor Salvá, 
+   Héctor Silva, Pedro Rocha, Domingo Pérez
+
+Sent off: Horacio Troche 60', Héctor Silva 60'
+
+
+» Semi-finals
+Mon Jul/25 @ Goodison Park › Liverpool, England
+  West Germany v Soviet Union  2-1
+    Helmut Haller 43' Franz Beckenbauer 67';
+    Valeriy Porkujan 88'
+
+West Germany: Hans Tilkowski, Karl-Heinz Schnellinger, Willi Schulz, Friedel Lutz, 
+   Franz Beckenbauer, Wolfgang Weber, Wolfgang Overath, Uwe Seeler, 
+   Helmut Haller, Sigfried Held, Lothar Emmerich
+Soviet Union: Lev Yashin, Vladimir Ponomaryov, Vasiliy Danilov, Albert Shesternyov, 
+   Yozhef Sabo, Igor Chislenko, Valery Voronin, Galimzyan Khusainov, 
+   Valeriy Porkujan, Anatoliy Banishevskiy, Eduard Malofeyev
+
+Sent off: Igor Chislenko 60'
+
+
+Tue Jul/26 @ Wembley Stadium › London, England
+  England v Portugal  2-1
+    Bobby Charlton 30' Bobby Charlton 80';
+    Eusébio 82'(p)
+
+England: Gordon Banks, Bobby Moore, George Cohen, Ray Wilson, Jack Charlton, 
+   Nobby Stiles, Alan Ball, Martin Peters, Bobby Charlton, 
+   Geoff Hurst, Roger Hunt
+Portugal: José Pereira, Alexandre Baptista, José Carlos, Alberto Festa, 
+   Mário Coluna, Hilário, António Simões, José Augusto, Jaime Graça, 
+   Eusébio, José Torres
+
+
+» Third-place match
+Thu Jul/28 @ Wembley Stadium › London, England
+  Portugal v Soviet Union  2-1
+    Eusébio 12'(p) José Torres 89';
+    Eduard Malofeyev 43'
+
+Portugal: José Pereira, Alexandre Baptista, José Carlos, Alberto Festa, 
+   Mário Coluna, Hilário, António Simões, José Augusto, Jaime Graça, 
+   Eusébio, José Torres
+Soviet Union: Lev Yashin, Alexey Korneyev, Vladimir Ponomaryov, Vasiliy Danilov, 
+   Murtaz Khurtsilava, Valery Voronin, Georgi Sichinava, 
+   Viktor Serebryanikov, Slava Metreveli, Anatoliy Banishevskiy, 
+   Eduard Malofeyev
+
+
+» Final
+Sat Jul/30 @ Wembley Stadium › London, England
+  England v West Germany  4-2 [aet]
+    Geoff Hurst 18' Martin Peters 78' Geoff Hurst 101' Geoff Hurst 120';
+    Helmut Haller 12' Wolfgang Weber 89'
+
+England: Gordon Banks, Bobby Moore, George Cohen, Ray Wilson, Jack Charlton, 
+   Nobby Stiles, Alan Ball, Martin Peters, Bobby Charlton, 
+   Geoff Hurst, Roger Hunt
+West Germany: Hans Tilkowski, Karl-Heinz Schnellinger, Willi Schulz, 
+   Horst-Dieter Höttges, Franz Beckenbauer, Wolfgang Weber, 
+   Wolfgang Overath, Uwe Seeler, Helmut Haller, Sigfried Held, 
+   Lothar Emmerich

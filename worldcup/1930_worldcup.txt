@@ -1,0 +1,260 @@
+= World Cup 1930
+
+  # Matches  18
+  # Teams    13
+
+
+
+» Group stage - Group 1
+Sun Jul/13 1930 @ Estadio Pocitos › Montevideo, Uruguay
+  France v Mexico  4-1
+    Lucien Laurent 19' Marcel Langiller 40' André Maschinot 43' André Maschinot 87';
+    Juan Carreño 70'
+
+France: Alex Thépot, Marcel Capelle, Étienne Mattler, Alexandre Villaplane, 
+   Augustin Chantrel, Marcel Pinel, Edmond Delfour, Marcel Langiller, 
+   Lucien Laurent, Ernest Libérati, André Maschinot
+Mexico: Oscar Bonfiglio, Rafael Garza Gutiérrez, Manuel Rosas, 
+   Efraín Amézcua, Felipe Rosas, Alfredo Viejo Sánchez, Juan Carreño, 
+   Hilario López, Dionisio Mejía, José Ruíz, Luis Pérez
+
+
+» Group stage - Group 4
+Sun Jul/13 @ Estadio Gran Parque Central › Montevideo, Uruguay
+  United States v Belgium  3-0
+    Bart McGhee 23' Tom Florie 45' Bert Patenaude 69'
+
+United States: Jimmy Douglas, George Moorhouse, Alexander Wood, Jimmy Gallagher, 
+   Andy Auld, Tom Florie, Raphael Tracey, Jim Brown, Bert Patenaude, 
+   Billy Gonsalves, Bart McGhee
+Belgium: Arnold Badjou, Nic Hoydonckx, Theodore Nouwens, Pierre Braine, 
+   Jean De Clercq, August Hellemans, Jan Diddens, Ferdinand Adams, 
+   Jacques Moeschal, Louis Versyp, Bernard Voorhoof
+
+
+» Group stage - Group 2
+Mon Jul/14 @ Estadio Gran Parque Central › Montevideo, Uruguay
+  Yugoslavia v Brazil  2-1
+    Aleksandar Tirnanić 21' Ivan Bek 30';
+    Preguinho 62'
+
+Yugoslavia: Milovan Jakšić, Milutin Ivković, Dragoslav Mihajlović, 
+   Ljubiša Stefanović, Milorad Arsenijević, Momčilo Đokić, Ivan Bek, 
+   Blagoje Marjanović, Đorđe Vujadinović, Aleksandar Tirnanić, 
+   Branislav Sekulić
+Brazil: Joel, Itália, Brilhante, Fausto, Hermógenes, Fernando, Preguinho, 
+   Teóphilo, Poly, Nilo, Araken
+
+
+» Group stage - Group 3
+Mon Jul/14 @ Estadio Pocitos › Montevideo, Uruguay
+  Romania v Peru  3-1
+    Adalbert Deşu 1' Constantin Stanciu 79' Miklós Kovács 89';
+    Luis Souza Ferreira 75'
+
+Romania: Ion Lǎpuşneanu, Emerich Vogl, Rudolf Bürger, Adalbert Steiner, 
+   Alfred Eisenbeisser, László Raffinsky, Adalbert Deşu, 
+   Miklós Kovács, Constantin Stanciu, Rudolf Wetzer, Ştefan Barbu
+Peru: Juan Valdivieso, Mario de las Casas, Alberto Soria, Plácido Galindo, 
+   Alberto Denegri, Domingo García, José María Lavalle, 
+   Demetrio Neyra, Luis Souza Ferreira, Alejandro Villanueva, 
+   Julio Lores
+
+Sent off: Plácido Galindo 60'
+
+
+» Group stage - Group 1
+Tue Jul/15 @ Estadio Gran Parque Central › Montevideo, Uruguay
+  Argentina v France  1-0
+    Luis Monti 81'
+
+Argentina: Ángel Bossio, José Della Torre, Ramón Muttis, Luis Monti, 
+   Juan Evaristo, Arico Suárez, Manuel Ferreira, Francisco Varallo, 
+   Mario Evaristo, Roberto Cherro, Natalio Perinetti
+France: Alex Thépot, Marcel Capelle, Étienne Mattler, Alexandre Villaplane, 
+   Augustin Chantrel, Marcel Pinel, Edmond Delfour, Marcel Langiller, 
+   Lucien Laurent, Ernest Libérati, André Maschinot
+
+
+Wed Jul/16 @ Estadio Gran Parque Central › Montevideo, Uruguay
+  Chile v Mexico  3-0
+    Carlos Vidal 3' Manuel Rosas 52'(og) Carlos Vidal 65'
+
+Chile: Roberto Cortés, Víctor Morales, Ulises Poirier, Humberto Elgueta, 
+   Guillermo Saavedra, Arturo Torres, Carlos Schneeberger, 
+   Guillermo Subiabre, Carlos Vidal, Tomás Ojeda, Eberardo Villalobos
+Mexico: Isidoro Sota, Rafael Garza Gutiérrez, Manuel Rosas, Efraín Amézcua, 
+   Felipe Rosas, Alfredo Viejo Sánchez, Juan Carreño, Hilario López, 
+   Roberto Gayón, José Ruíz, Luis Pérez
+
+
+» Group stage - Group 2
+Thu Jul/17 @ Estadio Gran Parque Central › Montevideo, Uruguay
+  Yugoslavia v Bolivia  4-0
+    Ivan Bek 60' Blagoje Marjanović 65' Ivan Bek 67' Đorđe Vujadinović 85'
+
+Yugoslavia: Milovan Jakšić, Milutin Ivković, Dragoslav Mihajlović, 
+   Ljubiša Stefanović, Milorad Arsenijević, Momčilo Đokić, Ivan Bek, 
+   Blagoje Marjanović, Đorđe Vujadinović, Aleksandar Tirnanić, 
+   Dragutin Najdanović
+Bolivia: Jesús Bermúdez, Casiano Chavarría, Segundo Durandal, Juan Argote, 
+   Diógenes Lara, Jorge Valderrama, Rafael Méndez, Mario Alborta, 
+   José Bustamante, René Fernández, Gumercindo Gómez
+
+
+» Group stage - Group 4
+Thu Jul/17 @ Estadio Gran Parque Central › Montevideo, Uruguay
+  United States v Paraguay  3-0
+    Bert Patenaude 10' Bert Patenaude 15' Bert Patenaude 50'
+
+United States: Jimmy Douglas, George Moorhouse, Alexander Wood, Jimmy Gallagher, 
+   Andy Auld, Tom Florie, Raphael Tracey, Jim Brown, Bert Patenaude, 
+   Billy Gonsalves, Bart McGhee
+Paraguay: Modesto Denis, José Miracca, Quiterio Olmedo, Francisco Aguirre, 
+   Eusebio Díaz, Romildo Etcheverry, Luis Vargas Peña, 
+   Diógenes Domínguez, Aurelio González, Lino Nessi, 
+   Delfín Benítez Cáceres
+
+
+» Group stage - Group 3
+Fri Jul/18 @ Estadio Centenario › Montevideo, Uruguay
+  Uruguay v Peru  1-0
+    Héctor Castro 65'
+
+Uruguay: Enrique Ballesteros, José Nasazzi, Domingo Tejera, 
+   José Leandro Andrade, Lorenzo Fernández, Álvaro Gestido, 
+   Héctor Castro, Pedro Cea, Santos Iriarte, Pedro Petrone, 
+   Santos Urdinarán
+Peru: Jorge Pardon, Antonio Maquilón, Mario de las Casas, Plácido Galindo, 
+   Alberto Denegri, Eduardo Astengo, José María Lavalle, 
+   Demetrio Neyra, Luis Souza Ferreira, Alejandro Villanueva, 
+   Julio Lores
+
+
+» Group stage - Group 1
+Sat Jul/19 @ Estadio Centenario › Montevideo, Uruguay
+  Chile v France  1-0
+    Guillermo Subiabre 67'
+
+Chile: Roberto Cortés, Ernesto Chaparro, Guillermo Riveros, Casimiro Torres, 
+   Guillermo Saavedra, Arturo Torres, Carlos Schneeberger, 
+   Guillermo Subiabre, Carlos Vidal, Tomás Ojeda, Eberardo Villalobos
+France: Alex Thépot, Marcel Capelle, Étienne Mattler, Alexandre Villaplane, 
+   Augustin Chantrel, Célestin Delmer, Marcel Pinel, Edmond Delfour, 
+   Marcel Langiller, Ernest Libérati, Émile Veinante
+
+
+Sat Jul/19 @ Estadio Centenario › Montevideo, Uruguay
+  Argentina v Mexico  6-3
+    Guillermo Stábile 8' Adolfo Zumelzú 12' Guillermo Stábile 17' Francisco Varallo 53' Adolfo Zumelzú 55' Guillermo Stábile 80';
+    Manuel Rosas 42'(p) Manuel Rosas 65' Roberto Gayón 75'
+
+Argentina: Ángel Bossio, Alberto Chividini, José Della Torre, 
+   Fernando Paternoster, Rodolfo Orlandini, Adolfo Zumelzú, 
+   Attilio Demaría, Francisco Varallo, Carlos Spadaro, 
+   Carlos Peucelle, Guillermo Stábile
+Mexico: Oscar Bonfiglio, Rafael Garza Gutiérrez, Manuel Rosas, 
+   Francisco Garza Gutiérrez, Felipe Rosas, Alfredo Viejo Sánchez, 
+   Raymundo Rodríguez, Juan Carreño, Hilario López, Roberto Gayón, 
+   Felipe Olivares
+
+
+» Group stage - Group 2
+Sun Jul/20 @ Estadio Centenario › Montevideo, Uruguay
+  Brazil v Bolivia  4-0
+    Moderato 37' Preguinho 57' Moderato 73' Preguinho 83'
+
+Brazil: Velloso, Itália, Zé Luiz, Fausto, Hermógenes, Fernando, Preguinho, 
+   Carvalho Leite, Moderato, Russinho, Benedicto
+Bolivia: Jesús Bermúdez, Casiano Chavarría, Segundo Durandal, Renato Sáinz, 
+   Diógenes Lara, Jorge Valderrama, Rafael Méndez, Mario Alborta, 
+   José Bustamante, René Fernández, Eduardo Reyes Ortiz
+
+
+» Group stage - Group 4
+Sun Jul/20 @ Estadio Centenario › Montevideo, Uruguay
+  Paraguay v Belgium  1-0
+    Luis Vargas Peña 40'
+
+Paraguay: Pedro Benítez, Salvador Flores, Quiterio Olmedo, Santiago Benítez, 
+   Eusebio Díaz, Tranquilino Garcete, Luis Vargas Peña, 
+   Gerardo Romero, Aurelio González, Lino Nessi, 
+   Delfín Benítez Cáceres
+Belgium: Arnold Badjou, Nic Hoydonckx, Theodore Nouwens, Henri De Deken, 
+   Pierre Braine, Gérard Delbeke, August Hellemans, Jan Diddens, 
+   Ferdinand Adams, Jacques Moeschal, Louis Versyp
+
+
+» Group stage - Group 3
+Mon Jul/21 @ Estadio Centenario › Montevideo, Uruguay
+  Uruguay v Romania  4-0
+    Pablo Dorado 7' Héctor Scarone 26' Peregrino Anselmo 31' Pedro Cea 35'
+
+Uruguay: Enrique Ballesteros, José Nasazzi, Ernesto Mascheroni, 
+   José Leandro Andrade, Lorenzo Fernández, Álvaro Gestido, 
+   Peregrino Anselmo, Pedro Cea, Santos Iriarte, Héctor Scarone, 
+   Pablo Dorado
+Romania: Ion Lǎpuşneanu, Emerich Vogl, Rudolf Bürger, Iosif Czako, 
+   Alfred Eisenbeisser, László Raffinsky, Corneliu Robe, 
+   Adalbert Deşu, Miklós Kovács, Rudolf Wetzer, Ştefan Barbu
+
+
+» Group stage - Group 1
+Tue Jul/22 @ Estadio Centenario › Montevideo, Uruguay
+  Argentina v Chile  3-1
+    Guillermo Stábile 12' Guillermo Stábile 13' Mario Evaristo 51';
+    Guillermo Subiabre 15'
+
+Argentina: Ángel Bossio, José Della Torre, Fernando Paternoster, 
+   Rodolfo Orlandini, Luis Monti, Juan Evaristo, Manuel Ferreira, 
+   Francisco Varallo, Mario Evaristo, Carlos Peucelle, 
+   Guillermo Stábile
+Chile: Roberto Cortés, Ernesto Chaparro, Víctor Morales, Casimiro Torres, 
+   Guillermo Saavedra, Arturo Torres, Guillermo Subiabre, 
+   Guillermo Arellano, Carlos Vidal, Juan Aguilera, 
+   Eberardo Villalobos
+
+
+» Semi-finals
+Sat Jul/26 @ Estadio Centenario › Montevideo, Uruguay
+  Argentina v United States  6-1
+    Luis Monti 20' Alejandro Scopelli 56' Guillermo Stábile 69' Carlos Peucelle 80' Carlos Peucelle 85' Guillermo Stábile 87';
+    Jim Brown 89'
+
+Argentina: Juan Botasso, José Della Torre, Fernando Paternoster, 
+   Rodolfo Orlandini, Luis Monti, Juan Evaristo, Manuel Ferreira, 
+   Mario Evaristo, Alejandro Scopelli, Carlos Peucelle, 
+   Guillermo Stábile
+United States: Jimmy Douglas, George Moorhouse, Alexander Wood, Jimmy Gallagher, 
+   Andy Auld, Tom Florie, Raphael Tracey, Jim Brown, Bert Patenaude, 
+   Billy Gonsalves, Bart McGhee
+
+
+Sun Jul/27 @ Estadio Centenario › Montevideo, Uruguay
+  Uruguay v Yugoslavia  6-1
+    Pedro Cea 18' Peregrino Anselmo 20' Peregrino Anselmo 31' Santos Iriarte 61' Pedro Cea 67' Pedro Cea 72';
+    Đorđe Vujadinović 4'
+
+Uruguay: Enrique Ballesteros, José Nasazzi, Ernesto Mascheroni, 
+   José Leandro Andrade, Lorenzo Fernández, Álvaro Gestido, 
+   Peregrino Anselmo, Pedro Cea, Santos Iriarte, Héctor Scarone, 
+   Pablo Dorado
+Yugoslavia: Milovan Jakšić, Milutin Ivković, Dragoslav Mihajlović, 
+   Ljubiša Stefanović, Milorad Arsenijević, Momčilo Đokić, Ivan Bek, 
+   Blagoje Marjanović, Đorđe Vujadinović, Aleksandar Tirnanić, 
+   Branislav Sekulić
+
+
+» Final
+Wed Jul/30 @ Estadio Centenario › Montevideo, Uruguay
+  Uruguay v Argentina  4-2
+    Pablo Dorado 12' Pedro Cea 57' Santos Iriarte 68' Héctor Castro 89';
+    Carlos Peucelle 20' Guillermo Stábile 37'
+
+Uruguay: Enrique Ballesteros, José Nasazzi, Ernesto Mascheroni, 
+   José Leandro Andrade, Lorenzo Fernández, Álvaro Gestido, 
+   Héctor Castro, Pedro Cea, Santos Iriarte, Héctor Scarone, 
+   Pablo Dorado
+Argentina: Juan Botasso, José Della Torre, Fernando Paternoster, Arico Suárez, 
+   Luis Monti, Juan Evaristo, Manuel Ferreira, Mario Evaristo, 
+   Francisco Varallo, Carlos Peucelle, Guillermo Stábile

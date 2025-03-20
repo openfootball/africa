@@ -1,0 +1,432 @@
+= World Cup 1962
+
+  # Matches  32
+  # Teams    16
+
+
+
+» Group stage - Group 1
+Wed May/30 1962 @ Estadio Carlos Dittborn › Arica, Chile
+  Uruguay v Colombia  2-1
+    Luis Cubilla 56' José Sasía 75';
+    Francisco Zuluaga 19'(p)
+
+Uruguay: Roberto Sosa, Horacio Troche, Emilio Álvarez, Mario Méndez, 
+   Eliseo Álvarez, Néstor Gonçalves, Ronald Langón, Pedro Rocha, 
+   Domingo Pérez, José Sasía, Luis Cubilla
+Colombia: Efraín Sánchez, Francisco Zuluaga, Jaime González, Héctor Echeverry, 
+   Óscar López, Jaime Silva, Marcos Coll, Germán Aceros, 
+   Marino Klinger, Delio Gamboa, Jairo Arias
+
+
+» Group stage - Group 2
+Wed May/30 @ Estadio Nacional › Santiago, Chile
+  Chile v Switzerland  3-1
+    Leonel Sánchez 44' Jaime Ramírez 51' Leonel Sánchez 55';
+    Rolf Wüthrich 6'
+
+Chile: Misael Escuti, Sergio Navarro, Luis Eyzaguirre, Raúl Sánchez, 
+   Carlos Contreras, Eladio Rojas, Jorge Toro, Alberto Fouilloux, 
+   Jaime Ramírez, Honorino Landa, Leonel Sánchez
+Switzerland: Karl Elsener, Fritz Morf, Heinz Schneiter, Ely Tacchella, 
+   André Grobéty, Hans Weber, Anton Allemann, Charles Antenen, 
+   Rolf Wüthrich, Norbert Eschmann, Philippe Pottier
+
+
+» Group stage - Group 3
+Wed May/30 @ Estadio Sausalito › Viña del Mar, Chile
+  Brazil v Mexico  2-0
+    Mário Zagallo 56' Pelé 73'
+
+Brazil: Gilmar, Mauro Ramos, Djalma Santos, Nílton Santos, Zózimo, Zito, 
+   Didi, Garrincha, Pelé, Vavá, Mário Zagallo
+Mexico: Antonio Carbajal, Jesús del Muro, José Villegas, Guillermo Sepúlveda, 
+   Raúl Cárdenas, Pedro Nájera, Alfredo del Águila, Salvador Reyes, 
+   Héctor Hernández, Isidoro Díaz, Antonio Jasso
+
+
+» Group stage - Group 4
+Wed May/30 @ Estadio El Teniente › Rancagua, Chile
+  Argentina v Bulgaria  1-0
+    Héctor Facundo 4'
+
+Argentina: Antonio Roma, Rubén Navarro, Silvio Marzolini, Alberto Sainz, 
+   Raúl Páez, Federico Sacchi, Oscar Rossi, Héctor Facundo, 
+   Marcelo Pagani, José Sanfilippo, Raúl Belén
+Bulgaria: Georgi Naydenov, Kiril Rakarov, Ivan Dimitrov, Dimitar Kostov, 
+   Stoyan Kitov, Nikola Kovachev, Todor Diev, Hristo Iliev, 
+   Ivan Kolev, Dimitar Yakimov, Petar Velichkov
+
+
+» Group stage - Group 1
+Thu May/31 @ Estadio Carlos Dittborn › Arica, Chile
+  Soviet Union v Yugoslavia  2-0
+    Valentin Ivanov 51' Viktor Ponedelnik 83'
+
+Soviet Union: Lev Yashin, Eduard Dubinski, Leonid Ostrovskiy, Anatoli Maslyonkin, 
+   Igor Netto, Valery Voronin, Viktor Kanevski, Mikhail Meskhi, 
+   Slava Metreveli, Viktor Ponedelnik, Valentin Ivanov
+Yugoslavia: Milutin Šoškić, Vladimir Durković, Fahrudin Jusufi, Vlatko Marković, 
+   Vladica Popović, Milan Galić, Dragoslav Šekularac, Vojislav Melić, 
+   Petar Radaković, Dražan Jerković, Josip Skoblar
+
+
+» Group stage - Group 2
+Thu May/31 @ Estadio Nacional › Santiago, Chile
+  West Germany v Italy  0-0
+
+West Germany: Wolfgang Fahrian, Herbert Erhardt, Karl-Heinz Schnellinger, 
+   Willi Schulz, Hans Nowak, Horst Szymaniak, Albert Brülls, 
+   Hans Schäfer, Helmut Haller, Hans Sturm, Uwe Seeler
+Italy: Lorenzo Buffon, Giacomo Losi, Sandro Salvadore, Cesare Maldini, 
+   Enzo Robotti, Luigi Radice, Giorgio Ferrini, José Altafini, 
+   Omar Sívori, Giampaolo Menichelli, Gianni Rivera
+
+
+» Group stage - Group 3
+Thu May/31 @ Estadio Sausalito › Viña del Mar, Chile
+  Czechoslovakia v Spain  1-0
+    Jozef Štibrányi 80'
+
+Czechoslovakia: Viliam Schrojf, Ladislav Novák, Jan Lála, Ján Popluhár, 
+   Svatopluk Pluskal, Josef Masopust, Jozef Štibrányi, 
+   Andrej Kvašňák, Adolf Scherer, Jozef Adamec, Josef Jelínek
+Spain: Carmelo, Joan Segarra, Feliciano Rivilla, Severino Reija, 
+   José Santamaría, Jesús Garay, Luis del Sol, Luis Suárez, 
+   Francisco Gento, Ferenc Puskás, Eulogio Martínez
+
+
+» Group stage - Group 4
+Thu May/31 @ Estadio El Teniente › Rancagua, Chile
+  Hungary v England  2-1
+    Lajos Tichy 17' Flórián Albert 71';
+    Ron Flowers 60'(p)
+
+Hungary: Gyula Grosics, Sándor Mátrai, Kálmán Mészöly, László Sárosi, 
+   Ernő Solymosi, Ferenc Sipos, Károly Sándor, Flórián Albert, 
+   Lajos Tichy, Máté Fenyvesi, Gyula Rákosi
+England: Ron Springett, Jimmy Armfield, Ray Wilson, Maurice Norman, 
+   Bobby Moore, Ron Flowers, Johnny Haynes, Jimmy Greaves, 
+   Gerry Hitchens, Bobby Charlton, Bryan Douglas
+
+
+» Group stage - Group 1
+Sat Jun/2 @ Estadio Carlos Dittborn › Arica, Chile
+  Yugoslavia v Uruguay  3-1
+    Josip Skoblar 25'(p) Milan Galić 29' Dražan Jerković 49';
+    Ángel Cabrera 19'
+
+Yugoslavia: Milutin Šoškić, Vladimir Durković, Fahrudin Jusufi, Vlatko Marković, 
+   Vladica Popović, Milan Galić, Dragoslav Šekularac, Vojislav Melić, 
+   Petar Radaković, Dražan Jerković, Josip Skoblar
+Uruguay: Roberto Sosa, Horacio Troche, Emilio Álvarez, Mario Méndez, 
+   Eliseo Álvarez, Néstor Gonçalves, Pedro Rocha, Domingo Pérez, 
+   José Sasía, Mario Bergara, Ángel Cabrera
+
+Sent off: Vladica Popović 60', Ángel Cabrera 60'
+
+
+» Group stage - Group 2
+Sat Jun/2 @ Estadio Nacional › Santiago, Chile
+  Chile v Italy  2-0
+    Jaime Ramírez 73' Jorge Toro 87'
+
+Chile: Misael Escuti, Sergio Navarro, Luis Eyzaguirre, Raúl Sánchez, 
+   Carlos Contreras, Eladio Rojas, Jorge Toro, Alberto Fouilloux, 
+   Jaime Ramírez, Honorino Landa, Leonel Sánchez
+Italy: Carlo Mattrel, Sandro Salvadore, Mario David, Enzo Robotti, 
+   Francesco Janich, Giorgio Ferrini, Paride Tumburus, Bruno Mora, 
+   José Altafini, Giampaolo Menichelli, Humberto Maschio
+
+Sent off: Mario David 60', Giorgio Ferrini 60'
+
+
+» Group stage - Group 3
+Sat Jun/2 @ Estadio Sausalito › Viña del Mar, Chile
+  Brazil v Czechoslovakia  0-0
+
+Brazil: Gilmar, Mauro Ramos, Djalma Santos, Nílton Santos, Zózimo, Zito, 
+   Didi, Garrincha, Pelé, Vavá, Mário Zagallo
+Czechoslovakia: Viliam Schrojf, Ladislav Novák, Jan Lála, Ján Popluhár, 
+   Svatopluk Pluskal, Josef Masopust, Jozef Štibrányi, 
+   Andrej Kvašňák, Adolf Scherer, Jozef Adamec, Josef Jelínek
+
+
+» Group stage - Group 4
+Sat Jun/2 @ Estadio El Teniente › Rancagua, Chile
+  England v Argentina  3-1
+    Ron Flowers 17'(p) Bobby Charlton 42' Jimmy Greaves 67';
+    José Sanfilippo 81'
+
+England: Ron Springett, Jimmy Armfield, Ray Wilson, Maurice Norman, 
+   Bobby Moore, Ron Flowers, Johnny Haynes, Jimmy Greaves, 
+   Alan Peacock, Bobby Charlton, Bryan Douglas
+Argentina: Antonio Roma, Rubén Navarro, Silvio Marzolini, Vladislao Cap, 
+   Raúl Páez, Federico Sacchi, Antonio Rattín, Juan Carlos Oleniak, 
+   Rubén Sosa, José Sanfilippo, Raúl Belén
+
+
+» Group stage - Group 1
+Sun Jun/3 @ Estadio Carlos Dittborn › Arica, Chile
+  Soviet Union v Colombia  4-4
+    Valentin Ivanov 8' Igor Chislenko 10' Valentin Ivanov 11' Viktor Ponedelnik 56';
+    Germán Aceros 21' Marcos Coll 68' Antonio Rada 72' Marino Klinger 86'
+
+Soviet Union: Lev Yashin, Givi Chokheli, Leonid Ostrovskiy, Anatoli Maslyonkin, 
+   Igor Netto, Valery Voronin, Igor Chislenko, Valentin Ivanov, 
+   Mikhail Meskhi, Viktor Kanevski, Viktor Ponedelnik
+Colombia: Efraín Sánchez, Aníbal Alzate, Jaime González, Héctor Echeverry, 
+   Óscar López, Rolando Serrano, Marcos Coll, Germán Aceros, 
+   Marino Klinger, Antonio Rada, Héctor González
+
+
+» Group stage - Group 2
+Sun Jun/3 @ Estadio Nacional › Santiago, Chile
+  West Germany v Switzerland  2-1
+    Albert Brülls 45' Uwe Seeler 59';
+    Heinz Schneiter 73'
+
+West Germany: Wolfgang Fahrian, Herbert Erhardt, Karl-Heinz Schnellinger, 
+   Willi Schulz, Hans Nowak, Horst Szymaniak, Albert Brülls, 
+   Willi Koslowski, Hans Schäfer, Helmut Haller, Uwe Seeler
+Switzerland: Karl Elsener, Heinz Schneiter, Ely Tacchella, André Grobéty, 
+   Hans Weber, Anton Allemann, Charles Antenen, Richard Dürr, 
+   Rolf Wüthrich, Norbert Eschmann, Roger Vonlanthen
+
+
+» Group stage - Group 3
+Sun Jun/3 @ Estadio Sausalito › Viña del Mar, Chile
+  Spain v Mexico  1-0
+    Joaquín Peiró 90'
+
+Spain: Carmelo, Sígfrid Gràcia, Pachín, José Santamaría, Rodri, 
+   Luis del Sol, Martí Vergés, Joaquín Peiró, Francisco Gento, 
+   Luis Suárez, Ferenc Puskás
+Mexico: Antonio Carbajal, Jesús del Muro, Ignacio Jáuregui, 
+   Guillermo Sepúlveda, Raúl Cárdenas, Pedro Nájera, 
+   Alfredo del Águila, Salvador Reyes, Héctor Hernández, 
+   Isidoro Díaz, Antonio Jasso
+
+
+» Group stage - Group 4
+Sun Jun/3 @ Estadio El Teniente › Rancagua, Chile
+  Hungary v Bulgaria  6-1
+    Flórián Albert 1' Flórián Albert 6' Lajos Tichy 8' Ernő Solymosi 12' Flórián Albert 53' Lajos Tichy 70';
+    Georgi Sokolov 64'
+
+Hungary: István Ilku, László Sárosi, Sándor Mátrai, Kálmán Mészöly, 
+   Ernő Solymosi, Ferenc Sipos, Károly Sándor, Flórián Albert, 
+   Lajos Tichy, Máté Fenyvesi, János Göröcs
+Bulgaria: Georgi Naydenov, Kiril Rakarov, Ivan Dimitrov, Dimitar Kostov, 
+   Stoyan Kitov, Nikola Kovachev, Georgi Sokolov, Georgi Asparuhov, 
+   Ivan Kolev, Dinko Dermendzhiev, Petar Velichkov
+
+
+» Group stage - Group 1
+Wed Jun/6 @ Estadio Carlos Dittborn › Arica, Chile
+  Soviet Union v Uruguay  2-1
+    Aleksei Mamykin 38' Valentin Ivanov 89';
+    José Sasía 54'
+
+Soviet Union: Lev Yashin, Givi Chokheli, Leonid Ostrovskiy, Anatoli Maslyonkin, 
+   Igor Netto, Valery Voronin, Igor Chislenko, Valentin Ivanov, 
+   Aleksei Mamykin, Galimzyan Khusainov, Viktor Ponedelnik
+Uruguay: Roberto Sosa, Horacio Troche, Emilio Álvarez, Mario Méndez, 
+   Eliseo Álvarez, Néstor Gonçalves, Julio César Cortés, 
+   Luis Cubilla, Domingo Pérez, José Sasía, Ángel Cabrera
+
+
+» Group stage - Group 2
+Wed Jun/6 @ Estadio Nacional › Santiago, Chile
+  West Germany v Chile  2-0
+    Horst Szymaniak 21'(p) Uwe Seeler 82'
+
+West Germany: Wolfgang Fahrian, Herbert Erhardt, Karl-Heinz Schnellinger, 
+   Willi Schulz, Hans Nowak, Horst Szymaniak, Willi Giesemann, 
+   Albert Brülls, Hans Schäfer, Engelbert Kraus, Uwe Seeler
+Chile: Misael Escuti, Sergio Navarro, Luis Eyzaguirre, Raúl Sánchez, 
+   Carlos Contreras, Eladio Rojas, Armando Tobar, Mario Moreno, 
+   Jaime Ramírez, Honorino Landa, Leonel Sánchez
+
+
+» Group stage - Group 3
+Wed Jun/6 @ Estadio Sausalito › Viña del Mar, Chile
+  Brazil v Spain  2-1
+    Amarildo 72' Amarildo 86';
+    Adelardo 35'
+
+Brazil: Gilmar, Mauro Ramos, Djalma Santos, Nílton Santos, Zózimo, Zito, 
+   Didi, Garrincha, Amarildo, Vavá, Mário Zagallo
+Spain: José Araquistáin, Sígfrid Gràcia, Pachín, Luis María Echeberría, 
+   Rodri, Adelardo, Martí Vergés, Joaquín Peiró, Enrique Collar, 
+   Francisco Gento, Ferenc Puskás
+
+
+» Group stage - Group 4
+Wed Jun/6 @ Estadio El Teniente › Rancagua, Chile
+  Hungary v Argentina  0-0
+
+Hungary: Gyula Grosics, Sándor Mátrai, Kálmán Mészöly, László Sárosi, 
+   Ernő Solymosi, Ferenc Sipos, János Göröcs, Tivadar Monostori, 
+   Lajos Tichy, Béla Kuharszki, Gyula Rákosi
+Argentina: Rogelio Domínguez, Silvio Marzolini, Vladislao Cap, 
+   José Ramón Delgado, Alberto Sainz, Federico Sacchi, Martín Pando, 
+   Juan Carlos Oleniak, Marcelo Pagani, Héctor Facundo, 
+   Alberto González
+
+
+» Group stage - Group 1
+Thu Jun/7 @ Estadio Carlos Dittborn › Arica, Chile
+  Yugoslavia v Colombia  5-0
+    Milan Galić 20' Dražan Jerković 25' Milan Galić 61' Vojislav Melić 82' Dražan Jerković 87'
+
+Yugoslavia: Milutin Šoškić, Vladimir Durković, Fahrudin Jusufi, Vlatko Marković, 
+   Vladica Popović, Milan Galić, Dragoslav Šekularac, Vojislav Melić, 
+   Petar Radaković, Dražan Jerković, Andrija Anković
+Colombia: Efraín Sánchez, Jaime González, Héctor Echeverry, Óscar López, 
+   Aníbal Alzate, Rolando Serrano, Marcos Coll, Germán Aceros, 
+   Marino Klinger, Antonio Rada, Héctor González
+
+
+» Group stage - Group 2
+Thu Jun/7 @ Estadio Nacional › Santiago, Chile
+  Italy v Switzerland  3-0
+    Bruno Mora 2' Giacomo Bulgarelli 65' Giacomo Bulgarelli 67'
+
+Italy: Lorenzo Buffon, Giacomo Losi, Sandro Salvadore, Cesare Maldini, 
+   Enzo Robotti, Luigi Radice, Giacomo Bulgarelli, Bruno Mora, 
+   Omar Sívori, Angelo Sormani, Ezio Pascutti
+Switzerland: Karl Elsener, Heinz Schneiter, Ely Tacchella, André Grobéty, 
+   Hans Weber, Anton Allemann, Charles Antenen, Richard Dürr, 
+   Rolf Wüthrich, Eugen Meier, Roger Vonlanthen
+
+
+» Group stage - Group 3
+Thu Jun/7 @ Estadio Sausalito › Viña del Mar, Chile
+  Mexico v Czechoslovakia  3-1
+    Isidoro Díaz 12' Alfredo del Águila 29' Héctor Hernández 90'(p);
+    Václav Mašek 1'
+
+Mexico: Antonio Carbajal, Jesús del Muro, Ignacio Jáuregui, 
+   Guillermo Sepúlveda, Raúl Cárdenas, Pedro Nájera, 
+   Alfredo Hernández, Salvador Reyes, Héctor Hernández, Isidoro Díaz, 
+   Alfredo del Águila
+Czechoslovakia: Viliam Schrojf, Ladislav Novák, Jan Lála, Ján Popluhár, 
+   Svatopluk Pluskal, Josef Masopust, Jozef Štibrányi, 
+   Andrej Kvašňák, Adolf Scherer, Jozef Adamec, Václav Mašek
+
+
+» Group stage - Group 4
+Thu Jun/7 @ Estadio El Teniente › Rancagua, Chile
+  England v Bulgaria  0-0
+
+England: Ron Springett, Jimmy Armfield, Ray Wilson, Maurice Norman, 
+   Bobby Moore, Ron Flowers, Johnny Haynes, Jimmy Greaves, 
+   Alan Peacock, Bobby Charlton, Bryan Douglas
+Bulgaria: Georgi Naydenov, Ivan Dimitrov, Dimitar Dimov, Dimitar Kostov, 
+   Dobromir Zhechev, Nikola Kovachev, Aleksandar Kostov, 
+   Georgi Sokolov, Ivan Kolev, Dinko Dermendzhiev, Petar Velichkov
+
+
+» Quarter-finals
+Sun Jun/10 @ Estadio Sausalito › Viña del Mar, Chile
+  Brazil v England  3-1
+    Garrincha 31' Vavá 53' Garrincha 59';
+    Gerry Hitchens 38'
+
+Brazil: Gilmar, Mauro Ramos, Djalma Santos, Nílton Santos, Zózimo, Zito, 
+   Didi, Garrincha, Amarildo, Vavá, Mário Zagallo
+England: Ron Springett, Jimmy Armfield, Ray Wilson, Maurice Norman, 
+   Bobby Moore, Ron Flowers, Johnny Haynes, Jimmy Greaves, 
+   Gerry Hitchens, Bobby Charlton, Bryan Douglas
+
+
+Sun Jun/10 @ Estadio Carlos Dittborn › Arica, Chile
+  Chile v Soviet Union  2-1
+    Leonel Sánchez 11' Eladio Rojas 29';
+    Igor Chislenko 26'
+
+Chile: Misael Escuti, Sergio Navarro, Luis Eyzaguirre, Raúl Sánchez, 
+   Carlos Contreras, Eladio Rojas, Jorge Toro, Armando Tobar, 
+   Jaime Ramírez, Honorino Landa, Leonel Sánchez
+Soviet Union: Lev Yashin, Givi Chokheli, Leonid Ostrovskiy, Anatoli Maslyonkin, 
+   Igor Netto, Valery Voronin, Igor Chislenko, Valentin Ivanov, 
+   Mikhail Meskhi, Aleksei Mamykin, Viktor Ponedelnik
+
+
+Sun Jun/10 @ Estadio El Teniente › Rancagua, Chile
+  Czechoslovakia v Hungary  1-0
+    Adolf Scherer 13'
+
+Czechoslovakia: Viliam Schrojf, Ladislav Novák, Jan Lála, Ján Popluhár, 
+   Svatopluk Pluskal, Josef Masopust, Tomáš Pospíchal, Josef Kadraba, 
+   Adolf Scherer, Andrej Kvašňák, Josef Jelínek
+Hungary: Gyula Grosics, Sándor Mátrai, Kálmán Mészöly, László Sárosi, 
+   Ernő Solymosi, Ferenc Sipos, Károly Sándor, Flórián Albert, 
+   Lajos Tichy, Máté Fenyvesi, Gyula Rákosi
+
+
+Sun Jun/10 @ Estadio Nacional › Santiago, Chile
+  Yugoslavia v West Germany  1-0
+    Petar Radaković 85'
+
+Yugoslavia: Milutin Šoškić, Vladimir Durković, Fahrudin Jusufi, Vlatko Marković, 
+   Vladica Popović, Milan Galić, Dragoslav Šekularac, 
+   Vladica Kovačević, Petar Radaković, Dražan Jerković, Josip Skoblar
+West Germany: Wolfgang Fahrian, Herbert Erhardt, Karl-Heinz Schnellinger, 
+   Willi Schulz, Hans Nowak, Horst Szymaniak, Albert Brülls, 
+   Willi Giesemann, Hans Schäfer, Helmut Haller, Uwe Seeler
+
+
+» Semi-finals
+Wed Jun/13 @ Estadio Nacional › Santiago, Chile
+  Brazil v Chile  4-2
+    Garrincha 9' Garrincha 32' Vavá 47' Vavá 78';
+    Jorge Toro 42' Leonel Sánchez 61'(p)
+
+Brazil: Gilmar, Mauro Ramos, Djalma Santos, Nílton Santos, Zózimo, Zito, 
+   Didi, Garrincha, Amarildo, Vavá, Mário Zagallo
+Chile: Misael Escuti, Luis Eyzaguirre, Raúl Sánchez, Carlos Contreras, 
+   Manuel Rodríguez, Jorge Toro, Eladio Rojas, Armando Tobar, 
+   Jaime Ramírez, Honorino Landa, Leonel Sánchez
+
+
+Wed Jun/13 @ Estadio Sausalito › Viña del Mar, Chile
+  Czechoslovakia v Yugoslavia  3-1
+    Josef Kadraba 48' Adolf Scherer 80' Adolf Scherer 84'(p);
+    Dražan Jerković 69'
+
+Czechoslovakia: Viliam Schrojf, Ladislav Novák, Jan Lála, Ján Popluhár, 
+   Svatopluk Pluskal, Josef Masopust, Tomáš Pospíchal, Josef Kadraba, 
+   Adolf Scherer, Andrej Kvašňák, Josef Jelínek
+Yugoslavia: Milutin Šoškić, Vladimir Durković, Fahrudin Jusufi, Vlatko Marković, 
+   Vladica Popović, Vasilije Šijaković, Milan Galić, 
+   Dragoslav Šekularac, Petar Radaković, Dražan Jerković, 
+   Josip Skoblar
+
+
+» Third-place match
+Sat Jun/16 @ Estadio Nacional › Santiago, Chile
+  Chile v Yugoslavia  1-0
+    Eladio Rojas 90'
+
+Chile: Adán Godoy, Luis Eyzaguirre, Raúl Sánchez, Manuel Rodríguez, 
+   Jorge Toro, Humberto Cruz, Eladio Rojas, Armando Tobar, 
+   Jaime Ramírez, Carlos Campos, Leonel Sánchez
+Yugoslavia: Milutin Šoškić, Vladimir Durković, Slavko Svinjarević, 
+   Vlatko Marković, Vladica Popović, Milan Galić, 
+   Dragoslav Šekularac, Vladica Kovačević, Petar Radaković, 
+   Dražan Jerković, Josip Skoblar
+
+
+» Final
+Sun Jun/17 @ Estadio Nacional › Santiago, Chile
+  Brazil v Czechoslovakia  3-1
+    Amarildo 17' Zito 69' Vavá 78';
+    Josef Masopust 15'
+
+Brazil: Gilmar, Mauro Ramos, Djalma Santos, Nílton Santos, Zózimo, Zito, 
+   Didi, Garrincha, Amarildo, Vavá, Mário Zagallo
+Czechoslovakia: Viliam Schrojf, Ladislav Novák, Ján Popluhár, Svatopluk Pluskal, 
+   Josef Masopust, Lajos Tichy, Tomáš Pospíchal, Josef Kadraba, 
+   Adolf Scherer, Andrej Kvašňák, Josef Jelínek

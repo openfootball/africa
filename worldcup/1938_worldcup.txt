@@ -1,0 +1,243 @@
+= World Cup 1938
+
+  # Matches  18
+  # Teams    15
+
+
+
+» Round of 16
+Sat Jun/4 1938 @ Parc des Princes › Paris, France
+  Switzerland v Germany  1-1 [aet]
+    André Abegglen 43';
+    Josef Gauchel 29'
+
+Switzerland: Willy Huber, Severino Minelli, August Lehmann, Hermann Springer, 
+   Sirio Vernati, Ernst Lörtscher, André Abegglen, Georges Aeby, 
+   Lauro Amadò, Alfred Bickel, Eugen Walaschek
+Germany: Rudolf Raftl, Paul Janes, Willibald Schmaus, Hans Mock, 
+   Albin Kitzinger, Andreas Kupfer, Josef Gauchel, Rudolf Gellesch, 
+   Wilhelm Hahnemann, Ernst Lehner, Hans Pesser
+
+Sent off: Hans Pesser 60'
+
+
+Sun Jun/5 @ Stade du T.O.E.C. › Toulouse, France
+  Cuba v Romania  3-3 [aet]
+    Héctor Socorro 44' José Magriñá 69' Héctor Socorro 103';
+    Silviu Bindea 35' Iuliu Baratky 88' Ștefan Dobay 105'
+
+Cuba: Benito Carvajales, Jacinto Barquín, Manuel Chorens, Joaquín Arias, 
+   Pedro Bergés, José Antonio Rodríguez, Tomás Fernández, 
+   Héctor Socorro, Mario Sosa, Juan Tuñas, José Magriñá
+Romania: Dumitru Pavlovici, Rudolf Bürger, Vasile Chiroiu, Vintilă Cossini, 
+   Gheorghe Rășinaru, László Raffinsky, Nicolae Kovács, 
+   Iuliu Baratky, Silviu Bindea, Iuliu Bodola, Ștefan Dobay
+
+
+Sun Jun/5 @ Stade Olympique de Colombes › Paris, France
+  France v Belgium  3-1
+    Émile Veinante 1' Jean Nicolas 16' Jean Nicolas 69';
+    Hendrik Isemborghs 38'
+
+France: Laurent Di Lorto, Étienne Mattler, Hector Cazenave, Raoul Diagne, 
+   Auguste Jordan, Jean Bastien, Edmond Delfour, Oscar Heisserer, 
+   Émile Veinante, Alfred Aston, Jean Nicolas
+Belgium: Arnold Badjou, Robert Paverick, Corneel Seys, Émile Stijnen, 
+   Alfons De Winter, John Van Alphen, Raymond Braine, Fernand Buyle, 
+   Hendrik Isemborghs, Charles Vanden Wouwer, Bernard Voorhoof
+
+
+Sun Jun/5 @ Vélodrome Municipal › Reims, France
+  Hungary v Dutch East Indies  6-0
+    Vilmos Kohut 13' Géza Toldi 15' György Sárosi 28' Gyula Zsengellér 35' Gyula Zsengellér 76' György Sárosi 89'
+
+Hungary: József Háda, Sándor Bíró, Lajos Korányi, Gyula Lázár, István Balogh, 
+   József Turay, György Sárosi, Gyula Zsengellér, Vilmos Kohut, 
+   Ferenc Sas, Géza Toldi
+Dutch East Indies: Mo Heng Tan, Frans Hu Kon, Jack Samuels, Frans Alfred Meeng, 
+   Sutan Anwar, Achmad Nawir, Isaak Pattiwael, Hans Taihuttu, 
+   Hong Djien The, Suvarte Soedarmadji, Hendrikus Zomers
+
+
+Sun Jun/5 @ Stade Vélodrome › Marseille, France
+  Italy v Norway  2-1 [aet]
+    Pietro Ferraris 2' Silvio Piola 94';
+    Arne Brustad 83'
+
+Italy: Aldo Olivieri, Eraldo Monzeglio, Pietro Rava, Giuseppe Meazza, 
+   Michele Andreolo, Ugo Locatelli, Pietro Serantoni, 
+   Giovanni Ferrari, Pietro Ferraris, Silvio Piola, Piero Pasinati
+Norway: Henry Johansen, Nils Eriksen, Øivind Holmsen, Rolf Johannessen, 
+   Kristian Henriksen, Rolf Holmberg, Arne Brustad, Knut Brynildsen, 
+   Odd Frantzen, Magnar Isaksen, Reidar Kvammen
+
+
+Sun Jun/5 @ Stade de la Meinau › Strasbourg, France
+  Brazil v Poland  6-5 [aet]
+    Leônidas 18' Romeu 25' Perácio 44' Perácio 71' Leônidas 93' Leônidas 104';
+    Fryderyk Scherfke 23'(p) Ernst Wilimowski 53' Ernst Wilimowski 59' Ernst Wilimowski 89' Ernst Wilimowski 118'
+
+Brazil: Batatais, Domingos da Guia, Machado, Martim, Afonsinho, 
+   Zezé Procópio, Hércules, Lopes, Perácio, Leônidas, Romeu
+Poland: Edward Madejski, Władysław Szczepaniak, Antoni Gałecki, Ewald Dytko, 
+   Wilhelm Góra, Erwin Nyc, Ernst Wilimowski, Ryszard Piec, 
+   Leonard Piątek, Fryderyk Scherfke, Gerard Wodarz
+
+
+Sun Jun/5 @ Stade Jules Deschaseaux › Le Havre, France
+  Czechoslovakia v Netherlands  3-0 [aet]
+    Josef Košťálek 93' Josef Zeman 111' Oldřich Nejedlý 118'
+
+Czechoslovakia: František Plánička, Jaroslav Burgr, Ferdinand Daučík, 
+   Jaroslav Bouček, Vlastimil Kopecký, Josef Košťálek, 
+   Oldřich Nejedlý, Jan Říha, Oldřich Rulc, Ladislav Šimůnek, 
+   Josef Zeman
+Netherlands: Adri van Male, Bertus Caldenhove, Mauk Weber, Puck van Heel, 
+   Wim Anderiesen, Bas Paauwe, Kick Smit, Bertus de Harder, 
+   Frans van der Veen, Leen Vente, Frank Wels
+
+
+» Round of 16 - Replay
+Thu Jun/9 @ Stade du T.O.E.C. › Toulouse, France
+  Cuba v Romania  2-1
+    Héctor Socorro 51' Tomás Fernández 57';
+    Ștefan Dobay 35'
+
+Cuba: Juan Ayra, Jacinto Barquín, Manuel Chorens, Joaquín Arias, 
+   Pedro Bergés, José Antonio Rodríguez, Tomás Fernández, 
+   Héctor Socorro, Mario Sosa, Juan Tuñas, José Magriñá
+Romania: Robert Sadowski, Rudolf Bürger, Iacob Felecan, Andrei Bărbulescu, 
+   Gheorghe Rășinaru, László Raffinsky, Ștefan Dobay, Iuliu Baratky, 
+   Ion Bogdan, Ioachim Moldoveanu, Gyula Prassler
+
+
+Thu Jun/9 @ Parc des Princes › Paris, France
+  Switzerland v Germany  4-2
+    Eugen Walaschek 42' Alfred Bickel 64' André Abegglen 75' André Abegglen 78';
+    Wilhelm Hahnemann 8' Ernst Lörtscher 22'(og)
+
+Switzerland: Willy Huber, Severino Minelli, August Lehmann, Hermann Springer, 
+   Sirio Vernati, Ernst Lörtscher, André Abegglen, Georges Aeby, 
+   Lauro Amadò, Alfred Bickel, Eugen Walaschek
+Germany: Rudolf Raftl, Paul Janes, Jakob Streitle, Ludwig Goldbrunner, 
+   Andreas Kupfer, Stefan Skoumal, Fritz Szepan, Leopold Neumer, 
+   Wilhelm Hahnemann, Ernst Lehner, Josef Stroh
+
+
+» Quarter-finals
+Sun Jun/12 @ Stade du Parc Lescure › Bordeaux, France
+  Brazil v Czechoslovakia  1-1 [aet]
+    Leônidas 30';
+    Oldřich Nejedlý 65'(p)
+
+Brazil: Walter, Domingos da Guia, Machado, Martim, Afonsinho, Zezé Procópio, 
+   Hércules, Lopes, Perácio, Leônidas, Romeu
+Czechoslovakia: František Plánička, Jaroslav Burgr, Ferdinand Daučík, 
+   Jaroslav Bouček, Vlastimil Kopecký, Josef Košťálek, 
+   Oldřich Nejedlý, Jan Říha, Antonín Puč, Ladislav Šimůnek, 
+   Josef Ludl
+
+Sent off: Machado 60', Zezé Procópio 60', Jan Říha 60'
+
+
+Sun Jun/12 @ Stade Victor Boucquey › Lille, France
+  Hungary v Switzerland  2-0
+    György Sárosi 40' Gyula Zsengellér 89'
+
+Hungary: Antal Szabó, Sándor Bíró, Lajos Korányi, Gyula Lázár, Antal Szalay, 
+   József Turay, György Sárosi, Gyula Zsengellér, Vilmos Kohut, 
+   Ferenc Sas, Jenő Vincze
+Switzerland: Willy Huber, August Lehmann, Adolf Stelzer, Hermann Springer, 
+   Sirio Vernati, Ernst Lörtscher, André Abegglen, Tullio Grassi, 
+   Lauro Amadò, Alfred Bickel, Eugen Walaschek
+
+
+Sun Jun/12 @ Stade Olympique de Colombes › Paris, France
+  Italy v France  3-1
+    Gino Colaussi 9' Silvio Piola 51' Silvio Piola 72';
+    Oscar Heisserer 10'
+
+Italy: Aldo Olivieri, Alfredo Foni, Pietro Rava, Giuseppe Meazza, 
+   Michele Andreolo, Ugo Locatelli, Pietro Serantoni, 
+   Giovanni Ferrari, Amedeo Biavati, Silvio Piola, Gino Colaussi
+France: Laurent Di Lorto, Étienne Mattler, Hector Cazenave, Raoul Diagne, 
+   Auguste Jordan, Jean Bastien, Edmond Delfour, Oscar Heisserer, 
+   Émile Veinante, Alfred Aston, Jean Nicolas
+
+
+Sun Jun/12 @ Stade du Fort Carré › Antibes, France
+  Sweden v Cuba  8-0
+    Harry Andersson 9' Gustav Wetterström 22' Gustav Wetterström 37' Gustav Wetterström 44' Tore Keller 80' Harry Andersson 81' Arne Nyberg 84' Harry Andersson 89'
+
+Sweden: Henock Abrahamsson, Ivar Eriksson, Olle Källgren, Erik Almgren, 
+   Sven Jacobsson, Kurt Svanström, Tore Keller, Harry Andersson, 
+   Sven Jonasson, Arne Nyberg, Gustav Wetterström
+Cuba: Benito Carvajales, Jacinto Barquín, Manuel Chorens, Joaquín Arias, 
+   Pedro Bergés, José Antonio Rodríguez, Tomás Fernández, 
+   Héctor Socorro, Pedro Ferrer, Juan Tuñas, Juan Alonzo
+
+
+» Quarter-finals - Replay
+Tue Jun/14 @ Stade du Parc Lescure › Bordeaux, France
+  Brazil v Czechoslovakia  2-1
+    Leônidas 57' Roberto 62';
+    Vlastimil Kopecký 25'
+
+Brazil: Walter, Jaú, Nariz, Brandão, Britto, Argemiro, Leônidas, Roberto, 
+   Patesko, Luisinho, Tim
+Czechoslovakia: Karel Burkert, Jaroslav Burgr, Ferdinand Daučík, Jaroslav Bouček, 
+   Vlastimil Kopecký, Josef Košťálek, Václav Horák, Arnošt Kreuz, 
+   Karel Senecký, Oldřich Rulc, Josef Ludl
+
+
+» Semi-finals
+Thu Jun/16 @ Parc des Princes › Paris, France
+  Hungary v Sweden  5-1
+    Sven Jacobsson 19'(og) Pál Titkos 37' Gyula Zsengellér 39' György Sárosi 65' Gyula Zsengellér 85';
+    Arne Nyberg 1'
+
+Hungary: Antal Szabó, Sándor Bíró, Lajos Korányi, Gyula Lázár, Antal Szalay, 
+   József Turay, György Sárosi, Gyula Zsengellér, Pál Titkos, 
+   Ferenc Sas, Géza Toldi
+Sweden: Henock Abrahamsson, Ivar Eriksson, Olle Källgren, Erik Almgren, 
+   Sven Jacobsson, Kurt Svanström, Tore Keller, Harry Andersson, 
+   Sven Jonasson, Arne Nyberg, Gustav Wetterström
+
+
+Thu Jun/16 @ Stade Vélodrome › Marseille, France
+  Italy v Brazil  2-1
+    Gino Colaussi 51' Giuseppe Meazza 60'(p);
+    Romeu 87'
+
+Italy: Aldo Olivieri, Alfredo Foni, Pietro Rava, Giuseppe Meazza, 
+   Michele Andreolo, Ugo Locatelli, Pietro Serantoni, 
+   Giovanni Ferrari, Amedeo Biavati, Silvio Piola, Gino Colaussi
+Brazil: Walter, Domingos da Guia, Machado, Martim, Afonsinho, Zezé Procópio, 
+   Patesko, Lopes, Perácio, Luisinho, Romeu
+
+
+» Third-place match
+Sun Jun/19 @ Stade du Parc Lescure › Bordeaux, France
+  Brazil v Sweden  4-2
+    Romeu 44' Leônidas 63' Leônidas 74' Perácio 80';
+    Sven Jonasson 28' Arne Nyberg 38'
+
+Brazil: Batatais, Domingos da Guia, Machado, Afonsinho, Zezé Procópio, 
+   Brandão, Leônidas, Patesko, Perácio, Roberto, Romeu
+Sweden: Henock Abrahamsson, Ivar Eriksson, Erik Nilsson, Kurt Svanström, 
+   Erik Almgren, Arne Linderholm, Åke Andersson, Harry Andersson, 
+   Sven Jonasson, Arne Nyberg, Erik Persson
+
+
+» Final
+Sun Jun/19 @ Stade Olympique de Colombes › Paris, France
+  Italy v Hungary  4-2
+    Gino Colaussi 6' Silvio Piola 16' Gino Colaussi 35' Silvio Piola 82';
+    Pál Titkos 8' György Sárosi 70'
+
+Italy: Aldo Olivieri, Alfredo Foni, Pietro Rava, Giuseppe Meazza, 
+   Michele Andreolo, Ugo Locatelli, Pietro Serantoni, 
+   Giovanni Ferrari, Amedeo Biavati, Silvio Piola, Gino Colaussi
+Hungary: Antal Szabó, Sándor Bíró, Gyula Polgár, Gyula Lázár, Antal Szalay, 
+   György Szűcs, György Sárosi, Gyula Zsengellér, Pál Titkos, 
+   Ferenc Sas, Jenő Vincze

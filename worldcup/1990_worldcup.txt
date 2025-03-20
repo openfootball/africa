@@ -1,0 +1,819 @@
+= World Cup 1990
+
+  # Matches  52
+  # Teams    24
+
+
+
+» Group stage - Group B
+Fri Jun/8 1990 @ San Siro › Milan, Italy
+  Argentina v Cameroon  0-1
+    François Omam-Biyik 67'
+
+Argentina: Nery Pumpido, Néstor Fabbri, Néstor Lorenzo, 
+   Roberto Néstor Sensini (69' Gabriel Calderón), 
+   Oscar Ruggeri (46' Claudio Caniggia), Juan Simón, Sergio Batista, 
+   José Basualdo, Jorge Burruchaga, Abel Balbo, Diego Maradona
+Cameroon: Thomas N'Kono, Benjamin Massing, Bertin Ebwellé, Emmanuel Kundé, 
+   Stephen Tataw, Victor N'Dip, André Kana-Biyik, Émile Mbouh, 
+   Louis-Paul M'Fédé (66' Thomas Libiih), François Omam-Biyik, 
+   Cyrille Makanaky (81' Roger Milla)
+
+Sent off: Benjamin Massing 9', André Kana-Biyik 61'
+
+
+Sat Jun/9 @ Stadio San Nicola › Bari, Italy
+  Soviet Union v Romania  0-2
+    Marius Lăcătuș 41' Marius Lăcătuș 55'(p)
+
+Soviet Union: Rinat Dasayev, Vagiz Khidiyatullin, Oleh Kuznetsov, 
+   Sergei Gorlukovich, Volodymyr Bezsonov, Vasyl Rats, 
+   Sergei Aleinikov, Gennadiy Litovchenko (66' Ivan Yaremchuk), 
+   Oleksandr Zavarov, Oleh Protasov, 
+   Igor Dobrovolski (71' Aleksandr Borodyuk)
+Romania: Silviu Lung, Mircea Rednic, Michael Klein, Ioan Andone, 
+   Gheorghe Popescu, Iosif Rotariu, Ioan Sabău, Daniel Timofte, 
+   Ioan Lupescu, Marius Lăcătuș (87' Ilie Dumitrescu), 
+   Florin Răducioiu (80' Gabi Balint)
+
+
+» Group stage - Group D
+Sat Jun/9 @ Stadio Renato Dall'Ara › Bologna, Italy
+  United Arab Emirates v Colombia  0-2
+    Bernardo Redín 50' Carlos Valderrama 85'
+
+United Arab Emirates: Muhsin Musabah, Khalil Ghanim, Abdulrahman Mohamed, Ibrahim Meer, 
+   Yousuf Hussain, Ali Thani Jumaa, Hussain Ghuloum, Nasir Khamees, 
+   Eissa Meer (74' Abdualla Sultan), 
+   Fahad Khamees (57' Zuhair Bakheet), Adnan Al-Talyani
+Colombia: René Higuita, Andrés Escobar, Gildardo Gómez, Luis Fernando Herrera, 
+   Luis Carlos Perea, Gabriel Gómez, Carlos Valderrama, 
+   Bernardo Redín, Leonel Álvarez, 
+   Arnoldo Iguarán (75' Carlos Estrada), Freddy Rincón
+
+
+» Group stage - Group A
+Sat Jun/9 @ Stadio Olimpico › Rome, Italy
+  Italy v Austria  1-0
+    Salvatore Schillaci 78'
+
+Italy: Walter Zenga, Franco Baresi, Giuseppe Bergomi, Riccardo Ferri, 
+   Paolo Maldini, Carlo Ancelotti (46' Luigi De Agostini), 
+   Fernando De Napoli, Giuseppe Giannini, Roberto Donadoni, 
+   Andrea Carnevale (75' Salvatore Schillaci), Gianluca Vialli
+Austria: Klaus Lindenberger, Ernst Aigner, Robert Pecl, Peter Schöttel, 
+   Kurt Russ, Michael Streiter, Peter Artner (61' Manfred Zsak), 
+   Manfred Linzmaier (77' Alfred Hörtnagl), Andi Herzog, 
+   Toni Polster, Andreas Ogris
+
+
+Sun Jun/10 @ Stadio Comunale › Florence, Italy
+  United States v Czechoslovakia  1-5
+    Paul Caligiuri 60';
+    Tomáš Skuhravý 26' Michal Bílek 40'(p) Ivan Hašek 50' Tomáš Skuhravý 78' Milan Luhový 90+3'
+
+United States: Tony Meola, Steve Trittschuh, Mike Windischmann, Desmond Armstrong, 
+   John Harkes, Tab Ramos, John Stollmeyer (64' Marcelo Balboa), 
+   Paul Caligiuri, Peter Vermes, Eric Wynalda, 
+   Bruce Murray (79' Christopher Sullivan)
+Czechoslovakia: Jan Stejskal, Miroslav Kadlec, Ivan Hašek, Ján Kocian, 
+   František Straka, Michal Bílek, Jozef Chovanec, Luboš Kubík, 
+   Ľubomír Moravčík (83' Vladimír Weiss), Tomáš Skuhravý, 
+   Ivo Knoflíček (77' Milan Luhový)
+
+Sent off: Eric Wynalda 52'
+
+
+» Group stage - Group C
+Sun Jun/10 @ Stadio delle Alpi › Turin, Italy
+  Brazil v Sweden  2-1
+    Careca 40' Careca 63';
+    Tomas Brolin 79'
+
+Brazil: Cláudio Taffarel, Ricardo Gomes, Carlos Mozer, Mauro Galvão, 
+   Jorginho, Dunga, Alemão, Branco, Valdo (82' Paulo Silas), Careca, 
+   Müller
+Sweden: Thomas Ravelli, Peter Larsson, Roger Ljung (70' Glenn Strömberg), 
+   Roland Nilsson, Stefan Schwarz, Klas Ingesson, Anders Limpar, 
+   Joakim Nilsson, Jonas Thern, Tomas Brolin, 
+   Mats Magnusson (46' Stefan Pettersson)
+
+
+» Group stage - Group D
+Sun Jun/10 @ San Siro › Milan, Italy
+  West Germany v Yugoslavia  4-1
+    Lothar Matthäus 28' Jürgen Klinsmann 39' Lothar Matthäus 64' Rudi Völler 70';
+    Davor Jozić 55'
+
+West Germany: Bodo Illgner, Klaus Augenthaler, Guido Buchwald, Thomas Berthold, 
+   Stefan Reuter, Andreas Brehme, 
+   Thomas Häßler (74' Pierre Littbarski), Lothar Matthäus, 
+   Uwe Bein (74' Andreas Möller), Rudi Völler, Jürgen Klinsmann
+Yugoslavia: Tomislav Ivković, Predrag Spasić, Zoran Vulić, Faruk Hadžibegić, 
+   Davor Jozić, Mirsad Baljić, Safet Sušić (55' Dragoljub Brnović), 
+   Dragan Stojković, Srečko Katanec, Zlatko Vujović, 
+   Dejan Savićević (55' Robert Prosinečki)
+
+
+» Group stage - Group C
+Mon Jun/11 @ Stadio Luigi Ferraris › Genoa, Italy
+  Costa Rica v Scotland  1-0
+    Juan Cayasso 49'
+
+Costa Rica: Luis Gabelo Conejo, Róger Flores, José Carlos Chaves, 
+   Germán Chavarría, Mauricio Montero, Rónald González Brenes, 
+   Oscar Ramírez, Róger Gómez, Claudio Jara (85' Hernán Medford), 
+   Juan Cayasso, Héctor Marchena
+Scotland: Jim Leighton, Alex McLeish, Roy Aitken, 
+   Richard Gough (46' Stewart McKimmie), Maurice Malpas, 
+   David McPherson, Paul McStay, Jim Bett (74' Ally McCoist), 
+   Stuart McCall, Mo Johnston, Alan McInally
+
+
+» Group stage - Group F
+Mon Jun/11 @ Stadio Sant'Elia › Cagliari, Italy
+  England v Republic of Ireland  1-1
+    Gary Lineker 9';
+    Kevin Sheedy 73'
+
+England: Peter Shilton, Gary Stevens, Stuart Pearce, Des Walker, 
+   Terry Butcher, Bryan Robson, Paul Gascoigne, Chris Waddle, 
+   Peter Beardsley (69' Steve McMahon), 
+   Gary Lineker (83' Steve Bull), John Barnes
+Republic of Ireland: Pat Bonner, Chris Morris, Steve Staunton, Mick McCarthy, Kevin Moran, 
+   Paul McGrath, Ray Houghton, Kevin Sheedy, Andy Townsend, 
+   John Aldridge (64' Alan McLoughlin), Tony Cascarino
+
+
+» Group stage - Group E
+Tue Jun/12 @ Stadio Marc'Antonio Bentegodi › Verona, Italy
+  Belgium v South Korea  2-0
+    Marc Degryse 53' Michel De Wolf 64'
+
+Belgium: Michel Preud'homme, Eric Gerets, Leo Clijsters, Stéphane Demol, 
+   Michel De Wolf, Bruno Versavel, Marc Emmers, Franky Van der Elst, 
+   Enzo Scifo, Marc Degryse, Marc Van Der Linden (46' Jan Ceulemans)
+South Korea: In-young Choi, Kyung-hoon Park, Kang-hee Choi, Yong-hwan Chung, 
+   Sang-bum Gu, Soo-jin Noh (62' Tae-ho Lee), Soon-ho Choi, 
+   Myung-bo Hong, Young-jin Lee (46' Min-kook Cho), Joo-sung Kim, 
+   Sun-hong Hwang
+
+
+» Group stage - Group F
+Tue Jun/12 @ Stadio La Favorita › Palermo, Italy
+  Netherlands v Egypt  1-1
+    Wim Kieft 58';
+    Magdi Abdelghani 83'(p)
+
+Netherlands: Hans van Breukelen, Berry van Aerle, Ronald Koeman, 
+   Adri van Tiggelen, Frank Rijkaard, Jan Wouters, 
+   Erwin Koeman (69' Richard Witschge), Graeme Rutjes, 
+   Gerald Vanenburg (46' Wim Kieft), Marco van Basten, Ruud Gullit
+Egypt: Ahmed Shobair, Rabie Yassin, Hany Ramzy, Hesham Yakan, 
+   Ibrahim Hassan, Ismail Youssef, Magdi Abdelghani, 
+   Ahmed Ramzy (69' Magdy Tolba), Ahmed El-Kass, Hossam Hassan, 
+   Gamal Abdel-Hamid (69' Adel Abdel Rahman)
+
+
+» Group stage - Group E
+Wed Jun/13 @ Stadio Friuli › Udine, Italy
+  Uruguay v Spain  0-0
+
+Uruguay: Fernando Álvez, Nelson Gutiérrez, Hugo de León, José Oscar Herrera, 
+   Alfonso Domínguez, José Perdomo, Enzo Francescoli, Rubén Paz, 
+   Ruben Pereira (64' Gabriel Correa), 
+   Antonio Alzamendi (64' Carlos Aguilera), Rubén Sosa
+Spain: Andoni Zubizarreta, Chendo, Manuel Jiménez, Genar Andrinúa, 
+   Manuel Sanchís, Rafael Martín Vázquez, 
+   Francisco Villarroya (79' Alberto Górriz), Roberto, Míchel, 
+   Emilio Butragueño, Manolo (79' Rafael Paz)
+
+
+» Group stage - Group B
+Wed Jun/13 @ Stadio San Paolo › Naples, Italy
+  Argentina v Soviet Union  2-0
+    Pedro Troglio 27' Jorge Burruchaga 79'
+
+Argentina: Nery Pumpido (11' Sergio Goycochea), 
+   Pedro Monzón (79' Néstor Lorenzo), José Serrizuela, Juan Simón, 
+   Sergio Batista, José Basualdo, Jorge Burruchaga, 
+   Julio Olarticoechea, Pedro Troglio, Claudio Caniggia, 
+   Diego Maradona
+Soviet Union: Aleksandr Uvarov, Volodymyr Bezsonov, Vagiz Khidiyatullin, 
+   Oleh Kuznetsov, Sergei Gorlukovich, Sergei Aleinikov, 
+   Oleksandr Zavarov (80' Volodymyr Lyutyi), Andrei Zygmantovich, 
+   Igor Shalimov, Oleh Protasov (75' Gennadiy Litovchenko), 
+   Igor Dobrovolski
+
+Sent off: Volodymyr Bezsonov 48'
+
+
+Thu Jun/14 @ Stadio San Nicola › Bari, Italy
+  Cameroon v Romania  2-1
+    Roger Milla 76' Roger Milla 86';
+    Gabi Balint 88'
+
+Cameroon: Thomas N'Kono, Jules Onana, Bertin Ebwellé, 
+   Emmanuel Kundé (68' Jean-Claude Pagal), Stephen Tataw, 
+   Victor N'Dip, Émile Mbouh, Louis-Paul M'Fédé, 
+   Emmanuel Maboang (58' Roger Milla), François Omam-Biyik, 
+   Cyrille Makanaky
+Romania: Silviu Lung, Mircea Rednic, Michael Klein, Ioan Andone, 
+   Gheorghe Popescu, Iosif Rotariu, Ioan Sabău, 
+   Gheorghe Hagi (55' Ilie Dumitrescu), Daniel Timofte, 
+   Marius Lăcătuș, Florin Răducioiu (63' Gabi Balint)
+
+
+» Group stage - Group D
+Thu Jun/14 @ Stadio Renato Dall'Ara › Bologna, Italy
+  Yugoslavia v Colombia  1-0
+    Davor Jozić 75'
+
+Yugoslavia: Tomislav Ivković, Predrag Spasić, Faruk Hadžibegić, Davor Jozić, 
+   Vujadin Stanojković, Dragoljub Brnović, Safet Sušić, 
+   Srečko Katanec (46' Robert Jarni), Refik Šabanadžović, 
+   Dragan Stojković, Zlatko Vujović (53' Darko Pančev)
+Colombia: René Higuita, Andrés Escobar, Gildardo Gómez, Luis Fernando Herrera, 
+   Luis Carlos Perea, Gabriel Gómez, Carlos Valderrama, 
+   Bernardo Redín (78' Carlos Estrada), Leonel Álvarez, 
+   Arnoldo Iguarán, Freddy Rincón (68' Rubén Darío Hernández)
+
+
+» Group stage - Group A
+Thu Jun/14 @ Stadio Olimpico › Rome, Italy
+  Italy v United States  1-0
+    Giuseppe Giannini 11'
+
+Italy: Walter Zenga, Franco Baresi, Giuseppe Bergomi, Riccardo Ferri, 
+   Paolo Maldini, Nicola Berti, Fernando De Napoli, 
+   Giuseppe Giannini, Roberto Donadoni, 
+   Andrea Carnevale (51' Salvatore Schillaci), Gianluca Vialli
+United States: Tony Meola, John Doyle, Jimmy Banks (80' John Stollmeyer), 
+   Mike Windischmann, Desmond Armstrong, Marcelo Balboa, John Harkes, 
+   Tab Ramos, Paul Caligiuri, Peter Vermes, 
+   Bruce Murray (82' Christopher Sullivan)
+
+
+Fri Jun/15 @ Stadio Comunale › Florence, Italy
+  Austria v Czechoslovakia  0-1
+    Michal Bílek 31'(p)
+
+Austria: Klaus Lindenberger, Ernst Aigner, Robert Pecl, Anton Pfeffer, 
+   Kurt Russ (46' Andreas Ogris), 
+   Peter Schöttel (46' Michael Streiter), Manfred Zsak, 
+   Alfred Hörtnagl, Andi Herzog, Toni Polster, Gerhard Rodax
+Czechoslovakia: Jan Stejskal, Miroslav Kadlec, Ivan Hašek, Ján Kocian, 
+   Ľubomír Moravčík, Václav Němeček, Michal Bílek, 
+   Jozef Chovanec (31' Július Bielik), Luboš Kubík, Tomáš Skuhravý, 
+   Ivo Knoflíček (81' Vladimír Weiss)
+
+
+» Group stage - Group D
+Fri Jun/15 @ San Siro › Milan, Italy
+  West Germany v United Arab Emirates  5-1
+    Rudi Völler 35' Jürgen Klinsmann 37' Lothar Matthäus 47' Uwe Bein 58' Rudi Völler 75';
+    Khalid Ismaïl 46'
+
+West Germany: Bodo Illgner, Klaus Augenthaler, Guido Buchwald, 
+   Thomas Berthold (46' Pierre Littbarski), Stefan Reuter, 
+   Andreas Brehme, Thomas Häßler, Lothar Matthäus, Uwe Bein, 
+   Rudi Völler, Jürgen Klinsmann (71' Karl-Heinz Riedle)
+United Arab Emirates: Muhsin Musabah, Khalil Ghanim, Abdulrahman Mohamed, 
+   Ibrahim Meer (87' Abdulrahman Al-Haddad), Yousuf Hussain, 
+   Khalid Ismaïl (82' Hassan Mohamed), Hussain Ghuloum, 
+   Nasir Khamees, Eissa Meer, Ali Thani Jumaa, Adnan Al-Talyani
+
+
+» Group stage - Group C
+Sat Jun/16 @ Stadio delle Alpi › Turin, Italy
+  Brazil v Costa Rica  1-0
+    Müller 33'
+
+Brazil: Cláudio Taffarel, Ricardo Gomes, Carlos Mozer, Mauro Galvão, 
+   Jorginho, Dunga, Alemão, Branco, Valdo (86' Paulo Silas), 
+   Careca (83' Bebeto), Müller
+Costa Rica: Luis Gabelo Conejo, Róger Flores, José Carlos Chaves, 
+   Germán Chavarría, Mauricio Montero, Rónald González Brenes, 
+   Oscar Ramírez, Róger Gómez, Claudio Jara (71' Roy Myers), 
+   Juan Cayasso (78' Alexandre Guimarães), Héctor Marchena
+
+
+Sat Jun/16 @ Stadio Luigi Ferraris › Genoa, Italy
+  Sweden v Scotland  1-2
+    Glenn Strömberg 86';
+    Stuart McCall 11' Mo Johnston 81'(p)
+
+Sweden: Thomas Ravelli, Glenn Hysén, Peter Larsson (75' Glenn Strömberg), 
+   Roland Nilsson, Stefan Schwarz, Klas Ingesson, Anders Limpar, 
+   Joakim Nilsson, Jonas Thern, Tomas Brolin, 
+   Stefan Pettersson (62' Johnny Ekström)
+Scotland: Jim Leighton, Alex McLeish, Maurice Malpas, Craig Levein, 
+   David McPherson, Roy Aitken, Murdo MacLeod, 
+   Gordon Durie (75' Paul McStay), Stuart McCall, Mo Johnston, 
+   Robert Fleck (84' Ally McCoist)
+
+
+» Group stage - Group F
+Sat Jun/16 @ Stadio Sant'Elia › Cagliari, Italy
+  England v Netherlands  0-0
+
+England: Peter Shilton, Stuart Pearce, Des Walker, Terry Butcher, Paul Parker, 
+   Mark Wright, Bryan Robson (64' David Platt), 
+   Chris Waddle (58' Steve Bull), John Barnes, Paul Gascoigne, 
+   Gary Lineker
+Netherlands: Hans van Breukelen, Berry van Aerle, Frank Rijkaard, Ronald Koeman, 
+   Adri van Tiggelen, Jan Wouters, Ruud Gullit, Richard Witschge, 
+   John van 't Schip (74' Wim Kieft), Hans Gillhaus, Marco van Basten
+
+
+Sun Jun/17 @ Stadio La Favorita › Palermo, Italy
+  Republic of Ireland v Egypt  0-0
+
+Republic of Ireland: Pat Bonner, Chris Morris, Steve Staunton, Mick McCarthy, Kevin Moran, 
+   Paul McGrath, Ray Houghton, Kevin Sheedy, Andy Townsend, 
+   John Aldridge (64' Alan McLoughlin), 
+   Tony Cascarino (84' Niall Quinn)
+Egypt: Ahmed Shobair, Ibrahim Hassan, Rabie Yassin, Hany Ramzy, 
+   Hesham Yakan, Ismail Youssef, Magdi Abdelghani, 
+   Magdy Tolba (60' Taher Abouzeid), Osama Orabi, Hossam Hassan, 
+   Ahmed El-Kass (76' Gamal Abdel-Hamid)
+
+
+» Group stage - Group E
+Sun Jun/17 @ Stadio Marc'Antonio Bentegodi › Verona, Italy
+  Belgium v Uruguay  3-1
+    Leo Clijsters 15' Enzo Scifo 24' Jan Ceulemans 47';
+    Pablo Bengoechea 73'
+
+Belgium: Michel Preud'homme, Eric Gerets, Stéphane Demol, Georges Grün, 
+   Michel De Wolf, Leo Clijsters (46' Marc Emmers), 
+   Bruno Versavel (75' Patrick Vervoort), Franky Van der Elst, 
+   Enzo Scifo, Marc Degryse, Jan Ceulemans
+Uruguay: Fernando Álvez, Nelson Gutiérrez, Hugo de León, Alfonso Domínguez, 
+   José Oscar Herrera, José Perdomo, 
+   Santiago Ostolaza (56' Pablo Bengoechea), Enzo Francescoli, 
+   Rubén Paz, Antonio Alzamendi (46' Carlos Aguilera), Rubén Sosa
+
+Sent off: Eric Gerets 35'
+
+
+Sun Jun/17 @ Stadio Friuli › Udine, Italy
+  South Korea v Spain  1-3
+    Kwan Hwangbo 43';
+    Míchel 23' Míchel 61' Míchel 81'
+
+South Korea: In-young Choi, Kyung-hoon Park (68' Jong-soo Chung), Kang-hee Choi, 
+   Deok-yeo Yoon, Sang-bum Gu, Hae-won Chung (52' Soo-jin Noh), 
+   Soon-ho Choi, Joo-sung Kim, Myung-bo Hong, Kwan Hwangbo, 
+   Byung-joo Byun
+Spain: Andoni Zubizarreta, Chendo, Genar Andrinúa, Manuel Sanchís, 
+   Alberto Górriz, Rafael Martín Vázquez, Francisco Villarroya, 
+   Roberto (81' José María Bakero), Míchel, 
+   Emilio Butragueño (76' Fernando), Julio Salinas
+
+
+» Group stage - Group B
+Mon Jun/18 @ Stadio San Paolo › Naples, Italy
+  Argentina v Romania  1-1
+    Pedro Monzón 62';
+    Gabi Balint 68'
+
+Argentina: Sergio Goycochea, Pedro Monzón, José Serrizuela, Juan Simón, 
+   Sergio Batista, José Basualdo, 
+   Jorge Burruchaga (60' Gustavo Dezotti), Julio Olarticoechea, 
+   Pedro Troglio (53' Ricardo Giusti), Claudio Caniggia, 
+   Diego Maradona
+Romania: Silviu Lung, Mircea Rednic, Michael Klein, Ioan Andone, 
+   Gheorghe Popescu, Iosif Rotariu, Ioan Sabău (82' Dorin Mateuț), 
+   Gheorghe Hagi, Ioan Lupescu, Marius Lăcătuș, 
+   Gabi Balint (72' Dănuț Lupu)
+
+
+Mon Jun/18 @ Stadio San Nicola › Bari, Italy
+  Cameroon v Soviet Union  0-4
+    Oleh Protasov 20' Andrei Zygmantovich 29' Oleksandr Zavarov 52' Igor Dobrovolski 63'
+
+Cameroon: Thomas N'Kono, Jules Onana, Bertin Ebwellé, 
+   Emmanuel Kundé (34' Roger Milla), Stephen Tataw, Victor N'Dip, 
+   André Kana-Biyik, Émile Mbouh, Louis-Paul M'Fédé, 
+   François Omam-Biyik, Cyrille Makanaky (56' Jean-Claude Pagal)
+Soviet Union: Aleksandr Uvarov, Vagiz Khidiyatullin, Oleh Kuznetsov, 
+   Anatoliy Demyanenko, Sergei Gorlukovich, Sergei Aleinikov, 
+   Oleh Protasov, Andrei Zygmantovich, 
+   Igor Shalimov (46' Oleksandr Zavarov), 
+   Gennadiy Litovchenko (72' Ivan Yaremchuk), Igor Dobrovolski
+
+
+» Group stage - Group D
+Tue Jun/19 @ San Siro › Milan, Italy
+  West Germany v Colombia  1-1
+    Pierre Littbarski 88';
+    Freddy Rincón 90+3'
+
+West Germany: Bodo Illgner, Klaus Augenthaler, Guido Buchwald, Thomas Berthold, 
+   Hans Pflügler, Stefan Reuter, Thomas Häßler (88' Olaf Thon), 
+   Lothar Matthäus, Uwe Bein (46' Pierre Littbarski), Rudi Völler, 
+   Jürgen Klinsmann
+Colombia: René Higuita, Andrés Escobar, Gildardo Gómez, Luis Fernando Herrera, 
+   Luis Carlos Perea, Carlos Estrada, Gabriel Gómez, 
+   Carlos Valderrama, Leonel Álvarez, Luis Fajardo, Freddy Rincón
+
+
+Tue Jun/19 @ Stadio Renato Dall'Ara › Bologna, Italy
+  Yugoslavia v United Arab Emirates  4-1
+    Safet Sušić 5' Darko Pančev 9' Darko Pančev 46' Robert Prosinečki 90+3';
+    Ali Thani Jumaa 22'
+
+Yugoslavia: Tomislav Ivković, Vujadin Stanojković, Predrag Spasić, 
+   Faruk Hadžibegić, Davor Jozić, Dragoljub Brnović, Safet Sušić, 
+   Dragan Stojković, Refik Šabanadžović (78' Robert Prosinečki), 
+   Darko Pančev, Zlatko Vujović (64' Zoran Vulić)
+United Arab Emirates: Muhsin Musabah, Khalil Ghanim, Abdulrahman Mohamed, Ibrahim Meer, 
+   Eissa Meer, Khalid Ismaïl, Hussain Ghuloum, 
+   Nasir Khamees (35' Abdualla Sultan), Abdulrahman Al-Haddad, 
+   Ali Thani Jumaa (46' Fahad Khamees), Adnan Al-Talyani
+
+Sent off: Khalil Ghanim 76'
+
+
+» Group stage - Group A
+Tue Jun/19 @ Stadio Comunale › Florence, Italy
+  Austria v United States  2-1
+    Andreas Ogris 49' Gerhard Rodax 63';
+    Bruce Murray 83'
+
+Austria: Klaus Lindenberger, Ernst Aigner, Robert Pecl, Anton Pfeffer, 
+   Manfred Zsak, Peter Artner, Andreas Ogris, Michael Streiter, 
+   Andi Herzog, Toni Polster (46' Andreas Reisinger), 
+   Gerhard Rodax (86' Gerald Glatzmayer)
+United States: Tony Meola, John Doyle, Jimmy Banks (55' Eric Wynalda), 
+   Mike Windischmann, Desmond Armstrong, Marcelo Balboa, John Harkes, 
+   Tab Ramos, Paul Caligiuri (70' Brian Bliss), Peter Vermes, 
+   Bruce Murray
+
+Sent off: Peter Artner 33'
+
+
+Tue Jun/19 @ Stadio Olimpico › Rome, Italy
+  Italy v Czechoslovakia  2-0
+    Salvatore Schillaci 9' Roberto Baggio 78'
+
+Italy: Walter Zenga, Franco Baresi, Giuseppe Bergomi, Riccardo Ferri, 
+   Paolo Maldini, Nicola Berti, 
+   Fernando De Napoli (65' Pietro Vierchowod), Giuseppe Giannini, 
+   Roberto Donadoni (51' Luigi De Agostini), Roberto Baggio, 
+   Salvatore Schillaci
+Czechoslovakia: Jan Stejskal, Miroslav Kadlec, Vladimír Kinier, 
+   Václav Němeček (46' Július Bielik), Ivan Hašek, Michal Bílek, 
+   Jozef Chovanec, Ľubomír Moravčík, 
+   Vladimír Weiss (58' Stanislav Griga), Tomáš Skuhravý, Ivo Knoflíček
+
+
+» Group stage - Group C
+Wed Jun/20 @ Stadio delle Alpi › Turin, Italy
+  Brazil v Scotland  1-0
+    Müller 81'
+
+Brazil: Cláudio Taffarel, Ricardo Gomes, Ricardo Rocha, Mauro Galvão, 
+   Jorginho, Dunga, Alemão, Branco, Valdo, Careca, 
+   Romário (65' Müller)
+Scotland: Jim Leighton, Alex McLeish, Roy Aitken, Maurice Malpas, 
+   Stewart McKimmie, David McPherson, Paul McStay, 
+   Murdo MacLeod (39' Gary Gillespie), Stuart McCall, Mo Johnston, 
+   Ally McCoist (79' Robert Fleck)
+
+
+Wed Jun/20 @ Stadio Luigi Ferraris › Genoa, Italy
+  Sweden v Costa Rica  1-2
+    Johnny Ekström 32';
+    Róger Flores 75' Hernán Medford 87'
+
+Sweden: Thomas Ravelli, Glenn Hysén, Roland Nilsson, Stefan Schwarz, 
+   Peter Larsson, Klas Ingesson, Joakim Nilsson, 
+   Glenn Strömberg (81' Leif Engqvist), Stefan Pettersson, 
+   Tomas Brolin (34' Mats Gren), Johnny Ekström
+Costa Rica: Luis Gabelo Conejo, Róger Flores, José Carlos Chaves, 
+   Germán Chavarría (73' Alexandre Guimarães), Mauricio Montero, 
+   Rónald González Brenes, Oscar Ramírez, 
+   Róger Gómez (60' Hernán Medford), Juan Cayasso, Claudio Jara, 
+   Héctor Marchena
+
+
+» Group stage - Group E
+Thu Jun/21 @ Stadio Marc'Antonio Bentegodi › Verona, Italy
+  Belgium v Spain  1-2
+    Patrick Vervoort 29';
+    Míchel 26'(p) Alberto Górriz 38'
+
+Belgium: Michel Preud'homme, Philippe Albert, Stéphane Demol, Michel De Wolf, 
+   Marc Emmers (31' Pascal Plovie), Franky Van der Elst, Enzo Scifo, 
+   Lorenzo Staelens (78' Marc Van Der Linden), Patrick Vervoort, 
+   Marc Degryse, Jan Ceulemans
+Spain: Andoni Zubizarreta, Genar Andrinúa, Manuel Sanchís, Alberto Górriz, 
+   Chendo, Rafael Martín Vázquez, Francisco Villarroya, Roberto, 
+   Míchel, Emilio Butragueño (82' Rafael Alkorta), 
+   Julio Salinas (88' Miguel Pardeza)
+
+
+Thu Jun/21 @ Stadio Friuli › Udine, Italy
+  South Korea v Uruguay  0-1
+    Daniel Fonseca 90+1'
+
+South Korea: In-young Choi, Kyung-hoon Park, Kang-hee Choi, Deok-yeo Yoon, 
+   Jong-soo Chung, Heung-sil Lee, Soon-ho Choi, Joo-sung Kim, 
+   Myung-bo Hong, Kwan Hwangbo (79' Hae-won Chung), 
+   Byung-joo Byun (43' Sun-hong Hwang)
+Uruguay: Fernando Álvez, Nelson Gutiérrez, Hugo de León, José Oscar Herrera, 
+   Alfonso Domínguez, José Perdomo, 
+   Santiago Ostolaza (46' Carlos Aguilera), Enzo Francescoli, 
+   Rubén Paz, Rubén Sosa (62' Daniel Fonseca), Sergio Martínez
+
+Sent off: Deok-yeo Yoon 49'
+
+
+» Group stage - Group F
+Thu Jun/21 @ Stadio Sant'Elia › Cagliari, Italy
+  England v Egypt  1-0
+    Mark Wright 58'
+
+England: Peter Shilton, Stuart Pearce, Des Walker, Paul Parker, Mark Wright, 
+   Steve McMahon, Paul Gascoigne, Chris Waddle (86' David Platt), 
+   Gary Lineker, John Barnes, Steve Bull (84' Peter Beardsley)
+Egypt: Ahmed Shobair, Ibrahim Hassan, Rabie Yassin, Hany Ramzy, 
+   Hesham Yakan, Ismail Youssef, Magdi Abdelghani, 
+   Gamal Abdel-Hamid (77' Adel Abdel Rahman), Ahmed Ramzy, 
+   Ahmed El-Kass (77' Tarek Soliman), Hossam Hassan
+
+
+Thu Jun/21 @ Stadio La Favorita › Palermo, Italy
+  Republic of Ireland v Netherlands  1-1
+    Niall Quinn 71';
+    Ruud Gullit 11'
+
+Republic of Ireland: Pat Bonner, Chris Morris, Steve Staunton, Mick McCarthy, Kevin Moran, 
+   Paul McGrath, Ray Houghton, Kevin Sheedy (62' Ronnie Whelan), 
+   Andy Townsend, John Aldridge (62' Tony Cascarino), Niall Quinn
+Netherlands: Hans van Breukelen, Berry van Aerle, Frank Rijkaard, Ronald Koeman, 
+   Adri van Tiggelen, Jan Wouters, Ruud Gullit, 
+   Richard Witschge (58' Henk Fraser), Wim Kieft (78' John van Loen), 
+   Marco van Basten, Hans Gillhaus
+
+
+» Round of 16
+Sat Jun/23 @ Stadio San Paolo › Naples, Italy
+  Cameroon v Colombia  2-1 [aet]
+    Roger Milla 106' Roger Milla 108';
+    Bernardo Redín 115'
+
+Cameroon: Thomas N'Kono, Jules Onana, Bertin Ebwellé, Stephen Tataw, 
+   Victor N'Dip, André Kana-Biyik, Émile Mbouh, 
+   Louis-Paul M'Fédé (54' Roger Milla), Emmanuel Maboang, 
+   François Omam-Biyik, Cyrille Makanaky (69' Bonaventure Djonkep)
+Colombia: René Higuita, Andrés Escobar, Gildardo Gómez, Luis Fernando Herrera, 
+   Luis Carlos Perea, Gabriel Gómez (79' Bernardo Redín), 
+   Carlos Valderrama, Leonel Álvarez, 
+   Luis Fajardo (63' Arnoldo Iguarán), Carlos Estrada, Freddy Rincón
+
+
+Sat Jun/23 @ Stadio San Nicola › Bari, Italy
+  Czechoslovakia v Costa Rica  4-1
+    Tomáš Skuhravý 12' Tomáš Skuhravý 63' Luboš Kubík 76' Tomáš Skuhravý 82';
+    Rónald González Brenes 55'
+
+Czechoslovakia: Jan Stejskal, Miroslav Kadlec, Ján Kocian, František Straka, 
+   Ivan Hašek, Michal Bílek, Jozef Chovanec, Luboš Kubík, 
+   Ľubomír Moravčík, Tomáš Skuhravý, Ivo Knoflíček
+Costa Rica: Hermidio Barrantes, Róger Flores, Marvin Obando (46' Hernán Medford), 
+   José Carlos Chaves, Germán Chavarría (65' Alexandre Guimarães), 
+   Mauricio Montero, Rónald González Brenes, Juan Cayasso, 
+   Héctor Marchena, Oscar Ramírez, Claudio Jara
+
+
+Sun Jun/24 @ Stadio delle Alpi › Turin, Italy
+  Brazil v Argentina  0-1
+    Claudio Caniggia 81'
+
+Brazil: Cláudio Taffarel, Ricardo Gomes, Ricardo Rocha, 
+   Mauro Galvão (84' Paulo Silas), Jorginho, Dunga, 
+   Alemão (84' Renato Gaúcho), Branco, Valdo, Careca, Müller
+Argentina: Sergio Goycochea, Pedro Monzón, Oscar Ruggeri, Juan Simón, 
+   José Basualdo, Jorge Burruchaga, Ricardo Giusti, 
+   Julio Olarticoechea, Pedro Troglio (61' Gabriel Calderón), 
+   Claudio Caniggia, Diego Maradona
+
+Sent off: Ricardo Gomes 85'
+
+
+Sun Jun/24 @ San Siro › Milan, Italy
+  West Germany v Netherlands  2-1
+    Jürgen Klinsmann 51' Andreas Brehme 85';
+    Ronald Koeman 89'(p)
+
+West Germany: Bodo Illgner, Stefan Reuter, Andreas Brehme, Jürgen Kohler, 
+   Klaus Augenthaler, Thomas Berthold, Guido Buchwald, 
+   Pierre Littbarski, Lothar Matthäus, Rudi Völler, 
+   Jürgen Klinsmann (77' Karl-Heinz Riedle)
+Netherlands: Hans van Breukelen, Berry van Aerle (66' Wim Kieft), Frank Rijkaard, 
+   Ronald Koeman, Adri van Tiggelen, Jan Wouters, 
+   Richard Witschge (78' Hans Gillhaus), John van 't Schip, 
+   Aron Winter, Marco van Basten, Ruud Gullit
+
+Sent off: Rudi Völler 21', Frank Rijkaard 21'
+
+
+Mon Jun/25 @ Stadio Luigi Ferraris › Genoa, Italy
+  Republic of Ireland v Romania  0-0 [aet; 5-4 on pens]
+
+Republic of Ireland: Pat Bonner, Chris Morris, Steve Staunton (94' David O'Leary), 
+   Mick McCarthy, Kevin Moran, Paul McGrath, Ray Houghton, 
+   Kevin Sheedy, Andy Townsend, John Aldridge (22' Tony Cascarino), 
+   Niall Quinn
+Romania: Silviu Lung, Ioan Andone, Gheorghe Popescu, Ioan Lupescu, 
+   Mircea Rednic, Michael Klein, Iosif Rotariu, 
+   Ioan Sabău (98' Daniel Timofte), Gheorghe Hagi, 
+   Florin Răducioiu (74' Dănuț Lupu), Gabi Balint
+
+Penalties: Kevin Sheedy, Ray Houghton, Andy Townsend, Tony Cascarino, David O'Leary;
+           Gheorghe Hagi, Dănuț Lupu, Iosif Rotariu, Ioan Lupescu, Daniel Timofte (X)
+
+
+Mon Jun/25 @ Stadio Olimpico › Rome, Italy
+  Italy v Uruguay  2-0
+    Salvatore Schillaci 65' Aldo Serena 83'
+
+Italy: Walter Zenga, Franco Baresi, Giuseppe Bergomi, Riccardo Ferri, 
+   Luigi De Agostini, Paolo Maldini, Nicola Berti (52' Aldo Serena), 
+   Fernando De Napoli, Giuseppe Giannini, 
+   Roberto Baggio (79' Pietro Vierchowod), Salvatore Schillaci
+Uruguay: Fernando Álvez, Nelson Gutiérrez, Hugo de León, Alfonso Domínguez, 
+   José Pintos Saldanha, José Perdomo, 
+   Santiago Ostolaza (79' Antonio Alzamendi), Enzo Francescoli, 
+   Ruben Pereira, Carlos Aguilera (55' Rubén Sosa), Daniel Fonseca
+
+
+Tue Jun/26 @ Stadio Marc'Antonio Bentegodi › Verona, Italy
+  Spain v Yugoslavia  1-2 [aet]
+    Julio Salinas 84';
+    Dragan Stojković 78' Dragan Stojković 93'
+
+Spain: Andoni Zubizarreta, Genar Andrinúa (49' Manuel Jiménez), 
+   Manuel Sanchís, Alberto Górriz, Chendo, Rafael Martín Vázquez, 
+   Francisco Villarroya, Roberto, Míchel, 
+   Emilio Butragueño (79' Rafael Paz), Julio Salinas
+Yugoslavia: Tomislav Ivković, Predrag Spasić, Faruk Hadžibegić, 
+   Refik Šabanadžović, Davor Jozić, Dragoljub Brnović, Safet Sušić, 
+   Dragan Stojković, Srečko Katanec (79' Zoran Vulić), 
+   Darko Pančev (55' Dejan Savićević), Zlatko Vujović
+
+
+Tue Jun/26 @ Stadio Renato Dall'Ara › Bologna, Italy
+  England v Belgium  1-0 [aet]
+    David Platt 119'
+
+England: Peter Shilton, Stuart Pearce, Des Walker, Terry Butcher, Paul Parker, 
+   Mark Wright, Chris Waddle, John Barnes (74' Steve Bull), 
+   Steve McMahon (71' David Platt), Paul Gascoigne, Gary Lineker
+Belgium: Michel Preud'homme, Eric Gerets, Stéphane Demol, Georges Grün, 
+   Michel De Wolf, Leo Clijsters, 
+   Bruno Versavel (107' Patrick Vervoort), Franky Van der Elst, 
+   Enzo Scifo, Marc Degryse (64' Nico Claesen), Jan Ceulemans
+
+
+» Quarter-finals
+Sat Jun/30 @ Stadio Comunale › Florence, Italy
+  Argentina v Yugoslavia  0-0 [aet; 3-2 on pens]
+
+Argentina: Sergio Goycochea, José Serrizuela, Oscar Ruggeri, Juan Simón, 
+   José Basualdo, Gabriel Calderón (87' Gustavo Dezotti), 
+   Jorge Burruchaga, Ricardo Giusti, 
+   Julio Olarticoechea (51' Pedro Troglio), Claudio Caniggia, 
+   Diego Maradona
+Yugoslavia: Tomislav Ivković, Predrag Spasić, Zoran Vulić, Faruk Hadžibegić, 
+   Refik Šabanadžović, Davor Jozić, Dragoljub Brnović, 
+   Safet Sušić (61' Dejan Savićević), Dragan Stojković, 
+   Robert Prosinečki, Zlatko Vujović
+
+Penalties: José Serrizuela, Jorge Burruchaga, Diego Maradona (X), Pedro Troglio (X), Gustavo Dezotti;
+           Dragan Stojković (X), Robert Prosinečki, Dejan Savićević, Dragoljub Brnović (X), Faruk Hadžibegić (X)
+
+Sent off: Refik Šabanadžović 24'
+
+
+Sat Jun/30 @ Stadio Olimpico › Rome, Italy
+  Republic of Ireland v Italy  0-1
+    Salvatore Schillaci 38'
+
+Republic of Ireland: Pat Bonner, Chris Morris, Steve Staunton, Mick McCarthy, Kevin Moran, 
+   Paul McGrath, Ray Houghton, Kevin Sheedy, Andy Townsend, 
+   John Aldridge (78' John Sheridan), Niall Quinn (53' Tony Cascarino)
+Italy: Walter Zenga, Franco Baresi, Giuseppe Bergomi, Riccardo Ferri, 
+   Luigi De Agostini, Paolo Maldini, Fernando De Napoli, 
+   Giuseppe Giannini (62' Carlo Ancelotti), Roberto Donadoni, 
+   Roberto Baggio (70' Aldo Serena), Salvatore Schillaci
+
+
+Sun Jul/1 @ San Siro › Milan, Italy
+  Czechoslovakia v West Germany  0-1
+    Lothar Matthäus 25'(p)
+
+Czechoslovakia: Jan Stejskal, Miroslav Kadlec, Ivan Hašek, Ján Kocian, 
+   František Straka, Michal Bílek (67' Václav Němeček), 
+   Jozef Chovanec, Luboš Kubík (79' Stanislav Griga), 
+   Ľubomír Moravčík, Tomáš Skuhravý, Ivo Knoflíček
+West Germany: Bodo Illgner, Andreas Brehme, Jürgen Kohler, Klaus Augenthaler, 
+   Guido Buchwald, Thomas Berthold, Pierre Littbarski, 
+   Lothar Matthäus, Uwe Bein (82' Andreas Möller), Karl-Heinz Riedle, 
+   Jürgen Klinsmann
+
+Sent off: Ľubomír Moravčík 11'
+
+
+Sun Jul/1 @ Stadio San Paolo › Naples, Italy
+  Cameroon v England  2-3 [aet]
+    Emmanuel Kundé 61'(p) Eugène Ekéké 65';
+    David Platt 25' Gary Lineker 83'(p) Gary Lineker 105'(p)
+
+Cameroon: Thomas N'Kono, Benjamin Massing, Bertin Ebwellé, Emmanuel Kundé, 
+   Stephen Tataw, Louis-Paul M'Fédé (62' Eugène Ekéké), 
+   Jean-Claude Pagal, Thomas Libiih, 
+   Emmanuel Maboang (46' Roger Milla), François Omam-Biyik, 
+   Cyrille Makanaky
+England: Peter Shilton, Stuart Pearce, Des Walker, 
+   Terry Butcher (73' Trevor Steven), Paul Parker, Mark Wright, 
+   David Platt, Paul Gascoigne, Chris Waddle, Gary Lineker, 
+   John Barnes (46' Peter Beardsley)
+
+
+» Semi-finals
+Tue Jul/3 @ Stadio San Paolo › Naples, Italy
+  Argentina v Italy  1-1 [aet; 4-3 on pens]
+    Claudio Caniggia 67';
+    Salvatore Schillaci 17'
+
+Argentina: Sergio Goycochea, José Serrizuela, Oscar Ruggeri, Juan Simón, 
+   José Basualdo (99' Sergio Batista), 
+   Gabriel Calderón (46' Pedro Troglio), Jorge Burruchaga, 
+   Ricardo Giusti, Julio Olarticoechea, Claudio Caniggia, 
+   Diego Maradona
+Italy: Walter Zenga, Franco Baresi, Giuseppe Bergomi, Riccardo Ferri, 
+   Luigi De Agostini, Paolo Maldini, Fernando De Napoli, 
+   Giuseppe Giannini (73' Roberto Baggio), Roberto Donadoni, 
+   Salvatore Schillaci, Gianluca Vialli (70' Aldo Serena)
+
+Penalties: José Serrizuela, Jorge Burruchaga, Julio Olarticoechea, Diego Maradona;
+           Franco Baresi, Roberto Baggio, Luigi De Agostini, Roberto Donadoni (X), Aldo Serena (X)
+
+Sent off: Ricardo Giusti 30'
+
+
+Wed Jul/4 @ Stadio delle Alpi › Turin, Italy
+  West Germany v England  1-1 [aet; 4-3 on pens]
+    Andreas Brehme 60';
+    Gary Lineker 80'
+
+West Germany: Bodo Illgner, Andreas Brehme, Jürgen Kohler, Klaus Augenthaler, 
+   Guido Buchwald, Thomas Berthold, 
+   Thomas Häßler (66' Stefan Reuter), Lothar Matthäus, Olaf Thon, 
+   Rudi Völler (38' Karl-Heinz Riedle), Jürgen Klinsmann
+England: Peter Shilton, Stuart Pearce, Des Walker, 
+   Terry Butcher (70' Trevor Steven), Paul Parker, Mark Wright, 
+   Chris Waddle, Peter Beardsley, David Platt, Paul Gascoigne, 
+   Gary Lineker
+
+Penalties: Andreas Brehme, Lothar Matthäus, Karl-Heinz Riedle, Olaf Thon;
+           Gary Lineker, Peter Beardsley, David Platt, Stuart Pearce (X), Chris Waddle (X)
+
+
+» Third-place match
+Sat Jul/7 @ Stadio San Nicola › Bari, Italy
+  Italy v England  2-1
+    Roberto Baggio 71' Salvatore Schillaci 86'(p);
+    David Platt 81'
+
+Italy: Walter Zenga, Franco Baresi, Giuseppe Bergomi, Ciro Ferrara, 
+   Paolo Maldini, Pietro Vierchowod, 
+   Luigi De Agostini (67' Nicola Berti), Carlo Ancelotti, 
+   Giuseppe Giannini (90' Riccardo Ferri), Roberto Baggio, 
+   Salvatore Schillaci
+England: Peter Shilton, Gary Stevens, Des Walker, Paul Parker, 
+   Mark Wright (71' Neil Webb), Tony Dorigo, 
+   Steve McMahon (71' Chris Waddle), David Platt, Trevor Steven, 
+   Peter Beardsley, Gary Lineker
+
+
+» Final
+Sun Jul/8 @ Stadio Olimpico › Rome, Italy
+  West Germany v Argentina  1-0
+    Andreas Brehme 85'(p)
+
+West Germany: Bodo Illgner, Andreas Brehme, Jürgen Kohler, Klaus Augenthaler, 
+   Guido Buchwald, Thomas Berthold (73' Stefan Reuter), 
+   Pierre Littbarski, Thomas Häßler, Lothar Matthäus, Rudi Völler, 
+   Jürgen Klinsmann
+Argentina: Sergio Goycochea, José Serrizuela, Oscar Ruggeri (46' Pedro Monzón), 
+   Juan Simón, José Basualdo, 
+   Jorge Burruchaga (53' Gabriel Calderón), Néstor Lorenzo, 
+   Roberto Néstor Sensini, Pedro Troglio, Gustavo Dezotti, 
+   Diego Maradona
+
+Sent off: Gustavo Dezotti 5', Pedro Monzón 65'
